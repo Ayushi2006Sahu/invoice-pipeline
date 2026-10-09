@@ -64,6 +64,12 @@ def is_future_invoice_date(d: date, policy: Policy = DEFAULT_POLICY) -> bool:
     return (d - policy.as_of_date).days > policy.max_future_days
 
 
+def normalize_invoice_no(invoice_no: str) -> str:
+    """Used only for duplicate comparison, not for format validation."""
+    return invoice_no.strip().upper()
+def is_valid_invoice_id(invoice_no: str, policy: Policy = DEFAULT_POLICY) -> bool:
+    """Strict check on the ID exactly as printed (case-sensitive)."""
+    return re.fullmatch(policy.invoice_id_pattern, invoice_no) is not None
 def normalize_vendor(name: str) -> str:
     s = re.sub(r"[^\w\s]", " ", name.lower())
     s = re.sub(r"\bprivate\b", "pvt", s)
@@ -86,7 +92,7 @@ def classify_duplicate(earlier: DocKey, later: DocKey) -> str | None:
     """
     if normalize_vendor(earlier.vendor) != normalize_vendor(later.vendor):
         return None
-    if earlier.invoice_no != later.invoice_no:
+    if normalize_invoice_no(earlier.invoice_no) != normalize_invoice_no(later.invoice_no):
         return None
     if (earlier.invoice_date, earlier.total) == (later.invoice_date, later.total):
         return "DUPLICATE_INVOICE"
