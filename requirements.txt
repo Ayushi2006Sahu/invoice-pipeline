@@ -1,0 +1,5 @@
+pytest
+faker
+pdfplumber
+requests
+reportlab
