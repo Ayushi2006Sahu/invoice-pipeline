@@ -1,4 +1,4 @@
-﻿"""Evaluate one pipeline run against ground truth. Read-only on the database.
+"""Evaluate one pipeline run against ground truth. Read-only on the database.
 Three metric families, deliberately never merged into one "accuracy":
   1. extraction accuracy   per field: correct / missing / wrong
   2. auto-approved quality how many auto-approved documents were actually fine
@@ -244,6 +244,10 @@ def render_markdown(rep: dict) -> str:
     run, c, e = rep["run"], rep["counts"], rep["extraction"]
     pol = run["policy"]
     L = [f"# Evaluation: {rep['dataset']} / {run['extractor']}", ""]
+    if str(run["extractor"]).startswith("llm-mock"):
+        L += ["> **Plumbing check, not a model result.** These numbers come from a scripted mock "
+              "client that answers from the ground truth. They verify the extractor interface and "
+              "pipeline integration; they do not measure real LLM extraction accuracy.", ""]
     L += [f"- Run {run['run_id']}, extractor `{run['extractor']}`"
           + (f", model `{run['model']}`" if run["model"] else ""),
           f"- Policy: as-of {pol.get('as_of_date')}, rounding tolerance {pol.get('rounding_tolerance')}, "
