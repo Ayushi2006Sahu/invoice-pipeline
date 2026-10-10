@@ -1,0 +1,476 @@
+{
+  "dataset": "heldout",
+  "run": {
+    "run_id": 1,
+    "extractor": "regex",
+    "model": null,
+    "started_at": "2026-10-10T16:54:44.070848+00:00",
+    "policy": {
+      "as_of_date": "2026-10-10",
+      "rounding_tolerance": "0.01",
+      "confidence_threshold": 0.8,
+      "allow_future_invoice_date": false,
+      "max_future_days": 0,
+      "due_date_required": false,
+      "invoice_id_pattern": "^[A-Z]{2,4}-\\d{4}-\\d{3,6}$",
+      "date_order": "DMY",
+      "garbled_max_junk_ratio": 0.05,
+      "garbled_min_recognized_ratio": 0.5
+    }
+  },
+  "counts": {
+    "documents": 100,
+    "processed": 100,
+    "failed": 0,
+    "auto_approved": 0,
+    "needs_review": 100,
+    "readable_processed": 94,
+    "garbled": 6
+  },
+  "extraction": {
+    "readable_documents": 94,
+    "exact_match": {
+      "n": 0,
+      "d": 94,
+      "rate": 0.0
+    },
+    "fields": {
+      "document_type": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 94,
+          "d": 94,
+          "rate": 1.0
+        }
+      },
+      "vendor": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0,
+        "accuracy": {
+          "n": 0,
+          "d": 94,
+          "rate": 0.0
+        }
+      },
+      "invoice_no": {
+        "correct": 2,
+        "missing": 92,
+        "wrong": 0,
+        "accuracy": {
+          "n": 2,
+          "d": 94,
+          "rate": 0.02127659574468085
+        }
+      },
+      "invoice_date": {
+        "correct": 1,
+        "missing": 93,
+        "wrong": 0,
+        "accuracy": {
+          "n": 1,
+          "d": 94,
+          "rate": 0.010638297872340425
+        }
+      },
+      "due_date": {
+        "correct": 5,
+        "missing": 89,
+        "wrong": 0,
+        "accuracy": {
+          "n": 5,
+          "d": 94,
+          "rate": 0.05319148936170213
+        }
+      },
+      "currency": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 94,
+          "d": 94,
+          "rate": 1.0
+        }
+      },
+      "subtotal_minor": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0,
+        "accuracy": {
+          "n": 0,
+          "d": 94,
+          "rate": 0.0
+        }
+      },
+      "discount_minor": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0,
+        "accuracy": {
+          "n": 0,
+          "d": 94,
+          "rate": 0.0
+        }
+      },
+      "tax_minor": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0,
+        "accuracy": {
+          "n": 0,
+          "d": 94,
+          "rate": 0.0
+        }
+      },
+      "total_minor": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 94,
+          "d": 94,
+          "rate": 1.0
+        }
+      },
+      "line_items": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 94,
+          "d": 94,
+          "rate": 1.0
+        }
+      }
+    },
+    "line_cells": {
+      "description": {
+        "correct": 257,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 257,
+          "d": 257,
+          "rate": 1.0
+        }
+      },
+      "qty": {
+        "correct": 257,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 257,
+          "d": 257,
+          "rate": 1.0
+        }
+      },
+      "unit_price_minor": {
+        "correct": 257,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 257,
+          "d": 257,
+          "rate": 1.0
+        }
+      },
+      "amount_minor": {
+        "correct": 257,
+        "missing": 0,
+        "wrong": 0,
+        "accuracy": {
+          "n": 257,
+          "d": 257,
+          "rate": 1.0
+        }
+      }
+    },
+    "mean_required_field_confidence": 0.375,
+    "mean_required_field_coverage": 0.375
+  },
+  "auto_approved": {
+    "count": 0,
+    "field_correct": {
+      "n": 0,
+      "d": 0,
+      "rate": null
+    },
+    "defect_free": {
+      "n": 0,
+      "d": 0,
+      "rate": null
+    },
+    "bad": []
+  },
+  "catch": {
+    "review_recall": {
+      "n": 49,
+      "d": 49,
+      "rate": 1.0
+    },
+    "false_review_rate": {
+      "n": 51,
+      "d": 51,
+      "rate": 1.0
+    },
+    "error_catch_rate": {
+      "n": 100,
+      "d": 100,
+      "rate": 1.0
+    },
+    "defect_level": {
+      "readable": {
+        "AMBIGUOUS_DATE": {
+          "n": 0,
+          "d": 5,
+          "rate": 0.0
+        },
+        "CREDIT_NOTE_SIGN_MISMATCH": {
+          "n": 3,
+          "d": 3,
+          "rate": 1.0
+        },
+        "DUE_BEFORE_INVOICE": {
+          "n": 0,
+          "d": 5,
+          "rate": 0.0
+        },
+        "DUPLICATE_ID_CONFLICT": {
+          "n": 0,
+          "d": 3,
+          "rate": 0.0
+        },
+        "DUPLICATE_INVOICE": {
+          "n": 0,
+          "d": 3,
+          "rate": 0.0
+        },
+        "FUTURE_INVOICE_DATE": {
+          "n": 0,
+          "d": 3,
+          "rate": 0.0
+        },
+        "INVALID_INVOICE_ID": {
+          "n": 0,
+          "d": 4,
+          "rate": 0.0
+        },
+        "MISSING_FIELD": {
+          "n": 3,
+          "d": 3,
+          "rate": 1.0
+        },
+        "NEGATIVE_AMOUNT_ON_INVOICE": {
+          "n": 3,
+          "d": 3,
+          "rate": 1.0
+        },
+        "NO_LINE_ITEMS": {
+          "n": 3,
+          "d": 3,
+          "rate": 1.0
+        },
+        "SUBTOTAL_MISMATCH": {
+          "n": 0,
+          "d": 5,
+          "rate": 0.0
+        },
+        "TOTAL_MISMATCH": {
+          "n": 0,
+          "d": 5,
+          "rate": 0.0
+        }
+      },
+      "garbled": {
+        "GARBLED_TEXT": {
+          "n": 6,
+          "d": 6,
+          "rate": 1.0
+        }
+      }
+    },
+    "extra_detections": [
+      {
+        "code": "LOW_CONFIDENCE",
+        "readable": true,
+        "n": 94
+      },
+      {
+        "code": "MISSING_FIELD",
+        "readable": true,
+        "n": 91
+      },
+      {
+        "code": "GARBLED_TEXT",
+        "readable": true,
+        "n": 28
+      },
+      {
+        "code": "LOW_CONFIDENCE",
+        "readable": false,
+        "n": 6
+      },
+      {
+        "code": "MISSING_FIELD",
+        "readable": false,
+        "n": 6
+      },
+      {
+        "code": "NO_LINE_ITEMS",
+        "readable": false,
+        "n": 1
+      }
+    ]
+  },
+  "review": {
+    "rate": {
+      "n": 100,
+      "d": 100,
+      "rate": 1.0
+    },
+    "by_reason": [
+      {
+        "code": "LOW_CONFIDENCE",
+        "severity": "uncertain",
+        "n": 100
+      },
+      {
+        "code": "MISSING_FIELD",
+        "severity": "uncertain",
+        "n": 100
+      },
+      {
+        "code": "GARBLED_TEXT",
+        "severity": "uncertain",
+        "n": 34
+      },
+      {
+        "code": "NO_LINE_ITEMS",
+        "severity": "hard",
+        "n": 4
+      },
+      {
+        "code": "CREDIT_NOTE_SIGN_MISMATCH",
+        "severity": "soft",
+        "n": 3
+      },
+      {
+        "code": "NEGATIVE_AMOUNT_ON_INVOICE",
+        "severity": "soft",
+        "n": 3
+      }
+    ],
+    "low_confidence_only": 0
+  },
+  "garbled": {
+    "documents": [
+      {
+        "doc_id": "doc_0012",
+        "mode": "empty",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD"
+        ],
+        "garbled_text_fired": true
+      },
+      {
+        "doc_id": "doc_0028",
+        "mode": "char_swap",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD",
+          "NO_LINE_ITEMS"
+        ],
+        "garbled_text_fired": true
+      },
+      {
+        "doc_id": "doc_0039",
+        "mode": "truncated",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD"
+        ],
+        "garbled_text_fired": true
+      },
+      {
+        "doc_id": "doc_0041",
+        "mode": "noise",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD"
+        ],
+        "garbled_text_fired": true
+      },
+      {
+        "doc_id": "doc_0082",
+        "mode": "truncated",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD"
+        ],
+        "garbled_text_fired": true
+      },
+      {
+        "doc_id": "doc_0083",
+        "mode": "char_swap",
+        "status": "needs_review",
+        "flagged": true,
+        "failed_checks": [
+          "GARBLED_TEXT",
+          "LOW_CONFIDENCE",
+          "MISSING_FIELD"
+        ],
+        "garbled_text_fired": true
+      }
+    ],
+    "by_mode": {
+      "empty": {
+        "n": 1,
+        "flagged": 1,
+        "garbled_text_fired": 1
+      },
+      "char_swap": {
+        "n": 2,
+        "flagged": 2,
+        "garbled_text_fired": 2
+      },
+      "truncated": {
+        "n": 2,
+        "flagged": 2,
+        "garbled_text_fired": 2
+      },
+      "noise": {
+        "n": 1,
+        "flagged": 1,
+        "garbled_text_fired": 1
+      }
+    }
+  },
+  "failed": [],
+  "limitations": [
+    "The data is synthetic. Real invoices will behave worse; nothing here is a real-world accuracy claim.",
+    "The generator and the regex extractor have the same author and share label vocabulary, so regex accuracy on layouts A-D is circular. The held-out layout E is the honest generalisation check.",
+    "Each defect type has only a handful of examples, so every percentage is shown with n/N and strong claims from small samples are not supported.",
+    "Zero false positives on clean documents is a result on this dataset, not a guarantee.",
+    "Two errors that cancel each other (a consistently wrong subtotal and total) cannot be caught by arithmetic validation.",
+    "Confidence is a review signal, not proof of correctness; an extractor can be confidently wrong."
+  ]
+}
