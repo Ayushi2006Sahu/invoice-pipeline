@@ -1,4 +1,4 @@
-﻿"""Batch pipeline: ingest -> extract -> validate -> route -> save.
+"""Batch pipeline: ingest -> extract -> validate -> route -> save.
 Documents run in sorted doc_id order, which is also the processing order that
 duplicate detection depends on. Each document is saved in one transaction.
 A document that fails is recorded as failed and the batch carries on. If even
@@ -67,7 +67,7 @@ def run_pipeline(
 ) -> RunSummary:
     inv_dir = Path(data_dir) / "invoices"
     ids = sorted({p.stem for p in inv_dir.glob("doc_*")})
-    extractor = extractor or get_extractor(extractor_name)
+    extractor = extractor or get_extractor(extractor_name, data_dir=data_dir)
     conn = connect(db_path)
     try:
         init_db(conn)
