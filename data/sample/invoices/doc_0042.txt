@@ -1,0 +1,16 @@
+TAX INVOICE
+Nova Logistics Ltd
+
+Inv #: NVL-2026-0010
+Date: 2026-09-01
+Payment Due: 2026-10-16
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               7        2,611.55       18,280.85
+-----------------------------------------------------------
+Sub Total:                                        18,280.85
+Less Discount:                                     1,462.47
+GST @18%:                                          3,027.31
+Total Due:                                        19,814.39

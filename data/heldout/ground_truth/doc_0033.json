@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0033",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0008",
+    "invoice_date": "2026-11-13",
+    "due_date": "2026-12-13",
+    "currency": "INR",
+    "subtotal": "26075.76",
+    "discount": "1825.30",
+    "tax": "4365.08",
+    "total": "28615.54",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 1,
+        "unit_price": "4257.76",
+        "amount": "4257.76"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 5,
+        "unit_price": "4363.60",
+        "amount": "21818.00"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

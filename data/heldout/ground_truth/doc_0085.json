@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0085",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0009",
+    "invoice_date": "2026-08-12",
+    "due_date": "2026-07-27",
+    "currency": "INR",
+    "subtotal": "59577.26",
+    "discount": "7745.04",
+    "tax": "9329.80",
+    "total": "61162.02",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "1269.37",
+        "amount": "3808.11"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 10,
+        "unit_price": "4873.03",
+        "amount": "48730.30"
+      },
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "3434.30",
+        "amount": "3434.30"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "720.91",
+        "amount": "3604.55"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

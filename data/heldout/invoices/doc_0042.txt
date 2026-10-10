@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 25 Apr 2026
+Dated: 10 Apr 2026
+Ref No: BOS-2026-0002
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              9    INR 1,972.56   INR 17,753.04
+Whiteboard                3    INR 1,914.87    INR 5,744.61
+Printer toner             4    INR 2,842.31   INR 11,369.24
+A4 paper ream             9    INR 4,134.49   INR 37,210.41
+Desk lamp                 9    INR 1,778.39   INR 16,005.51
+-----------------------------------------------------------
+Gross Amount:                                 INR 88,082.81
+Concession:                                   INR 12,331.59
+IGST 18%:                                     INR 13,635.22
+Total:                                        INR 89,386.44

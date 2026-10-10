@@ -1,0 +1,15 @@
+CREDIT NOTE
+Kaveri Foods Pvt Ltd
+
+Invoice Number: KAV-2026-0006
+Invoice Date: July 29, 2026
+Due Date: August 28, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        5    INR 2.708,78  -INR 13.543,90
+-----------------------------------------------------------
+Subtotal:                                    -INR 13.543,90
+Discount:                                          INR 0,00
+VAT 18%:                                      -INR 2.437,90
+Total Amount:                                -INR 15.981,80

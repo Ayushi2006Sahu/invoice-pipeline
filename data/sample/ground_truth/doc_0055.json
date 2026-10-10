@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0055",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": null,
+    "invoice_date": "2026-07-29",
+    "due_date": "2026-08-13",
+    "currency": "INR",
+    "subtotal": "83104.79",
+    "discount": "7479.43",
+    "tax": "13612.56",
+    "total": "89237.92",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "181.20",
+        "amount": "1449.60"
+      },
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "4685.93",
+        "amount": "46859.30"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 9,
+        "unit_price": "1769.69",
+        "amount": "15927.21"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "1210.60",
+        "amount": "12106.00"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "3381.34",
+        "amount": "6762.68"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "MISSING_FIELD"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "MISSING_FIELD"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

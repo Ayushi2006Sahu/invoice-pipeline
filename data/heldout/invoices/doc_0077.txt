@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 13/03/2026
+Dated: 11/02/2026
+Ref No: BOS-2026-0010
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              2    INR 1,516.99    INR 3,033.98
+-----------------------------------------------------------
+Gross Amount:                                  INR 3,033.98
+Concession:                                        INR 0.00
+IGST 18%:                                        INR 546.12
+Total:                                         INR 3,580.10

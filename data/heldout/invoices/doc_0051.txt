@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 20 Sep 2026
+Dated: 05 Sep 2026
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Annual maintenance        7    INR 3,606.34   INR 25,244.38
+Network switch            6    INR 1,020.69    INR 6,124.14
+USB-C cable              10    INR 1,686.80   INR 16,868.00
+Office chair              2    INR 1,116.44    INR 2,232.88
+Consulting hours          1    INR 4,219.56    INR 4,219.56
+-----------------------------------------------------------
+Gross Amount:                                 INR 54,688.96
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 9,844.01
+Total:                                        INR 64,532.97

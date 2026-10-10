@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 28 May 2026
+Dated: 13 May 2026
+Ref No: ORS-2026-0005
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               8    INR 1,914.17   INR 15,313.36
+Whiteboard                1      INR 196.47      INR 196.47
+-----------------------------------------------------------
+Gross Amount:                                 INR 15,509.83
+Concession:                                    INR 1,861.18
+IGST 18%:                                      INR 2,456.76
+Total:                                        INR 16,105.41

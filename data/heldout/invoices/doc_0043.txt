@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 10 May 2026
+Dated: 25 Apr 2026
+Ref No: KAV-2026-0005
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             8    INR 1,201.27    INR 9,610.16
+Laptop stand              2    INR 2,138.01    INR 4,276.02
+-----------------------------------------------------------
+Gross Amount:                                 INR 13,886.18
+Concession:                                      INR 972.03
+IGST 18%:                                      INR 2,324.55
+Total:                                        INR 15,238.70

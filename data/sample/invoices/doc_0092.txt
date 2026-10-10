@@ -1,0 +1,18 @@
+INVOICE
+Zenith Corp
+
+Bill Number: ZEN-2026-0011
+Issued: 24-Oct-2026
+Due By: 23-Nov-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream             3    INR 3,688.56   INR 11,065.68
+Network switch            5    INR 4,786.54   INR 23,932.70
+Annual maintenance        1      INR 291.12      INR 291.12
+Courier charges           6    INR 4,224.08   INR 25,344.48
+-----------------------------------------------------------
+Net Amount:                                   INR 60,633.98
+Rebate:                                            INR 0.00
+Tax:                                          INR 10,914.12
+Grand Total:                                  INR 71,548.10

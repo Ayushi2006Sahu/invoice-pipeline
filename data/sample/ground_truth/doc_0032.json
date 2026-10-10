@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0032",
+  "document_type": "credit_note",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0002",
+    "invoice_date": "2026-02-05",
+    "due_date": "2026-03-07",
+    "currency": "INR",
+    "subtotal": "-38701.76",
+    "discount": "0.00",
+    "tax": "-6966.32",
+    "total": "-45668.08",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 5,
+        "unit_price": "4351.97",
+        "amount": "-21759.85"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "1218.76",
+        "amount": "-4875.04"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 1,
+        "unit_price": "3510.47",
+        "amount": "-3510.47"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 4,
+        "unit_price": "2139.10",
+        "amount": "-8556.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "VALID_CREDIT_NOTE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

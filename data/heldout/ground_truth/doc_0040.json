@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0040",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM 2026/6",
+    "invoice_date": "2026-04-25",
+    "due_date": "2026-05-25",
+    "currency": "INR",
+    "subtotal": "32628.24",
+    "discount": "0.00",
+    "tax": "5873.08",
+    "total": "38501.32",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 2,
+        "unit_price": "3319.44",
+        "amount": "6638.88"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 8,
+        "unit_price": "3248.67",
+        "amount": "25989.36"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "INVALID_INVOICE_ID"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "INVALID_INVOICE_ID"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

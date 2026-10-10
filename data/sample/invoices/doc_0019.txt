@@ -1,0 +1,17 @@
+INVOICE
+Himalaya Stationers
+
+Invoice Number: HIM-2026-0006
+Invoice Date: June 10, 2026
+Due Date: June 25, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             3    INR 1.045,61    INR 3.136,83
+Whiteboard                5    INR 1.191,37    INR 5.956,85
+Courier charges           1    INR 3.086,57    INR 3.086,57
+-----------------------------------------------------------
+Subtotal:                                     INR 12.180,25
+Discount:                                        INR 609,01
+VAT 18%:                                       INR 2.082,82
+Total Amount:                                 INR 13.654,06

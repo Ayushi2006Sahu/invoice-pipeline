@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0081",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-26-5",
+    "invoice_date": "2026-09-18",
+    "due_date": "2026-11-02",
+    "currency": "INR",
+    "subtotal": "68245.31",
+    "discount": "0.00",
+    "tax": "12284.16",
+    "total": "80529.47",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 7,
+        "unit_price": "4426.35",
+        "amount": "30984.45"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 8,
+        "unit_price": "2525.79",
+        "amount": "20206.32"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "2444.87",
+        "amount": "9779.48"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "808.34",
+        "amount": "7275.06"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "INVALID_INVOICE_ID"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "INVALID_INVOICE_ID"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

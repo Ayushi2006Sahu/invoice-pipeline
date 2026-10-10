@@ -1,0 +1,20 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ACM-2026-0004
+Date: 2026-03-23
+Payment Due: 2026-05-07
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               9        2,980.37       26,823.33
+A4 paper ream            10        1,713.55       17,135.50
+Courier charges           8        3,262.06       26,096.48
+Laptop stand              9        2,287.35       20,586.15
+Desk lamp                 9        2,387.87       21,490.83
+-----------------------------------------------------------
+Sub Total:                                       112,132.29
+Less Discount:                                         0.00
+GST @18%:                                         20,183.81
+Total Due:                                       132,316.10

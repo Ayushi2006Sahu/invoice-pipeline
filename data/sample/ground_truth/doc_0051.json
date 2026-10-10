@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0051",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0006",
+    "invoice_date": "2026-08-01",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "55507.31",
+    "discount": "6660.88",
+    "tax": "8792.36",
+    "total": "57638.79",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 1,
+        "unit_price": "292.29",
+        "amount": "292.29"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "2541.08",
+        "amount": "10164.32"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 10,
+        "unit_price": "4505.07",
+        "amount": "45050.70"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

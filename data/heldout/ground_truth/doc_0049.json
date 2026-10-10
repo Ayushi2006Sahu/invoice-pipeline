@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0049",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0001",
+    "invoice_date": "2026-01-30",
+    "due_date": "2026-03-16",
+    "currency": "INR",
+    "subtotal": "5321.36",
+    "discount": "0.00",
+    "tax": "957.84",
+    "total": "6279.20",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 1,
+        "unit_price": "429.77",
+        "amount": "429.77"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "543.51",
+        "amount": "4891.59"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

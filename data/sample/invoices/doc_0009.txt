@@ -1,0 +1,18 @@
+INVOICE
+Himalaya Stationers
+
+Invoice No: HIM-2026-0014
+Invoice Date: 07/03/2026
+Due Date: 06/04/2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             1      Rs. 711.89      Rs. 711.89
+Network switch            9    Rs. 3,144.24   Rs. 28,298.16
+Laptop stand              6    Rs. 4,609.73   Rs. 27,658.38
+Courier charges           2    Rs. 4,633.27    Rs. 9,266.54
+-----------------------------------------------------------
+Subtotal:                                     Rs. 65,934.97
+Discount:                                      Rs. 3,956.10
+Tax (18%):                                    Rs. 11,156.20
+Total:                                        Rs. 73,135.07

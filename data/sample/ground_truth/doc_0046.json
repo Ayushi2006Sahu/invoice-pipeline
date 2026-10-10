@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_0046",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0004",
+    "invoice_date": "2026-02-22",
+    "due_date": "2026-03-24",
+    "currency": "INR",
+    "subtotal": "14503.96",
+    "discount": "0.00",
+    "tax": "2610.71",
+    "total": "17114.67",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 4,
+        "unit_price": "3625.99",
+        "amount": "14503.96"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

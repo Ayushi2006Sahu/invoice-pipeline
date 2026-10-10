@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0072",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0001",
+    "invoice_date": "2026-01-28",
+    "due_date": "2026-02-27",
+    "currency": "INR",
+    "subtotal": "56656.95",
+    "discount": "7365.40",
+    "tax": "8872.48",
+    "total": "58164.03",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 7,
+        "unit_price": "2852.79",
+        "amount": "19969.53"
+      },
+      {
+        "description": "Office chair",
+        "qty": 6,
+        "unit_price": "3247.17",
+        "amount": "19483.02"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 10,
+        "unit_price": "1720.44",
+        "amount": "17204.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

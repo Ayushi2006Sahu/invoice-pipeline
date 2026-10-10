@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0065",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0002",
+    "invoice_date": "2026-04-19",
+    "due_date": "2026-06-03",
+    "currency": "INR",
+    "subtotal": "45254.94",
+    "discount": "0.00",
+    "tax": "8145.89",
+    "total": "53400.83",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "4468.97",
+        "amount": "26813.82"
+      },
+      {
+        "description": "Network switch",
+        "qty": 1,
+        "unit_price": "1250.87",
+        "amount": "1250.87"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 1,
+        "unit_price": "4270.75",
+        "amount": "4270.75"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "2153.25",
+        "amount": "12919.50"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

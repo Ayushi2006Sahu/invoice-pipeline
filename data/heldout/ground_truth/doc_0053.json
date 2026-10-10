@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0053",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0005",
+    "invoice_date": "2026-04-02",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "57933.45",
+    "discount": "0.00",
+    "tax": "10428.02",
+    "total": "68361.47",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 1,
+        "unit_price": "999.72",
+        "amount": "999.72"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "4937.65",
+        "amount": "19750.60"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 5,
+        "unit_price": "3346.04",
+        "amount": "16730.20"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 5,
+        "unit_price": "2834.41",
+        "amount": "14172.05"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 4,
+        "unit_price": "1570.22",
+        "amount": "6280.88"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0092",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0001",
+    "invoice_date": "2026-03-21",
+    "due_date": "2026-05-05",
+    "currency": "INR",
+    "subtotal": "51471.37",
+    "discount": "0.00",
+    "tax": "9264.85",
+    "total": "60736.22",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 7,
+        "unit_price": "2367.97",
+        "amount": "16575.79"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 6,
+        "unit_price": "430.35",
+        "amount": "2582.10"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 4,
+        "unit_price": "2295.72",
+        "amount": "9182.88"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 2,
+        "unit_price": "1165.10",
+        "amount": "2330.20"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 5,
+        "unit_price": "4160.08",
+        "amount": "20800.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

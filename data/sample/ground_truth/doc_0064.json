@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0064",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0008",
+    "invoice_date": "2026-06-05",
+    "due_date": "2026-06-03",
+    "currency": "INR",
+    "subtotal": "89750.09",
+    "discount": "0.00",
+    "tax": "16155.02",
+    "total": "105905.11",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "362.67",
+        "amount": "725.34"
+      },
+      {
+        "description": "Network switch",
+        "qty": 3,
+        "unit_price": "4205.65",
+        "amount": "12616.95"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 5,
+        "unit_price": "3169.74",
+        "amount": "15848.70"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "4879.70",
+        "amount": "48797.00"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "2352.42",
+        "amount": "11762.10"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Dated: 17 Aug 2026
+Ref No: SUN-2026-0003
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              1      INR 146.64      INR 146.64
+Printer toner             9    INR 2,939.08   INR 26,451.72
+Annual maintenance        4    INR 2,746.07   INR 10,984.28
+-----------------------------------------------------------
+Gross Amount:                                 INR 37,582.64
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 6,764.88
+Total:                                        INR 44,347.52

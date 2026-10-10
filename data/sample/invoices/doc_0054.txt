@@ -1,0 +1,16 @@
+CREDIT NOTE
+Orion Software Services
+
+Invoice No: ORS-2026-0011
+Invoice Date: 26 Mar 2026
+Due Date: 25 Apr 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               9    Rs. 4,645.17   Rs. 41,806.53
+Laptop stand              6    Rs. 2,833.19   Rs. 16,999.14
+-----------------------------------------------------------
+Subtotal:                                     Rs. 58,805.67
+Discount:                                      Rs. 5,292.51
+Tax (18%):                                     Rs. 9,632.37
+Total:                                        Rs. 63,145.53

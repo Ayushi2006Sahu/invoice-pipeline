@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0100",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0001",
+    "invoice_date": "2026-09-04",
+    "due_date": "2026-09-19",
+    "currency": "INR",
+    "subtotal": "81310.36",
+    "discount": "0.00",
+    "tax": "14635.86",
+    "total": "95946.22",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "4601.30",
+        "amount": "32209.10"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 1,
+        "unit_price": "1558.00",
+        "amount": "1558.00"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "1688.13",
+        "amount": "16881.30"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 6,
+        "unit_price": "593.16",
+        "amount": "3558.96"
+      },
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "2710.30",
+        "amount": "27103.00"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "conflicts_with": "doc_0041",
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

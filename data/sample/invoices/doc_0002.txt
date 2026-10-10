@@ -1,0 +1,19 @@
+TAX INVOICE
+Zenith Corp
+
+Inv #: ZEN-2026-0003
+Date: 2026-05-06
+Payment Due: 2026-05-21
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             6        1,912.64       11,475.84
+Courier charges           4        3,563.64       14,254.56
+Consulting hours          5        3,729.55       18,647.75
+Laptop stand              2        3,243.60        6,487.20
+-----------------------------------------------------------
+Sub Total:                                        50,865.35
+Less Discount:                                     6,612.50
+GST @18%:                                          7,965.51
+Total Due:                                        52,218.36

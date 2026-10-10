@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0076",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0004",
+    "invoice_date": "2026-05-28",
+    "due_date": "2026-06-12",
+    "currency": "INR",
+    "subtotal": "24283.99",
+    "discount": "0.00",
+    "tax": "4371.12",
+    "total": "28655.11",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 8,
+        "unit_price": "2639.71",
+        "amount": "21117.68"
+      },
+      {
+        "description": "Network switch",
+        "qty": 7,
+        "unit_price": "452.33",
+        "amount": "3166.31"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,19 @@
+TAX INVOICE
+Orion Software Services
+
+Inv #: ORS-2026-0008
+Date: 2026-06-27
+Payment Due: 2026-08-11
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        2        3,705.29        7,410.58
+USB-C cable               5        4,507.98       22,539.90
+A4 paper ream            10        4,273.28       42,732.80
+Network switch            2        4,224.52        8,449.04
+-----------------------------------------------------------
+Sub Total:                                        81,132.32
+Less Discount:                                     4,056.62
+GST @18%:                                         13,873.63
+Total Due:                                        90,949.33

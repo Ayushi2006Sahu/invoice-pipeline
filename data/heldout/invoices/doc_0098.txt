@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 04 Oct 2026
+Dated: 19 Sep 2026
+Ref No: KAV-2026-0004
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              3      INR 481.17    INR 1,443.51
+-----------------------------------------------------------
+Gross Amount:                                  INR 1,443.51
+Concession:                                      INR 144.35
+IGST 18%:                                        INR 233.85
+Total:                                         INR 1,533.01

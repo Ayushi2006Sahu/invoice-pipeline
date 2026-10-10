@@ -1,0 +1,18 @@
+INVOICE
+Himalaya Stationers
+
+Bill Number: HIM-2026-0008
+Issued: 09-Oct-2026
+Due By: 08-Nov-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              7    INR 3,676.95   INR 25,738.65
+A4 paper ream             4    INR 1,655.40    INR 6,621.60
+Printer toner            10    INR 1,984.72   INR 19,847.20
+USB-C cable               8    INR 2,951.79   INR 23,614.32
+-----------------------------------------------------------
+Net Amount:                                   INR 75,821.77
+Rebate:                                        INR 8,340.39
+Tax:                                          INR 12,146.65
+Grand Total:                                  INR 79,636.91

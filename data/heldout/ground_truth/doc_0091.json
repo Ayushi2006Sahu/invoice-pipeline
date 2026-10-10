@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0091",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0009",
+    "invoice_date": "2026-11-28",
+    "due_date": "2026-12-28",
+    "currency": "INR",
+    "subtotal": "11718.18",
+    "discount": "0.00",
+    "tax": "2109.27",
+    "total": "13827.45",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 6,
+        "unit_price": "1953.03",
+        "amount": "11718.18"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

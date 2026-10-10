@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0009",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0006",
+    "invoice_date": "2026-05-15",
+    "due_date": "2026-06-14",
+    "currency": "INR",
+    "subtotal": "14543.49",
+    "discount": "0.00",
+    "tax": "2617.83",
+    "total": "17161.32",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 5,
+        "unit_price": "287.17",
+        "amount": "1435.85"
+      },
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "1021.77",
+        "amount": "8174.16"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 3,
+        "unit_price": "1460.52",
+        "amount": "4381.56"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 8,
+        "unit_price": "68.99",
+        "amount": "551.92"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ZERO_DISCOUNT"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,17 @@
+INVOICE
+Sundar Electronics
+
+Bill Number: SUN-2026-0004
+Issued: 27-May-2026
+Due By: 11-Jun-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              5       INR 92.45     -INR 462.25
+Network switch           10    INR 4,585.44  -INR 45,854.40
+Cloud hosting             1    INR 4,824.25   -INR 4,824.25
+-----------------------------------------------------------
+Net Amount:                                  -INR 51,140.90
+Rebate:                                       -INR 6,136.91
+Tax:                                          -INR 8,100.72
+Grand Total:                                 -INR 53,104.71

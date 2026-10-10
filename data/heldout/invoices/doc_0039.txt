@@ -1,0 +1,12 @@
+SALES INVOICE
+
+Pay By: 30 Jun 2026
+Dated: 15 Jun 2026
+Ref No: BOS-2026-0013
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               7    INR 1,933.28   INR 13,532.96
+Office chair              2      INR 833.63    INR 1,667.26
+Cloud hosting       

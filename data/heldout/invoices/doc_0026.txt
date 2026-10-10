@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 26 Jun 2026
+Dated: 27 May 2026
+Ref No: ZEN-2026-0008
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Annual maintenance        7    INR 2,413.80   INR 16,896.60
+-----------------------------------------------------------
+Gross Amount:                                 INR 16,934.72
+Concession:                                    INR 1,182.76
+IGST 18%:                                      INR 2,828.49
+Total:                                        INR 18,580.45

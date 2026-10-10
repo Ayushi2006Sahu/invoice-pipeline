@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Dated: 08 Mar 2026
+Ref No: ZEN-2026-0005
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Network switch            9    INR 1,663.66   INR 14,972.94
+Courier charges           4    INR 1,253.58    INR 5,014.32
+Whiteboard                6    INR 1,091.36    INR 6,548.16
+Cloud hosting             3    INR 2,171.78    INR 6,515.34
+-----------------------------------------------------------
+Gross Amount:                                 INR 33,050.76
+Concession:                                    INR 1,652.54
+IGST 18%:                                      INR 5,651.68
+Total:                                        INR 37,049.90

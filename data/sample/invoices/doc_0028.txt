@@ -1,0 +1,17 @@
+INVOICE
+Orion Software Services
+
+Invoice Number: 0RS-2O26-0012
+Invoice Date: June 2O, 2026
+Due Date: Ju1y O5, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cab1e               2    INR 3.S24,8l    INR 7.049,62
+A4 paper ream             4    INR 3.4l4,37   INR 13.6S7,4B
+Courier charges          1O      INR 16l,97    INR l.619,70
+-----------------------------------------------------------
+Subtotal:                                     INR 22.326,BO
+Discount:                                          INR 0,OO
+VAT l8%:                                       INR 4.Ol8,82
+Total Amount:                                 INR 26.34S,62

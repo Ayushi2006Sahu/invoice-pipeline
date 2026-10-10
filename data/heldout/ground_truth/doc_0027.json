@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0027",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0009",
+    "invoice_date": "2026-04-11",
+    "due_date": "2026-03-31",
+    "currency": "INR",
+    "subtotal": "62862.85",
+    "discount": "6286.29",
+    "tax": "10183.78",
+    "total": "66750.52",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 1,
+        "unit_price": "1687.67",
+        "amount": "1687.67"
+      },
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "4683.10",
+        "amount": "46831.00"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 6,
+        "unit_price": "2220.97",
+        "amount": "13325.82"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 7,
+        "unit_price": "145.48",
+        "amount": "1018.36"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE",
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE",
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

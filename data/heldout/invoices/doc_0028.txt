@@ -1,0 +1,16 @@
+SALES INV0ICE
+
+Pay By: 0l 0ct 2026
+Dated: l6 Sep 2026
+Ref No: B0S-2026-O011
+Supp1ier: Bharat 0ffice Supp1ies Pvt Ltd
+
+Item                  Units            Rate           Va1ue
+-----------------------------------------------------------
+0ffice chair              9      INR 797.O9    INR 7,173.B1
+Annua1 maintenance        7      INR 5l6.77    INR 3,617.39
+-----------------------------------------------------------
+Gross Amount:                                 INR 1O,79l.20
+Concession:                                    INR 1,079.12
+IGST 18%:                                      INR 1,74B.l7
+Total:                                        INR l1,46O.25

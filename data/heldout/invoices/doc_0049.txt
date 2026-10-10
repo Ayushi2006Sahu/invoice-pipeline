@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 16 Mar 2026
+Dated: 30 Jan 2026
+Ref No: KAV-2026-0001
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             1      INR 429.77      INR 429.77
+Network switch            9      INR 543.51    INR 4,891.59
+-----------------------------------------------------------
+Gross Amount:                                  INR 5,321.36
+Concession:                                        INR 0.00
+IGST 18%:                                        INR 957.84
+Total:                                         INR 6,279.20

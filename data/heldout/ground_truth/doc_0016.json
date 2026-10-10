@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0016",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0008",
+    "invoice_date": "2026-03-18",
+    "due_date": "2026-04-17",
+    "currency": "INR",
+    "subtotal": "78365.57",
+    "discount": "9403.87",
+    "tax": "12413.11",
+    "total": "81374.82",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 2,
+        "unit_price": "3120.14",
+        "amount": "6240.28"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 9,
+        "unit_price": "4523.47",
+        "amount": "40711.23"
+      },
+      {
+        "description": "Network switch",
+        "qty": 3,
+        "unit_price": "3497.42",
+        "amount": "10492.26"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 10,
+        "unit_price": "2092.18",
+        "amount": "20921.80"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

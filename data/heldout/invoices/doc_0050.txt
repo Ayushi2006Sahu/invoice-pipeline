@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 28 Oct 2026
+Dated: 28 Sep 2026
+Ref No: HIM-2026-0003
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Courier charges           2    INR 3,980.45    INR 7,960.90
+Printer toner             6    INR 3,931.57   INR 23,589.42
+A4 paper ream             5    INR 2,559.35   INR 12,796.75
+Laptop stand              3    INR 2,757.07    INR 8,271.21
+-----------------------------------------------------------
+Gross Amount:                                 INR 52,618.28
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 9,471.29
+Total:                                        INR 62,089.57

@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0054",
+  "document_type": "credit_note",
+  "layout": "A",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0011",
+    "invoice_date": "2026-03-26",
+    "due_date": "2026-04-25",
+    "currency": "INR",
+    "subtotal": "58805.67",
+    "discount": "5292.51",
+    "tax": "9632.37",
+    "total": "63145.53",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "4645.17",
+        "amount": "41806.53"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 6,
+        "unit_price": "2833.19",
+        "amount": "16999.14"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

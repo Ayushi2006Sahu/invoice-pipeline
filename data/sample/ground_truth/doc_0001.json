@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0001",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0008",
+    "invoice_date": "2026-10-09",
+    "due_date": "2026-11-08",
+    "currency": "INR",
+    "subtotal": "75821.77",
+    "discount": "8340.39",
+    "tax": "12146.65",
+    "total": "79636.91",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 7,
+        "unit_price": "3676.95",
+        "amount": "25738.65"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 4,
+        "unit_price": "1655.40",
+        "amount": "6621.60"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "1984.72",
+        "amount": "19847.20"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 8,
+        "unit_price": "2951.79",
+        "amount": "23614.32"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

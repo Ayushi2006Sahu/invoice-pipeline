@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0003",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0001",
+    "invoice_date": "2026-02-10",
+    "due_date": "2026-02-25",
+    "currency": "INR",
+    "subtotal": "97353.80",
+    "discount": "0.00",
+    "tax": "17523.68",
+    "total": "114877.48",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "4692.31",
+        "amount": "46923.10"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 6,
+        "unit_price": "3076.98",
+        "amount": "18461.88"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "3743.98",
+        "amount": "14975.92"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 2,
+        "unit_price": "290.25",
+        "amount": "580.50"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 4,
+        "unit_price": "4103.10",
+        "amount": "16412.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

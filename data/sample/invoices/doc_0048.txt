@@ -1,0 +1,17 @@
+INVOICE
+Orion Software Services
+
+Invoice No: ORS-2026-0007
+Invoice Date: 21 Jan 2026
+Due Date: 05 Feb 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             8      Rs. 151.62    Rs. 1,212.96
+Printer toner             9      Rs. 323.07    Rs. 2,907.63
+A4 paper ream             6    Rs. 1,225.56    Rs. 7,353.36
+-----------------------------------------------------------
+Subtotal:                                     Rs. 11,473.95
+Discount:                                      Rs. 1,721.09
+Tax (18%):                                     Rs. 1,755.51
+Total:                                        Rs. 11,508.36

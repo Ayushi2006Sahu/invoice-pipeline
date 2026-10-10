@@ -1,0 +1,18 @@
+INVOICE
+Orion Software Services
+
+Invoice Number: ORS-2026-0006
+Invoice Date: April 23, 2026
+Due Date: May 23, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 8       INR 80,91      INR 647,28
+Office chair              6    INR 1.615,59    INR 9.693,54
+Annual maintenance        7    INR 4.524,52   INR 31.671,64
+Cloud hosting             7    INR 2.871,82   INR 20.102,74
+-----------------------------------------------------------
+Subtotal:                                     INR 62.115,20
+Discount:                                      INR 8.074,98
+VAT 18%:                                       INR 9.727,24
+Total Amount:                                 INR 63.767,47

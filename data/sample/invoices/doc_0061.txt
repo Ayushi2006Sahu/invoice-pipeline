@@ -1,0 +1,15 @@
+INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Invoice Number: BOS 2026/6
+Invoice Date: May 17, 2026
+Due Date: June 01, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             7    INR 1.831,92   INR 12.823,44
+-----------------------------------------------------------
+Subtotal:                                     INR 12.823,44
+Discount:                                      INR 1.667,05
+VAT 18%:                                       INR 2.008,15
+Total Amount:                                 INR 13.164,54

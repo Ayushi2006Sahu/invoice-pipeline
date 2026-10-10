@@ -1,0 +1,18 @@
+INVOICE
+Zenith Corp
+
+Invoice Number: ZEN-2026-0012
+Invoice Date: July 03, 2026
+Due Date: August 17, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Consulting hours          5    INR 2.445,13  -INR 12.225,65
+Desk lamp                 5    INR 1.094,47   -INR 5.472,35
+Printer toner             7    INR 4.523,93  -INR 31.667,51
+Cloud hosting             8      INR 609,17   -INR 4.873,36
+-----------------------------------------------------------
+Subtotal:                                    -INR 54.238,87
+Discount:                                          INR 0,00
+VAT 18%:                                      -INR 9.763,00
+Total Amount:                                -INR 64.001,87

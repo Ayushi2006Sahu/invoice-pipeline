@@ -1,0 +1,14 @@
+SALES INVOICE
+
+Dated: 08 Mar 2026
+Ref No: HIM-2026-0005
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          9    INR 2,240.26   INR 20,162.34
+-----------------------------------------------------------
+Gross Amount:                                 INR 20,162.34
+Concession:                                    INR 1,814.61
+IGST 18%:                                      INR 3,302.59
+Total:                                        INR 21,650.32

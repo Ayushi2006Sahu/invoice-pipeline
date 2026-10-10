@@ -1,0 +1,10 @@
+SALES INVOICE
+
+Pay By: 11 May 2026
+Dated: 11 Apr 2026
+Ref No: ACM-2026-0015
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          2  

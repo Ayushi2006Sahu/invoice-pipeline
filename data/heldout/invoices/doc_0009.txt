@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 14 Jun 2026
+Dated: 15 May 2026
+Ref No: ZEN-2026-0006
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Whiteboard                5      INR 287.17    INR 1,435.85
+Network switch            8    INR 1,021.77    INR 8,174.16
+Printer toner             3    INR 1,460.52    INR 4,381.56
+USB-C cable               8       INR 68.99      INR 551.92
+-----------------------------------------------------------
+Gross Amount:                                 INR 14,543.49
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,617.83
+Total:                                        INR 17,161.32

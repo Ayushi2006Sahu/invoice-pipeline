@@ -1,0 +1,49 @@
+{
+  "doc_id": "doc_0028",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0011",
+    "invoice_date": "2026-09-16",
+    "due_date": "2026-10-01",
+    "currency": "INR",
+    "subtotal": "10791.20",
+    "discount": "1079.12",
+    "tax": "1748.17",
+    "total": "11460.25",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 9,
+        "unit_price": "797.09",
+        "amount": "7173.81"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 7,
+        "unit_price": "516.77",
+        "amount": "3617.39"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "char_swap"
+  }
+}

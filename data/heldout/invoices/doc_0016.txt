@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 17 Apr 2026
+Dated: 18 Mar 2026
+Ref No: ACM-2026-0008
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              2    INR 3,120.14    INR 6,240.28
+Printer toner             9    INR 4,523.47   INR 40,711.23
+Network switch            3    INR 3,497.42   INR 10,492.26
+USB-C cable              10    INR 2,092.18   INR 20,921.80
+-----------------------------------------------------------
+Gross Amount:                                 INR 78,365.57
+Concession:                                    INR 9,403.87
+IGST 18%:                                     INR 12,413.11
+Total:                                        INR 81,374.82

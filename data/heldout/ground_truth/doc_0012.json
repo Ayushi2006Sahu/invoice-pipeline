@@ -1,0 +1,67 @@
+{
+  "doc_id": "doc_0012",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0014",
+    "invoice_date": "2026-09-08",
+    "due_date": "2026-10-08",
+    "currency": "INR",
+    "subtotal": "64208.91",
+    "discount": "0.00",
+    "tax": "11557.60",
+    "total": "75766.51",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 10,
+        "unit_price": "1356.83",
+        "amount": "13568.30"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "2090.59",
+        "amount": "14634.13"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "2392.46",
+        "amount": "14354.76"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 9,
+        "unit_price": "2348.23",
+        "amount": "21134.07"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "172.55",
+        "amount": "517.65"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "empty"
+  }
+}

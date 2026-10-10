@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0043",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0005",
+    "invoice_date": "2026-04-25",
+    "due_date": "2026-05-10",
+    "currency": "INR",
+    "subtotal": "13886.18",
+    "discount": "972.03",
+    "tax": "2324.55",
+    "total": "15238.70",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 8,
+        "unit_price": "1201.27",
+        "amount": "9610.16"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "2138.01",
+        "amount": "4276.02"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 23 May 2026
+Dated: 23 Apr 2026
+Ref No: BOS-2026-0008
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               9    INR 4,799.83   INR 43,198.47
+-----------------------------------------------------------
+Gross Amount:                                 INR 43,240.01
+Concession:                                    INR 5,615.80
+IGST 18%:                                      INR 6,764.88
+Total:                                        INR 44,389.09

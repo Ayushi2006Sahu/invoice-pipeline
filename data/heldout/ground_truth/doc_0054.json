@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0054",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0003",
+    "invoice_date": "2026-05-01",
+    "due_date": "2026-06-15",
+    "currency": "INR",
+    "subtotal": "62148.88",
+    "discount": "5593.40",
+    "tax": "10179.99",
+    "total": "66735.48",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 9,
+        "unit_price": "4757.35",
+        "amount": "42816.15"
+      },
+      {
+        "description": "Office chair",
+        "qty": 9,
+        "unit_price": "532.04",
+        "amount": "4788.36"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 9,
+        "unit_price": "396.29",
+        "amount": "3566.61"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 8,
+        "unit_price": "1372.22",
+        "amount": "10977.76"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

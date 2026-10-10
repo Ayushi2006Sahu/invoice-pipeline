@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0034",
+  "document_type": "credit_note",
+  "layout": "A",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0007",
+    "invoice_date": "2026-06-19",
+    "due_date": "2026-08-03",
+    "currency": "INR",
+    "subtotal": "-85234.19",
+    "discount": "0.00",
+    "tax": "-15342.15",
+    "total": "-100576.34",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 7,
+        "unit_price": "58.86",
+        "amount": "-412.02"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "4902.67",
+        "amount": "-44124.03"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 9,
+        "unit_price": "3651.10",
+        "amount": "-32859.90"
+      },
+      {
+        "description": "Office chair",
+        "qty": 4,
+        "unit_price": "1959.56",
+        "amount": "-7838.24"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "VALID_CREDIT_NOTE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

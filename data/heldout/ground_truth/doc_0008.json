@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0008",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0013",
+    "invoice_date": "2026-02-08",
+    "due_date": "2026-03-10",
+    "currency": "INR",
+    "subtotal": "15537.45",
+    "discount": "0.00",
+    "tax": "2793.11",
+    "total": "18330.56",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 3,
+        "unit_price": "2271.69",
+        "amount": "6815.07"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 2,
+        "unit_price": "4351.09",
+        "amount": "8702.18"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE",
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE",
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

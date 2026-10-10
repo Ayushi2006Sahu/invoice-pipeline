@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0015",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0008",
+    "invoice_date": "2026-03-21",
+    "due_date": "2026-03-18",
+    "currency": "INR",
+    "subtotal": "111158.80",
+    "discount": "0.00",
+    "tax": "20008.58",
+    "total": "131167.38",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 7,
+        "unit_price": "4927.12",
+        "amount": "34489.84"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 9,
+        "unit_price": "4535.08",
+        "amount": "40815.72"
+      },
+      {
+        "description": "Office chair",
+        "qty": 8,
+        "unit_price": "2403.79",
+        "amount": "19230.32"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 4,
+        "unit_price": "4155.73",
+        "amount": "16622.92"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

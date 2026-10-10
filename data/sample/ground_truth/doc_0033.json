@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0033",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0012",
+    "invoice_date": "2026-07-03",
+    "due_date": "2026-08-17",
+    "currency": "INR",
+    "subtotal": "-54238.87",
+    "discount": "0.00",
+    "tax": "-9763.00",
+    "total": "-64001.87",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 5,
+        "unit_price": "2445.13",
+        "amount": "-12225.65"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "1094.47",
+        "amount": "-5472.35"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 7,
+        "unit_price": "4523.93",
+        "amount": "-31667.51"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "609.17",
+        "amount": "-4873.36"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

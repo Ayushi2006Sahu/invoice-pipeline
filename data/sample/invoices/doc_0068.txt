@@ -1,0 +1,15 @@
+TAX INVOICE
+Himalaya Stationers
+
+Inv #: HIM-2026-0011
+Date: 2026-02-23
+Payment Due: 2026-03-10
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+-----------------------------------------------------------
+Sub Total:                                             0.00
+Less Discount:                                         0.00
+GST @18%:                                              0.00
+Total Due:                                             0.00

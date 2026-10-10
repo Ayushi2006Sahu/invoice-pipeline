@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0052",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0002",
+    "invoice_date": "2026-03-01",
+    "due_date": "2026-03-31",
+    "currency": "INR",
+    "subtotal": "57096.99",
+    "discount": "0.00",
+    "tax": "10277.46",
+    "total": "67374.45",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "4634.01",
+        "amount": "9268.02"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "3269.49",
+        "amount": "13077.96"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "828.83",
+        "amount": "5801.81"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 5,
+        "unit_price": "1871.32",
+        "amount": "9356.60"
+      },
+      {
+        "description": "Office chair",
+        "qty": 10,
+        "unit_price": "1959.26",
+        "amount": "19592.60"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

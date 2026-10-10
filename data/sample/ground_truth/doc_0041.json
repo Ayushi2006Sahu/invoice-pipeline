@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_0041",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0001",
+    "invoice_date": "2026-02-22",
+    "due_date": "2026-04-08",
+    "currency": "INR",
+    "subtotal": "6669.65",
+    "discount": "0.00",
+    "tax": "1200.54",
+    "total": "7870.19",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "1333.93",
+        "amount": "6669.65"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

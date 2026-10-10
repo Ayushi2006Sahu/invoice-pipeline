@@ -1,0 +1,61 @@
+{
+  "doc_id": "doc_0041",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0010",
+    "invoice_date": "2026-09-19",
+    "due_date": "2026-11-03",
+    "currency": "INR",
+    "subtotal": "22757.06",
+    "discount": "2958.42",
+    "tax": "3563.76",
+    "total": "23362.40",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 7,
+        "unit_price": "611.38",
+        "amount": "4279.66"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "723.47",
+        "amount": "1446.94"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 6,
+        "unit_price": "2307.57",
+        "amount": "13845.42"
+      },
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "530.84",
+        "amount": "3185.04"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "noise"
+  }
+}

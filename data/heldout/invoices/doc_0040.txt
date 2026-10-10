@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 25 May 2026
+Dated: 25 Apr 2026
+Ref No: HIM 2026/6
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             2    INR 3,319.44    INR 6,638.88
+Annual maintenance        8    INR 3,248.67   INR 25,989.36
+-----------------------------------------------------------
+Gross Amount:                                 INR 32,628.24
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 5,873.08
+Total:                                        INR 38,501.32

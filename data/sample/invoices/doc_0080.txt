@@ -1,0 +1,15 @@
+INVOICE
+Himalaya Stationers
+
+Invoice Number: HIM-2026-0010
+Invoice Date: January 28, 2026
+Due Date: February 12, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream             7    INR 2.628,16   INR 18.397,12
+-----------------------------------------------------------
+Subtotal:                                     INR 18.442,92
+Discount:                                          INR 0,00
+VAT 18%:                                       INR 3.311,48
+Total Amount:                                 INR 21.754,40

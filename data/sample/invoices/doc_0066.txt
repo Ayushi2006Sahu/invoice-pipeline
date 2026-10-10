@@ -1,0 +1,19 @@
+INVOICE
+Acme Pvt Ltd
+
+Invoice Number: ACM-2026-0009
+Invoice Date: January 27, 2026
+Due Date: February 26, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Laptop stand              3    INR 3.394,27   INR 10.182,81
+Printer toner             8      INR 587,85    INR 4.702,80
+Office chair              1    INR 3.059,74    INR 3.059,74
+Desk lamp                 5    INR 2.510,99   INR 12.554,95
+Network switch            8    INR 2.359,32   INR 18.874,56
+-----------------------------------------------------------
+Subtotal:                                     INR 49.406,36
+Discount:                                          INR 0,00
+VAT 18%:                                       INR 8.887,47
+Total Amount:                                 INR 58.293,83

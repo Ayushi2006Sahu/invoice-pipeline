@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 13 Dec 2026
+Dated: 13 Nov 2026
+Ref No: HIM-2026-0008
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Courier charges           1    INR 4,257.76    INR 4,257.76
+Laptop stand              5    INR 4,363.60   INR 21,818.00
+-----------------------------------------------------------
+Gross Amount:                                 INR 26,075.76
+Concession:                                    INR 1,825.30
+IGST 18%:                                      INR 4,365.08
+Total:                                        INR 28,615.54

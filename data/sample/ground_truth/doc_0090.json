@@ -1,0 +1,49 @@
+{
+  "doc_id": "doc_0090",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0013",
+    "invoice_date": "2026-01-27",
+    "due_date": "2026-02-11",
+    "currency": "INR",
+    "subtotal": "13345.50",
+    "discount": "0.00",
+    "tax": "2402.19",
+    "total": "15747.69",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 4,
+        "unit_price": "3137.28",
+        "amount": "12549.12"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 6,
+        "unit_price": "132.73",
+        "amount": "796.38"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "truncated"
+  }
+}

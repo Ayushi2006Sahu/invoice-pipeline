@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0091",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": null,
+    "invoice_date": "2026-07-08",
+    "due_date": "2026-08-22",
+    "currency": "INR",
+    "subtotal": "1436.52",
+    "discount": "172.38",
+    "tax": "227.55",
+    "total": "1491.69",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 1,
+        "unit_price": "1436.52",
+        "amount": "1436.52"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "MISSING_FIELD"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "MISSING_FIELD"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

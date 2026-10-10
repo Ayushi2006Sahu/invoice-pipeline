@@ -1,0 +1,17 @@
+TAX INVOICE
+Nova Logistics Ltd
+
+Inv #: NVL-2026-0006
+Date: 2026-08-01
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               1          292.29          292.29
+Annual maintenance        4        2,541.08       10,164.32
+Laptop stand             10        4,505.07       45,050.70
+-----------------------------------------------------------
+Sub Total:                                        55,507.31
+Less Discount:                                     6,660.88
+GST @18%:                                          8,792.36
+Total Due:                                        57,638.79

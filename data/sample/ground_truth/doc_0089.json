@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0089",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0008",
+    "invoice_date": "2026-07-28",
+    "due_date": "2026-07-26",
+    "currency": "INR",
+    "subtotal": "86720.12",
+    "discount": "0.00",
+    "tax": "15609.62",
+    "total": "102335.75",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 10,
+        "unit_price": "3941.62",
+        "amount": "39416.20"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 3,
+        "unit_price": "4692.11",
+        "amount": "14076.33"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "3483.67",
+        "amount": "24385.69"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 2,
+        "unit_price": "4420.95",
+        "amount": "8841.90"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE",
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE",
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

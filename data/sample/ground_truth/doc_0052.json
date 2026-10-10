@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0052",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0010",
+    "invoice_date": "2026-09-08",
+    "due_date": "2026-10-08",
+    "currency": "INR",
+    "subtotal": "38730.58",
+    "discount": "1936.53",
+    "tax": "6622.93",
+    "total": "43416.98",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 10,
+        "unit_price": "2057.87",
+        "amount": "20578.70"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "4537.97",
+        "amount": "18151.88"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

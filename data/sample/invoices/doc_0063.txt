@@ -1,0 +1,17 @@
+INVOICE
+Orion Software Services
+
+Bill Number: ORS-2026-0009
+Issued: 09-May-2026
+Due By: 05-May-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Whiteboard                8      INR 471.74    INR 3,773.92
+Annual maintenance       10      INR 258.98    INR 2,589.80
+Courier charges           7    INR 3,901.07   INR 27,307.49
+-----------------------------------------------------------
+Net Amount:                                   INR 33,671.21
+Rebate:                                            INR 0.00
+Tax:                                           INR 6,060.82
+Grand Total:                                  INR 39,732.03

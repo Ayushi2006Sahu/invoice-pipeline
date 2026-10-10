@@ -1,0 +1,18 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ACM-2026-0012
+Date: 09/02/2026
+Payment Due: 11/03/2026
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               4        4,535.02       18,140.08
+Courier charges           6          570.90        3,425.40
+Network switch            6        2,904.56       17,427.36
+-----------------------------------------------------------
+Sub Total:                                        39,007.41
+Less Discount:                                     5,848.93
+GST @18%:                                          5,965.90
+Total Due:                                        39,124.38

@@ -1,0 +1,16 @@
+INVOICE
+Orion Software Services
+
+Invoice No: ORS-2026-0010
+Invoice Date: 23 Oct 2026
+Due Date: 22 Nov 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               7    Rs. 3,017.09   Rs. 21,119.63
+Whiteboard                3      Rs. 941.20    Rs. 2,823.60
+-----------------------------------------------------------
+Subtotal:                                     Rs. 23,943.23
+Discount:                                          Rs. 0.00
+Tax (18%):                                     Rs. 4,309.78
+Total:                                        Rs. 28,253.01

@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0067",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "NVL-2026-0009",
+    "invoice_date": "2026-01-14",
+    "due_date": "2026-02-13",
+    "currency": "INR",
+    "subtotal": "53010.71",
+    "discount": "0.00",
+    "tax": "9541.93",
+    "total": "62552.64",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 10,
+        "unit_price": "3971.28",
+        "amount": "39712.80"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "4127.86",
+        "amount": "8255.72"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "1680.73",
+        "amount": "5042.19"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "SAME_ID_DIFFERENT_VENDOR"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

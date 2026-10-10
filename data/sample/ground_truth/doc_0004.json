@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0004",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0005",
+    "invoice_date": "2026-10-08",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "59791.82",
+    "discount": "6577.10",
+    "tax": "9578.65",
+    "total": "62793.37",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "3536.14",
+        "amount": "24752.98"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 7,
+        "unit_price": "3601.09",
+        "amount": "25207.63"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 3,
+        "unit_price": "3277.07",
+        "amount": "9831.21"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

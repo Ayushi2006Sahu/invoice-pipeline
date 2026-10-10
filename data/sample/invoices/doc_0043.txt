@@ -1,0 +1,17 @@
+INVOICE
+Orion Software Services
+
+Invoice No: ORS-2026-0001
+Invoice Date: 16 May 2026
+Due Date: 31 May 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             6      Rs. 585.87    Rs. 3,515.22
+Laptop stand              2    Rs. 2,041.91    Rs. 4,083.82
+USB-C cable               2    Rs. 1,932.08    Rs. 3,864.16
+-----------------------------------------------------------
+Subtotal:                                     Rs. 11,463.20
+Discount:                                      Rs. 1,604.85
+Tax (18%):                                     Rs. 1,774.50
+Total:                                        Rs. 11,632.85

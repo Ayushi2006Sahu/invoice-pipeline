@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0017",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0005",
+    "invoice_date": "2026-06-17",
+    "due_date": "2026-07-17",
+    "currency": "INR",
+    "subtotal": "27130.24",
+    "discount": "0.00",
+    "tax": "4883.44",
+    "total": "32013.69",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 7,
+        "unit_price": "761.45",
+        "amount": "5330.15"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 8,
+        "unit_price": "1002.78",
+        "amount": "8022.24"
+      },
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "1413.96",
+        "amount": "1413.96"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "1766.27",
+        "amount": "12363.89"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

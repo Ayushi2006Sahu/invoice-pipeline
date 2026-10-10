@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0058",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0012",
+    "invoice_date": null,
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "7742.61",
+    "discount": "464.56",
+    "tax": "1310.05",
+    "total": "8588.10",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 9,
+        "unit_price": "860.29",
+        "amount": "7742.61"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "MISSING_FIELD"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "MISSING_FIELD"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

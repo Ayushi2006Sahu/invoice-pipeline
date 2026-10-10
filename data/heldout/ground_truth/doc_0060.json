@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0060",
+  "document_type": "credit_note",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0004",
+    "invoice_date": "2026-05-16",
+    "due_date": "2026-05-31",
+    "currency": "INR",
+    "subtotal": "-6477.20",
+    "discount": "-388.63",
+    "tax": "-1095.94",
+    "total": "-7184.51",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 2,
+        "unit_price": "3238.60",
+        "amount": "-6477.20"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "VALID_CREDIT_NOTE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

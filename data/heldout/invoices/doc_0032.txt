@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 05 Jun 2026
+Dated: 21 May 2026
+Ref No: SUN-2026-0004
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          7    INR 4,611.15   INR 32,278.05
+A4 paper ream            10      INR 450.55    INR 4,505.50
+Cloud hosting             6    INR 4,901.84   INR 29,411.04
+-----------------------------------------------------------
+Gross Amount:                                 INR 66,194.59
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 11,915.03
+Total:                                        INR 78,117.59

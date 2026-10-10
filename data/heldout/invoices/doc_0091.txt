@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 28 Dec 2026
+Dated: 28 Nov 2026
+Ref No: NVL-2026-0009
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 6    INR 1,953.03   INR 11,718.18
+-----------------------------------------------------------
+Gross Amount:                                 INR 11,718.18
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,109.27
+Total:                                        INR 13,827.45

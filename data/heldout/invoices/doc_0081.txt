@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 29 Apr 2026
+Dated: 14 Apr 2026
+Ref No: KAV-2026-0009
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             4      INR 525.60    INR 2,102.40
+Laptop stand              3    INR 1,842.83    INR 5,528.49
+Whiteboard                9      INR 527.59    INR 4,748.31
+USB-C cable               6    INR 1,303.71    INR 7,822.26
+-----------------------------------------------------------
+Gross Amount:                                 INR 20,249.41
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 3,636.26
+Total:                                        INR 23,885.67

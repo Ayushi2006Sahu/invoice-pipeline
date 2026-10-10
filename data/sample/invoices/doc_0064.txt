@@ -1,0 +1,19 @@
+INVOICE
+Zenith Corp
+
+Invoice Number: ZEN-2026-0008
+Invoice Date: June 05, 2026
+Due Date: June 03, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               2      INR 362,67      INR 725,34
+Network switch            3    INR 4.205,65   INR 12.616,95
+Laptop stand              5    INR 3.169,74   INR 15.848,70
+Printer toner            10    INR 4.879,70   INR 48.797,00
+Desk lamp                 5    INR 2.352,42   INR 11.762,10
+-----------------------------------------------------------
+Subtotal:                                     INR 89.750,09
+Discount:                                          INR 0,00
+VAT 18%:                                      INR 16.155,02
+Total Amount:                                INR 105.905,11

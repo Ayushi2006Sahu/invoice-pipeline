@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0017",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ZEN-2026-0007",
+    "invoice_date": "2026-06-04",
+    "due_date": "2026-07-19",
+    "currency": "INR",
+    "subtotal": "30455.70",
+    "discount": "0.00",
+    "tax": "5482.03",
+    "total": "35937.73",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 7,
+        "unit_price": "180.20",
+        "amount": "1261.40"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 3,
+        "unit_price": "68.82",
+        "amount": "206.46"
+      },
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "3623.48",
+        "amount": "28987.84"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "SAME_ID_DIFFERENT_VENDOR"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

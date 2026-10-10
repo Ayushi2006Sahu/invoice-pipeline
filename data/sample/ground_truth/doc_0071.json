@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0071",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0002",
+    "invoice_date": "2026-07-05",
+    "due_date": "2026-08-04",
+    "currency": "INR",
+    "subtotal": "77315.15",
+    "discount": "0.00",
+    "tax": "13916.73",
+    "total": "91231.88",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "2010.38",
+        "amount": "6031.14"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 3,
+        "unit_price": "2877.89",
+        "amount": "8633.67"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 9,
+        "unit_price": "4865.55",
+        "amount": "43789.95"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 1,
+        "unit_price": "3190.19",
+        "amount": "3190.19"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "2611.70",
+        "amount": "15670.20"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

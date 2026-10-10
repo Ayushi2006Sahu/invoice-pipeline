@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 19 Jul 2026
+Dated: 04 Jun 2026
+Ref No: ZEN-2026-0007
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               7      INR 180.20    INR 1,261.40
+Courier charges           3       INR 68.82      INR 206.46
+Network switch            8    INR 3,623.48   INR 28,987.84
+-----------------------------------------------------------
+Gross Amount:                                 INR 30,455.70
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 5,482.03
+Total:                                        INR 35,937.73

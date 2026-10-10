@@ -1,0 +1,14 @@
+TAX INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Inv #: BOS-2026-0007
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              5        2,632.77       13,163.85
+-----------------------------------------------------------
+Sub Total:                                        13,163.85
+Less Discount:                                         0.00
+GST @18%:                                          2,369.49
+Total Due:                                        15,533.34

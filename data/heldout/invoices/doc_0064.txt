@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 13 May 2026
+Dated: 13 Apr 2026
+Ref No: KAV-2026-0004
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Network switch            2    INR 4,819.85    INR 9,639.70
+-----------------------------------------------------------
+Gross Amount:                                  INR 9,639.70
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 1,735.15
+Total:                                        INR 11,374.85

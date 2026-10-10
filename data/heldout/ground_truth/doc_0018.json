@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0018",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0007",
+    "invoice_date": "2026-08-07",
+    "due_date": "2026-09-06",
+    "currency": "INR",
+    "subtotal": "31146.08",
+    "discount": "0.00",
+    "tax": "5606.29",
+    "total": "36752.37",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 7,
+        "unit_price": "4449.44",
+        "amount": "31146.08"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

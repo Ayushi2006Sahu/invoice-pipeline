@@ -1,0 +1,16 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Bill Number: KAV-2026-0010
+Issued: 08/09/2026
+Due By: 08/10/2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance       10    INR 2,057.87   INR 20,578.70
+USB-C cable               4    INR 4,537.97   INR 18,151.88
+-----------------------------------------------------------
+Net Amount:                                   INR 38,730.58
+Rebate:                                        INR 1,936.53
+Tax:                                           INR 6,622.93
+Grand Total:                                  INR 43,416.98

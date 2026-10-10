@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0088",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0001",
+    "invoice_date": "2026-02-02",
+    "due_date": "2026-03-04",
+    "currency": "INR",
+    "subtotal": "31252.70",
+    "discount": "4375.38",
+    "tax": "4837.92",
+    "total": "31715.24",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 3,
+        "unit_price": "2721.38",
+        "amount": "8164.14"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 8,
+        "unit_price": "526.62",
+        "amount": "4212.96"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 1,
+        "unit_price": "4564.65",
+        "amount": "4564.65"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 2,
+        "unit_price": "851.32",
+        "amount": "1702.64"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 3,
+        "unit_price": "4202.77",
+        "amount": "12608.31"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

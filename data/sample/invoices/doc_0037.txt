@@ -1,0 +1,19 @@
+INVOICE
+Zenith Corp
+
+Bill Number: ZEN-2026-0002
+Issued: 23-Mar-2026
+Due By: 07-May-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             4    INR 2,699.51   INR 10,798.04
+Office chair             10      INR 189.12    INR 1,891.20
+Network switch            9    INR 1,092.48    INR 9,832.32
+A4 paper ream             9    INR 2,249.49   INR 20,245.41
+USB-C cable               4    INR 2,405.14    INR 9,620.56
+-----------------------------------------------------------
+Net Amount:                                   INR 52,387.53
+Rebate:                                        INR 2,619.38
+Tax:                                           INR 8,958.27
+Grand Total:                                  INR 58,726.42

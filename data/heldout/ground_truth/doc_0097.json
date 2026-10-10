@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0097",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0004",
+    "invoice_date": "2026-01-27",
+    "due_date": "2026-02-11",
+    "currency": "INR",
+    "subtotal": "15566.43",
+    "discount": "0.00",
+    "tax": "2801.96",
+    "total": "18368.39",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 7,
+        "unit_price": "376.35",
+        "amount": "2634.45"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "403.09",
+        "amount": "1612.36"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 4,
+        "unit_price": "2360.15",
+        "amount": "9440.60"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 3,
+        "unit_price": "626.34",
+        "amount": "1879.02"
+      }
+    ]
+  },
+  "duplicate_of": "doc_0022",
+  "expected_defects": [
+    "DUPLICATE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

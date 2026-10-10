@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0050",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0001",
+    "invoice_date": "2026-01-21",
+    "due_date": "2026-03-07",
+    "currency": "INR",
+    "subtotal": "28162.01",
+    "discount": "2252.96",
+    "tax": "4663.63",
+    "total": "30572.68",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 9,
+        "unit_price": "470.01",
+        "amount": "4230.09"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 3,
+        "unit_price": "409.24",
+        "amount": "1227.72"
+      },
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "406.31",
+        "amount": "4063.10"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 4,
+        "unit_price": "2166.94",
+        "amount": "8667.76"
+      },
+      {
+        "description": "Office chair",
+        "qty": 2,
+        "unit_price": "4986.67",
+        "amount": "9973.34"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

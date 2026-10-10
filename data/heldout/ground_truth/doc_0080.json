@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0080",
+  "document_type": "credit_note",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0008",
+    "invoice_date": "2026-04-29",
+    "due_date": "2026-05-29",
+    "currency": "INR",
+    "subtotal": "31257.78",
+    "discount": "0.00",
+    "tax": "5626.40",
+    "total": "36884.18",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "2709.84",
+        "amount": "10839.36"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 9,
+        "unit_price": "1263.10",
+        "amount": "11367.90"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 2,
+        "unit_price": "3475.31",
+        "amount": "6950.62"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "244.10",
+        "amount": "1952.80"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 2,
+        "unit_price": "73.55",
+        "amount": "147.10"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 16 Jun 2026
+Dated: 17 May 2026
+Ref No: SUN-2026-0005
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              5    INR 3,379.03   INR 16,895.15
+-----------------------------------------------------------
+Gross Amount:                                 INR 16,895.15
+Concession:                                    INR 1,351.61
+IGST 18%:                                      INR 2,797.84
+Total:                                        INR 18,383.86

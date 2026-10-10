@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 11 Feb 2026
+Dated: 27 Jan 2026
+Ref No: ORS-2026-0004
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             7      INR 376.35    INR 2,634.45
+Annual maintenance        4      INR 403.09    INR 1,612.36
+A4 paper ream             4    INR 2,360.15    INR 9,440.60
+Courier charges           3      INR 626.34    INR 1,879.02
+-----------------------------------------------------------
+Gross Amount:                                 INR 15,566.43
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,801.96
+Total:                                        INR 18,368.39

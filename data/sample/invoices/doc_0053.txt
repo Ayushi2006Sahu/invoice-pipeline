@@ -1,0 +1,19 @@
+TAX INVOICE
+Himalaya Stationers
+
+Inv #: HIM2026-0013
+Date: 2026-08-25
+Payment Due: 2026-09-09
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream             3        1,679.22        5,037.66
+Office chair              9          121.69        1,095.21
+Desk lamp                 9        2,189.04       19,701.36
+USB-C cable               2        1,228.07        2,456.14
+-----------------------------------------------------------
+Sub Total:                                        28,290.37
+Less Discount:                                     1,697.42
+GST @18%:                                          4,786.73
+Total Due:                                        31,379.68

@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 12 Jul 2026
+Dated: 27 Jun 2026
+Ref No: KAV-2026-0002
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Courier charges           5    INR 2,535.64   INR 12,678.20
+Desk lamp                 2      INR 368.08      INR 736.16
+Annual maintenance        5    INR 3,442.81   INR 17,214.05
+A4 paper ream            10    INR 3,621.64   INR 36,216.40
+Whiteboard                8    INR 1,542.10   INR 12,336.80
+-----------------------------------------------------------
+Gross Amount:                                 INR 79,181.61
+Concession:                                   INR 11,877.24
+IGST 18%:                                     INR 12,114.79
+Total:                                        INR 79,419.16

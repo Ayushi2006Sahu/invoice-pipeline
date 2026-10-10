@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0019",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "NVL-2026-0004",
+    "invoice_date": "2026-02-20",
+    "due_date": "2026-04-06",
+    "currency": "INR",
+    "subtotal": "37493.62",
+    "discount": "0.00",
+    "tax": "6748.85",
+    "total": "44242.47",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "1381.37",
+        "amount": "8288.22"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "3306.61",
+        "amount": "16533.05"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 10,
+        "unit_price": "749.61",
+        "amount": "7496.10"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 1,
+        "unit_price": "2579.27",
+        "amount": "2579.27"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 1,
+        "unit_price": "2596.98",
+        "amount": "2596.98"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "SAME_ID_DIFFERENT_VENDOR"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

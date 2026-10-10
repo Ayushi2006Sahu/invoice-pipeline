@@ -1,0 +1,16 @@
+INVOICE
+Orion Software Services
+
+Invoice Number: ORS-2026-0005
+Invoice Date: October 08, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Whiteboard                7    INR 3.536,14   INR 24.752,98
+Laptop stand              7    INR 3.601,09   INR 25.207,63
+USB-C cable               3    INR 3.277,07    INR 9.831,21
+-----------------------------------------------------------
+Subtotal:                                     INR 59.791,82
+Discount:                                      INR 6.577,10
+VAT 18%:                                       INR 9.578,65
+Total Amount:                                 INR 62.793,37

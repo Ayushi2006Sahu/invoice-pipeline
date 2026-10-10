@@ -1,0 +1,61 @@
+{
+  "doc_id": "doc_0086",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0013",
+    "invoice_date": "2026-08-20",
+    "due_date": "2026-09-04",
+    "currency": "INR",
+    "subtotal": "76513.07",
+    "discount": "8416.44",
+    "tax": "12257.39",
+    "total": "80354.02",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 9,
+        "unit_price": "3224.18",
+        "amount": "29017.62"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "569.98",
+        "amount": "3989.86"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 2,
+        "unit_price": "4521.08",
+        "amount": "9042.16"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 9,
+        "unit_price": "3829.27",
+        "amount": "34463.43"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "noise"
+  }
+}

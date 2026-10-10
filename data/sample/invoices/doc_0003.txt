@@ -1,0 +1,20 @@
+TAX INVOICE
+Himalaya Stationers
+
+Inv #: HIM-2026-0001
+Date: 2026-02-10
+Payment Due: 2026-02-25
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream            10        4,692.31       46,923.10
+Cloud hosting             6        3,076.98       18,461.88
+Annual maintenance        4        3,743.98       14,975.92
+Whiteboard                2          290.25          580.50
+Printer toner             4        4,103.10       16,412.40
+-----------------------------------------------------------
+Sub Total:                                        97,353.80
+Less Discount:                                         0.00
+GST @18%:                                         17,523.68
+Total Due:                                       114,877.48

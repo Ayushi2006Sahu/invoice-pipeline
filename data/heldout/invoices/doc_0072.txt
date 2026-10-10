@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 27 Feb 2026
+Dated: 28 Jan 2026
+Ref No: BOS-2026-0001
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             7    INR 2,852.79   INR 19,969.53
+Office chair              6    INR 3,247.17   INR 19,483.02
+Laptop stand             10    INR 1,720.44   INR 17,204.40
+-----------------------------------------------------------
+Gross Amount:                                 INR 56,656.95
+Concession:                                    INR 7,365.40
+IGST 18%:                                      INR 8,872.48
+Total:                                        INR 58,164.03

@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0063",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0002",
+    "invoice_date": "2026-03-08",
+    "due_date": "2026-04-22",
+    "currency": "INR",
+    "subtotal": "125076.17",
+    "discount": "16259.90",
+    "tax": "19586.93",
+    "total": "128403.20",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 1,
+        "unit_price": "4821.11",
+        "amount": "4821.11"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "4756.55",
+        "amount": "28539.30"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 8,
+        "unit_price": "3523.27",
+        "amount": "28186.16"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 10,
+        "unit_price": "4323.19",
+        "amount": "43231.90"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 9,
+        "unit_price": "2255.30",
+        "amount": "20297.70"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

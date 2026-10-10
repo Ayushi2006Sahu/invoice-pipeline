@@ -1,0 +1,13 @@
+SALES INVOICE
+
+Ref No: ORS-2026-0012
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             9      INR 860.29    INR 7,742.61
+-----------------------------------------------------------
+Gross Amount:                                  INR 7,742.61
+Concession:                                      INR 464.56
+IGST 18%:                                      INR 1,310.05
+Total:                                         INR 8,588.10

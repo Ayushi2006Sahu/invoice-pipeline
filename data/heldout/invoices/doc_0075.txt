@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 24 Oct 2026
+Dated: 09 Oct 2026
+Ref No: KAV-2026-0008
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          1    INR 4,307.02    INR 4,307.02
+Cloud hosting             7    INR 4,838.97   INR 33,872.79
+-----------------------------------------------------------
+Gross Amount:                                 INR 38,179.81
+Concession:                                    INR 4,963.38
+IGST 18%:                                      INR 5,978.96
+Total:                                        INR 39,198.87

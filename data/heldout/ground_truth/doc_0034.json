@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_0034",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0001",
+    "invoice_date": "2026-02-16",
+    "due_date": "2026-04-02",
+    "currency": "INR",
+    "subtotal": "15696.94",
+    "discount": "0.00",
+    "tax": "2825.45",
+    "total": "18522.39",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "2242.42",
+        "amount": "15696.94"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

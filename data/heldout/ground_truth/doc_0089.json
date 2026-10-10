@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0089",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0011",
+    "invoice_date": "2026-03-24",
+    "due_date": "2026-04-23",
+    "currency": "INR",
+    "subtotal": "-17755.10",
+    "discount": "-1775.51",
+    "tax": "-2876.33",
+    "total": "-18855.92",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 4,
+        "unit_price": "2103.55",
+        "amount": "-8414.20"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "1346.60",
+        "amount": "-4039.80"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "389.38",
+        "amount": "-2725.66"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 1,
+        "unit_price": "2575.44",
+        "amount": "-2575.44"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

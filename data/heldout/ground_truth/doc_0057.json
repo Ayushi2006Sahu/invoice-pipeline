@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0057",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0007",
+    "invoice_date": "2026-01-07",
+    "due_date": "2026-02-21",
+    "currency": "INR",
+    "subtotal": "55722.34",
+    "discount": "4457.79",
+    "tax": "9227.62",
+    "total": "60475.35",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 6,
+        "unit_price": "59.12",
+        "amount": "354.72"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 6,
+        "unit_price": "3986.00",
+        "amount": "23916.00"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 6,
+        "unit_price": "4449.35",
+        "amount": "26696.10"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "679.36",
+        "amount": "4755.52"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

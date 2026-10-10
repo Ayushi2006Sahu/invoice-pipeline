@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 15 May 2026
+Dated: 15 Apr 2026
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Laptop stand              2    INR 3,392.11    INR 6,784.22
+Courier charges          10    INR 3,770.90   INR 37,709.00
+Desk lamp                10    INR 1,883.43   INR 18,834.30
+Printer toner             4      INR 246.36      INR 985.44
+Office chair              6    INR 1,832.66   INR 10,995.96
+-----------------------------------------------------------
+Gross Amount:                                 INR 75,308.92
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 13,555.61
+Total:                                        INR 88,864.53

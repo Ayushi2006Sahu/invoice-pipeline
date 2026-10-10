@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0097",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0004",
+    "invoice_date": "2026-02-25",
+    "due_date": "2026-03-27",
+    "currency": "INR",
+    "subtotal": "73493.94",
+    "discount": "0.00",
+    "tax": "13228.91",
+    "total": "86722.85",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 7,
+        "unit_price": "179.95",
+        "amount": "1259.65"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "3911.71",
+        "amount": "11735.13"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "4151.95",
+        "amount": "24911.70"
+      },
+      {
+        "description": "Network switch",
+        "qty": 7,
+        "unit_price": "4256.02",
+        "amount": "29792.14"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "1448.83",
+        "amount": "5795.32"
+      }
+    ]
+  },
+  "duplicate_of": "doc_0045",
+  "expected_defects": [
+    "DUPLICATE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

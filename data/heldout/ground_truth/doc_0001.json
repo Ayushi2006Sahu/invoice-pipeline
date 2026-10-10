@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0001",
+  "document_type": "credit_note",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0004",
+    "invoice_date": "2026-01-21",
+    "due_date": "2026-02-05",
+    "currency": "INR",
+    "subtotal": "-981.44",
+    "discount": "0.00",
+    "tax": "-176.66",
+    "total": "-1158.10",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "490.72",
+        "amount": "-981.44"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "VALID_CREDIT_NOTE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

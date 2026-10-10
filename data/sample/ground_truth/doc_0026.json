@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0026",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0004",
+    "invoice_date": "2026-06-06",
+    "due_date": "2026-07-21",
+    "currency": "INR",
+    "subtotal": "113898.88",
+    "discount": "12524.86",
+    "tax": "18240.74",
+    "total": "119614.76",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "3175.42",
+        "amount": "31754.20"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "1233.25",
+        "amount": "12332.50"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "2044.27",
+        "amount": "18398.43"
+      },
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "4813.17",
+        "amount": "38505.36"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "1608.98",
+        "amount": "12871.84"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

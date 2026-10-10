@@ -1,0 +1,15 @@
+CREDIT NOTE
+
+Pay By: 31 May 2026
+Dated: 16 May 2026
+Ref No: ACM-2026-0004
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             2    INR 3,238.60   -INR 6,477.20
+-----------------------------------------------------------
+Gross Amount:                                 -INR 6,477.20
+Concession:                                     -INR 388.63
+IGST 18%:                                     -INR 1,095.94
+Total:                                        -INR 7,184.51

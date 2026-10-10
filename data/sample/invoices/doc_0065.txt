@@ -1,0 +1,18 @@
+INVOICE
+Himalaya Stationers
+
+Invoice Number: HIM-2026-0002
+Invoice Date: April 19, 2026
+Due Date: June 03, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             6    INR 4.468,97   INR 26.813,82
+Network switch            1    INR 1.250,87    INR 1.250,87
+Whiteboard                1    INR 4.270,75    INR 4.270,75
+USB-C cable               6    INR 2.153,25   INR 12.919,50
+-----------------------------------------------------------
+Subtotal:                                     INR 45.254,94
+Discount:                                          INR 0,00
+VAT 18%:                                       INR 8.145,89
+Total Amount:                                 INR 53.400,83

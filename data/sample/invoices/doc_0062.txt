@@ -1,0 +1,16 @@
+INVOICE
+Zenith Corp
+
+Invoice Number: ZEN-2026-0006
+Invoice Date: January 22, 2026
+Due Date: February 21, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Whiteboard                6    INR 3.104,02   INR 18.624,12
+Office chair              9      INR 826,43    INR 7.437,87
+-----------------------------------------------------------
+Subtotal:                                     INR 26.061,99
+Discount:                                          INR 0,00
+VAT 18%:                                       INR 4.691,16
+Total Amount:                                 INR 30.753,15

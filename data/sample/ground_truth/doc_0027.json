@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0027",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0008",
+    "invoice_date": "2026-04-21",
+    "due_date": "2026-06-05",
+    "currency": "INR",
+    "subtotal": "58784.92",
+    "discount": "4702.79",
+    "tax": "9734.78",
+    "total": "63775.10",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 2,
+        "unit_price": "3831.60",
+        "amount": "7663.20"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "1704.38",
+        "amount": "6817.52"
+      },
+      {
+        "description": "Network switch",
+        "qty": 2,
+        "unit_price": "3944.83",
+        "amount": "7889.66"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "4046.06",
+        "amount": "36414.54"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

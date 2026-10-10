@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0094",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0011",
+    "invoice_date": "2026-01-21",
+    "due_date": "2026-02-20",
+    "currency": "INR",
+    "subtotal": "-23671.46",
+    "discount": "0.00",
+    "tax": "-4260.86",
+    "total": "-27932.32",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "1364.00",
+        "amount": "-13640.00"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 3,
+        "unit_price": "3343.82",
+        "amount": "-10031.46"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

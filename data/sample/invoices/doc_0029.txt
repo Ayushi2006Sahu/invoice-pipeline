@@ -1,0 +1,16 @@
+INVOICE
+Nova Logistics Ltd
+
+Invoice Number: NVL-2026-0009
+Invoice Date: April 22, 2026
+Due Date: May 22, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              3    INR 1.300,66    INR 3.901,98
+Desk lamp                 3    INR 2.532,82    INR 7.598,46
+-----------------------------------------------------------
+Subtotal:                                     INR 11.500,44
+Discount:                                      INR 1.610,06
+VAT 18%:                                       INR 1.780,27
+Total Amount:                                 INR 11.670,65

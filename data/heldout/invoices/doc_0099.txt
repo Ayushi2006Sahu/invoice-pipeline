@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 29 Jan 2026
+Dated: 14 Jan 2026
+Ref No: ZEN-2026-0003
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Whiteboard                7    INR 3,472.26   INR 24,305.82
+-----------------------------------------------------------
+Gross Amount:                                 INR 24,305.82
+Concession:                                    INR 1,701.41
+IGST 18%:                                      INR 4,068.79
+Total:                                        INR 26,673.20

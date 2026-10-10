@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0046",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0011",
+    "invoice_date": "2026-08-04",
+    "due_date": "2026-09-03",
+    "currency": "INR",
+    "subtotal": "-4908.30",
+    "discount": "0.00",
+    "tax": "-883.49",
+    "total": "-5791.79",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "490.83",
+        "amount": "-4908.30"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

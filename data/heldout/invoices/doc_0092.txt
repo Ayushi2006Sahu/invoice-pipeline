@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 05 May 2026
+Dated: 21 Mar 2026
+Ref No: SUN-2026-0001
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               7    INR 2,367.97   INR 16,575.79
+Courier charges           6      INR 430.35    INR 2,582.10
+Laptop stand              4    INR 2,295.72    INR 9,182.88
+Cloud hosting             2    INR 1,165.10    INR 2,330.20
+A4 paper ream             5    INR 4,160.08   INR 20,800.40
+-----------------------------------------------------------
+Gross Amount:                                 INR 51,471.37
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 9,264.85
+Total:                                        INR 60,736.22

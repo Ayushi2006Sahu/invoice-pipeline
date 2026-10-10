@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 19 Aug 2026
+Dated: 20 Jul 2026
+Ref No: HIM-2026-0002
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Laptop stand              8      INR 359.09    INR 2,872.72
+Desk lamp                 4    INR 4,077.75   INR 16,311.00
+A4 paper ream             5      INR 728.11    INR 3,640.55
+-----------------------------------------------------------
+Gross Amount:                                 INR 22,824.27
+Concession:                                    INR 2,510.67
+IGST 18%:                                      INR 3,656.45
+Total:                                        INR 23,970.05

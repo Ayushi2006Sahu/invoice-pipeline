@@ -1,0 +1,19 @@
+CREDIT NOTE
+
+Pay By: 29 May 2026
+Dated: 29 Apr 2026
+Ref No: SUN-2026-0008
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               4    INR 2,709.84   INR 10,839.36
+Consulting hours          9    INR 1,263.10   INR 11,367.90
+A4 paper ream             2    INR 3,475.31    INR 6,950.62
+Cloud hosting             8      INR 244.10    INR 1,952.80
+Printer toner             2       INR 73.55      INR 147.10
+-----------------------------------------------------------
+Gross Amount:                                 INR 31,257.78
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 5,626.40
+Total:                                        INR 36,884.18

@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 20 Jun 2026
+Dated: 21 May 2026
+Ref No: ACM-2026-0001
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Annual maintenance        5    INR 4,301.94   INR 21,509.70
+A4 paper ream             3    INR 3,647.31   INR 10,941.93
+USB-C cable               4      INR 393.49    INR 1,573.96
+Laptop stand              6    INR 3,250.48   INR 19,502.88
+Courier charges           5      INR 882.39    INR 4,411.95
+-----------------------------------------------------------
+Gross Amount:                                 INR 57,940.42
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 10,429.28
+Total:                                        INR 68,369.70

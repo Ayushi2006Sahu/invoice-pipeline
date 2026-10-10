@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0020",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0008",
+    "invoice_date": "2026-04-23",
+    "due_date": "2026-05-23",
+    "currency": "INR",
+    "subtotal": "43240.01",
+    "discount": "5615.80",
+    "tax": "6764.88",
+    "total": "44389.09",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "4799.83",
+        "amount": "43198.47"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

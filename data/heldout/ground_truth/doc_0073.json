@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0073",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0003",
+    "invoice_date": "2026-08-27",
+    "due_date": "2026-10-11",
+    "currency": "INR",
+    "subtotal": "28342.61",
+    "discount": "0.00",
+    "tax": "5101.67",
+    "total": "33444.28",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "2154.42",
+        "amount": "17235.36"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 2,
+        "unit_price": "3850.03",
+        "amount": "7700.06"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "941.30",
+        "amount": "2823.90"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 3,
+        "unit_price": "194.43",
+        "amount": "583.29"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

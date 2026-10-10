@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0058",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0005",
+    "invoice_date": "2026-06-03",
+    "due_date": "2026-07-18",
+    "currency": "INR",
+    "subtotal": "67057.89",
+    "discount": "8717.53",
+    "tax": "10501.26",
+    "total": "68841.62",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "1544.15",
+        "amount": "9264.90"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "2347.34",
+        "amount": "7042.02"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 9,
+        "unit_price": "3738.57",
+        "amount": "33647.13"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 5,
+        "unit_price": "3256.95",
+        "amount": "16284.75"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "91.01",
+        "amount": "819.09"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

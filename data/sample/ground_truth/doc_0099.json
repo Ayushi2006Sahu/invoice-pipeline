@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0099",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0001",
+    "invoice_date": "2026-01-31",
+    "due_date": "2026-03-17",
+    "currency": "INR",
+    "subtotal": "7907.58",
+    "discount": "553.53",
+    "tax": "1323.73",
+    "total": "8677.78",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 2,
+        "unit_price": "3953.79",
+        "amount": "7907.58"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "conflicts_with": "doc_0050",
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

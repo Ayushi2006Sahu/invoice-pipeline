@@ -1,0 +1,17 @@
+CREDIT NOTE
+Himalaya Stationers
+
+Bill Number: HIM-2026-0016
+Issued: 23-Jul-2026
+Due By: 06-Sep-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        8      INR 444.78    INR 3,558.24
+Consulting hours          3    INR 4,003.92   INR 12,011.76
+A4 paper ream             4    INR 4,559.61   INR 18,238.44
+-----------------------------------------------------------
+Net Amount:                                   INR 33,808.44
+Rebate:                                        INR 5,071.27
+Tax:                                           INR 5,172.69
+Grand Total:                                  INR 33,909.86

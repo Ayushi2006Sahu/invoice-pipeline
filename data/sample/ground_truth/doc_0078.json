@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0078",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0004",
+    "invoice_date": "2026-05-08",
+    "due_date": "2026-05-23",
+    "currency": "INR",
+    "subtotal": "13363.60",
+    "discount": "0.00",
+    "tax": "2405.45",
+    "total": "15769.05",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 8,
+        "unit_price": "784.95",
+        "amount": "6279.60"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "1012.00",
+        "amount": "7084.00"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

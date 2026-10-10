@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0039",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0012",
+    "invoice_date": "2026-02-09",
+    "due_date": "2026-03-11",
+    "currency": "INR",
+    "subtotal": "39007.41",
+    "discount": "5848.93",
+    "tax": "5965.90",
+    "total": "39124.38",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "4535.02",
+        "amount": "18140.08"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 6,
+        "unit_price": "570.90",
+        "amount": "3425.40"
+      },
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "2904.56",
+        "amount": "17427.36"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE",
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE",
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

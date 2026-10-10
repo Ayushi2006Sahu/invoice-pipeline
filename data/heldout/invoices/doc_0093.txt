@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 25 Apr 2026
+Dated: 10 Apr 2026
+Ref No: ORS-26-9
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              9      INR 403.54    INR 3,631.86
+Printer toner             4    INR 2,648.87   INR 10,595.48
+-----------------------------------------------------------
+Gross Amount:                                 INR 14,227.34
+Concession:                                    INR 1,280.46
+IGST 18%:                                      INR 2,330.44
+Total:                                        INR 15,277.32

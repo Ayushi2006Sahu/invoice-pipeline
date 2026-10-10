@@ -1,0 +1,17 @@
+INVOICE
+Acme Pvt Ltd
+
+Invoice No: NVL-2026-0009
+Invoice Date: 14 Jan 2026
+Due Date: 13 Feb 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Consulting hours         10    Rs. 3,971.28   Rs. 39,712.80
+Laptop stand              2    Rs. 4,127.86    Rs. 8,255.72
+Desk lamp                 3    Rs. 1,680.73    Rs. 5,042.19
+-----------------------------------------------------------
+Subtotal:                                     Rs. 53,010.71
+Discount:                                          Rs. 0.00
+Tax (18%):                                     Rs. 9,541.93
+Total:                                        Rs. 62,552.64

@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0055",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0007",
+    "invoice_date": "2026-04-21",
+    "due_date": "2026-04-14",
+    "currency": "INR",
+    "subtotal": "31341.50",
+    "discount": "4074.40",
+    "tax": "4908.08",
+    "total": "32175.18",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 5,
+        "unit_price": "1823.15",
+        "amount": "9115.75"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 1,
+        "unit_price": "2661.71",
+        "amount": "2661.71"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 5,
+        "unit_price": "3060.88",
+        "amount": "15304.40"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 6,
+        "unit_price": "709.94",
+        "amount": "4259.64"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

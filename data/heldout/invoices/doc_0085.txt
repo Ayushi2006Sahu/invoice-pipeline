@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 27 Jul 2026
+Dated: 12 Aug 2026
+Ref No: ZEN-2026-0009
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+A4 paper ream             3    INR 1,269.37    INR 3,808.11
+Whiteboard               10    INR 4,873.03   INR 48,730.30
+Office chair              1    INR 3,434.30    INR 3,434.30
+Desk lamp                 5      INR 720.91    INR 3,604.55
+-----------------------------------------------------------
+Gross Amount:                                 INR 59,577.26
+Concession:                                    INR 7,745.04
+IGST 18%:                                      INR 9,329.80
+Total:                                        INR 61,162.02

@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0002",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0003",
+    "invoice_date": "2026-05-06",
+    "due_date": "2026-05-21",
+    "currency": "INR",
+    "subtotal": "50865.35",
+    "discount": "6612.50",
+    "tax": "7965.51",
+    "total": "52218.36",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "1912.64",
+        "amount": "11475.84"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 4,
+        "unit_price": "3563.64",
+        "amount": "14254.56"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 5,
+        "unit_price": "3729.55",
+        "amount": "18647.75"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "3243.60",
+        "amount": "6487.20"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

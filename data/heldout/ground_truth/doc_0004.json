@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0004",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0009",
+    "invoice_date": "2026-09-30",
+    "due_date": "2026-11-14",
+    "currency": "INR",
+    "subtotal": "62540.54",
+    "discount": "0.00",
+    "tax": "11257.30",
+    "total": "73797.83",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 1,
+        "unit_price": "747.79",
+        "amount": "747.79"
+      },
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "600.06",
+        "amount": "3600.36"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 7,
+        "unit_price": "4432.11",
+        "amount": "31024.77"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 8,
+        "unit_price": "2978.29",
+        "amount": "23826.32"
+      },
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "3341.30",
+        "amount": "3341.30"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

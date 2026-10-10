@@ -1,0 +1,19 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ACM-2026-0005
+Date: 2026-06-17
+Payment Due: 2026-07-17
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 7          761.45        5,330.15
+Annual maintenance        8        1,002.78        8,022.24
+Office chair              1        1,413.96        1,413.96
+A4 paper ream             7        1,766.27       12,363.89
+-----------------------------------------------------------
+Sub Total:                                        27,130.24
+Less Discount:                                         0.00
+GST @18%:                                          4,883.44
+Total Due:                                        32,013.69

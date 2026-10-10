@@ -1,0 +1,67 @@
+{
+  "doc_id": "doc_0082",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0009",
+    "invoice_date": "2026-02-26",
+    "due_date": "2026-04-12",
+    "currency": "INR",
+    "subtotal": "45240.43",
+    "discount": "3166.83",
+    "tax": "7573.25",
+    "total": "49646.85",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "1772.59",
+        "amount": "7090.36"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "4184.76",
+        "amount": "12554.28"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 10,
+        "unit_price": "64.86",
+        "amount": "648.60"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "4550.52",
+        "amount": "22752.60"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "731.53",
+        "amount": "2194.59"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "char_swap"
+  }
+}

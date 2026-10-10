@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0070",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0003",
+    "invoice_date": "2026-08-05",
+    "due_date": "2026-09-04",
+    "currency": "INR",
+    "subtotal": "9188.04",
+    "discount": "0.00",
+    "tax": "1653.85",
+    "total": "10841.89",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 4,
+        "unit_price": "544.53",
+        "amount": "2178.12"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 2,
+        "unit_price": "3504.96",
+        "amount": "7009.92"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

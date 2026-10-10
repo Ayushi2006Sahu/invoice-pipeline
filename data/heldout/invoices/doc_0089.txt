@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 23 Apr 2026
+Dated: 24 Mar 2026
+Ref No: KAV-2026-0011
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          4    INR 2,103.55   -INR 8,414.20
+Desk lamp                 3    INR 1,346.60   -INR 4,039.80
+A4 paper ream             7      INR 389.38   -INR 2,725.66
+Whiteboard                1    INR 2,575.44   -INR 2,575.44
+-----------------------------------------------------------
+Gross Amount:                                -INR 17,755.10
+Concession:                                   -INR 1,775.51
+IGST 18%:                                     -INR 2,876.33
+Total:                                       -INR 18,855.92

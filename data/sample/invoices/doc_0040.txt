@@ -1,0 +1,19 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ORS-2026-0008
+Date: 2026-03-20
+Payment Due: 2026-04-19
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            6          116.33          697.98
+Consulting hours          7        4,361.38       30,529.66
+A4 paper ream             8          603.32        4,826.56
+Whiteboard                7        1,948.90       13,642.30
+-----------------------------------------------------------
+Sub Total:                                        49,696.50
+Less Discount:                                     5,963.58
+GST @18%:                                          7,871.93
+Total Due:                                        51,604.85

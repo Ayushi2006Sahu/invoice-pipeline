@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0012",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0011",
+    "invoice_date": "2026-04-12",
+    "due_date": "2026-04-06",
+    "currency": "INR",
+    "subtotal": "47785.94",
+    "discount": "6690.03",
+    "tax": "7397.26",
+    "total": "48493.17",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 2,
+        "unit_price": "3653.87",
+        "amount": "7307.74"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 4,
+        "unit_price": "4893.95",
+        "amount": "19575.80"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 5,
+        "unit_price": "4180.48",
+        "amount": "20902.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

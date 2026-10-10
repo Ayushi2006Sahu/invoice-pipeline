@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0081",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0009",
+    "invoice_date": "2026-04-14",
+    "due_date": "2026-04-29",
+    "currency": "INR",
+    "subtotal": "20249.41",
+    "discount": "0.00",
+    "tax": "3636.26",
+    "total": "23885.67",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 4,
+        "unit_price": "525.60",
+        "amount": "2102.40"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "1842.83",
+        "amount": "5528.49"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 9,
+        "unit_price": "527.59",
+        "amount": "4748.31"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "1303.71",
+        "amount": "7822.26"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

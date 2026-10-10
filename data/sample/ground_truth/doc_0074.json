@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0074",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0003",
+    "invoice_date": "2026-08-31",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "66179.24",
+    "discount": "8603.30",
+    "tax": "10363.67",
+    "total": "67939.61",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "3230.65",
+        "amount": "32306.50"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "2487.87",
+        "amount": "14927.22"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "2368.19",
+        "amount": "18945.52"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

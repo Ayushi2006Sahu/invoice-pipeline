@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0051",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": null,
+    "invoice_date": "2026-09-05",
+    "due_date": "2026-09-20",
+    "currency": "INR",
+    "subtotal": "54688.96",
+    "discount": "0.00",
+    "tax": "9844.01",
+    "total": "64532.97",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 7,
+        "unit_price": "3606.34",
+        "amount": "25244.38"
+      },
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "1020.69",
+        "amount": "6124.14"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 10,
+        "unit_price": "1686.80",
+        "amount": "16868.00"
+      },
+      {
+        "description": "Office chair",
+        "qty": 2,
+        "unit_price": "1116.44",
+        "amount": "2232.88"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 1,
+        "unit_price": "4219.56",
+        "amount": "4219.56"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "MISSING_FIELD"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "MISSING_FIELD"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

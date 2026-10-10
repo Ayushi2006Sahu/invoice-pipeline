@@ -1,0 +1,17 @@
+INVOICE
+Sundar Electronics
+
+Bill Number: SUN-26-3
+Issued: 13-Jul-2026
+Due By: 12-Aug-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 3    INR 2,391.19    INR 7,173.57
+Annual maintenance        9    INR 2,589.34   INR 23,304.06
+Courier charges           6    INR 1,792.94   INR 10,757.64
+-----------------------------------------------------------
+Net Amount:                                   INR 41,235.27
+Rebate:                                        INR 5,360.59
+Tax:                                           INR 6,457.44
+Grand Total:                                  INR 42,332.12

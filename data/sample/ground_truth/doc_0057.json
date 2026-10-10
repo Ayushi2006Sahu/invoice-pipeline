@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0057",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0002",
+    "invoice_date": "2026-01-02",
+    "due_date": "2026-02-16",
+    "currency": "INR",
+    "subtotal": "78983.63",
+    "discount": "0.00",
+    "tax": "14217.05",
+    "total": "93200.68",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "3624.12",
+        "amount": "7248.24"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 9,
+        "unit_price": "3986.76",
+        "amount": "35880.84"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 5,
+        "unit_price": "4079.67",
+        "amount": "20398.35"
+      },
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "634.85",
+        "amount": "3809.10"
+      },
+      {
+        "description": "Office chair",
+        "qty": 5,
+        "unit_price": "2329.42",
+        "amount": "11647.10"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

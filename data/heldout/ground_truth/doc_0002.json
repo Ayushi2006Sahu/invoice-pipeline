@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0002",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0008",
+    "invoice_date": "2026-05-02",
+    "due_date": "2026-06-01",
+    "currency": "INR",
+    "subtotal": "38187.55",
+    "discount": "0.00",
+    "tax": "6873.76",
+    "total": "45061.31",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 1,
+        "unit_price": "3747.57",
+        "amount": "3747.57"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 8,
+        "unit_price": "1076.11",
+        "amount": "8608.88"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 6,
+        "unit_price": "2889.17",
+        "amount": "17335.02"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 8,
+        "unit_price": "1062.01",
+        "amount": "8496.08"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

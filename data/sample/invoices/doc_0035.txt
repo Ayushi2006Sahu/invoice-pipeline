@@ -1,0 +1,15 @@
+CREDIT NOTE
+Himalaya Stationers
+
+Bill Number: HIM-2026-0015
+Issued: 01-Jun-2026
+Due By: 01-Jul-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 6    INR 3,889.67   INR 23,338.02
+-----------------------------------------------------------
+Net Amount:                                   INR 23,338.02
+Rebate:                                            INR 0.00
+Tax:                                           INR 4,200.84
+Grand Total:                                  INR 27,538.86

@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0043",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0001",
+    "invoice_date": "2026-05-16",
+    "due_date": "2026-05-31",
+    "currency": "INR",
+    "subtotal": "11463.20",
+    "discount": "1604.85",
+    "tax": "1774.50",
+    "total": "11632.85",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "585.87",
+        "amount": "3515.22"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "2041.91",
+        "amount": "4083.82"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "1932.08",
+        "amount": "3864.16"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

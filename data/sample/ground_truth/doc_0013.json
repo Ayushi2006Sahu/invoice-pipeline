@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0013",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0009",
+    "invoice_date": "2026-04-02",
+    "due_date": "2026-05-02",
+    "currency": "INR",
+    "subtotal": "30580.66",
+    "discount": "0.00",
+    "tax": "5504.52",
+    "total": "36128.29",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 10,
+        "unit_price": "1533.72",
+        "amount": "15337.20"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 2,
+        "unit_price": "4415.37",
+        "amount": "8830.74"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "1603.18",
+        "amount": "6412.72"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

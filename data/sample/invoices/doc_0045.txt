@@ -1,0 +1,19 @@
+INVOICE
+Orion Software Services
+
+Bill Number: ORS-2026-0004
+Issued: 25-Feb-2026
+Due By: 27-Mar-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        7      INR 179.95    INR 1,259.65
+Laptop stand              3    INR 3,911.71   INR 11,735.13
+USB-C cable               6    INR 4,151.95   INR 24,911.70
+Network switch            7    INR 4,256.02   INR 29,792.14
+Whiteboard                4    INR 1,448.83    INR 5,795.32
+-----------------------------------------------------------
+Net Amount:                                   INR 73,493.94
+Rebate:                                            INR 0.00
+Tax:                                          INR 13,228.91
+Grand Total:                                  INR 86,722.85

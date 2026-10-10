@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0018",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0004",
+    "invoice_date": "2026-06-03",
+    "due_date": "2026-07-03",
+    "currency": "INR",
+    "subtotal": "53741.45",
+    "discount": "0.00",
+    "tax": "9673.46",
+    "total": "63414.91",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "4950.55",
+        "amount": "29703.30"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "1120.90",
+        "amount": "5604.50"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 6,
+        "unit_price": "1301.40",
+        "amount": "7808.40"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 5,
+        "unit_price": "2125.05",
+        "amount": "10625.25"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

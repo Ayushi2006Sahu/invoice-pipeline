@@ -1,0 +1,14 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Invoice Number: KAV-2026-0009
+Invoice Date: September 21, 2026
+Due Date: October 06, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+-----------------------------------------------------------
+Subtotal:                                          INR 0,00
+Discount:                                          INR 0,00
+VAT 18%:                                           INR 0,00
+Total Amount:                                      INR 0,00

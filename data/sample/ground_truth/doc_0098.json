@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0098",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0001",
+    "invoice_date": "2026-02-16",
+    "due_date": "2026-03-03",
+    "currency": "INR",
+    "subtotal": "36211.75",
+    "discount": "2172.71",
+    "tax": "6127.03",
+    "total": "40166.07",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 2,
+        "unit_price": "1688.65",
+        "amount": "3377.30"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 7,
+        "unit_price": "1688.52",
+        "amount": "11819.64"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 5,
+        "unit_price": "2012.41",
+        "amount": "10062.05"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "3650.92",
+        "amount": "10952.76"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "conflicts_with": "doc_0075",
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

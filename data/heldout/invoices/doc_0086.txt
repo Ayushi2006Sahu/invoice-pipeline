@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 10 Jul 2026
+Dated: 10 Jun 2026
+Ref No: ZEN-2026-0001
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             6      INR 560.81    INR 3,364.86
+Whiteboard                9    INR 3,783.51   INR 34,051.59
+Laptop stand              2    INR 3,008.91    INR 6,017.82
+A4 paper ream             1    INR 3,295.39    INR 3,295.39
+USB-C cable               4    INR 2,652.64   INR 10,610.56
+-----------------------------------------------------------
+Gross Amount:                                 INR 57,340.22
+Concession:                                    INR 6,307.42
+IGST 18%:                                      INR 9,185.90
+Total:                                        INR 60,218.70

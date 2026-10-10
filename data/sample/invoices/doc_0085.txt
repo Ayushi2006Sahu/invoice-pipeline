@@ -1,0 +1,19 @@
+INVOICE
+Acme Pvt Ltd
+
+Invoice Number: ACM-2026-0010
+Invoice Date: May 30, 2026
+Due Date: June 14, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        2      INR 873,43    INR 1.746,86
+A4 paper ream             4      INR 961,28    INR 3.845,12
+USB-C cable               9      INR 443,55    INR 3.991,95
+Desk lamp                 3       INR 64,02      INR 192,06
+Printer toner             7    INR 2.411,93   INR 16.883,51
+-----------------------------------------------------------
+Subtotal:                                     INR 26.692,77
+Discount:                                      INR 3.199,14
+VAT 18%:                                       INR 4.222,86
+Total Amount:                                 INR 27.716,49

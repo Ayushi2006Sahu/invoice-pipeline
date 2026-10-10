@@ -1,0 +1,15 @@
+TAX INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Inv #: BOS-2026-0002
+Date: 2026-02-17
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             9        3,530.50       31,774.50
+-----------------------------------------------------------
+Sub Total:                                        31,774.50
+Less Discount:                                     3,177.45
+GST @18%:                                          5,147.47
+Total Due:                                        33,744.52

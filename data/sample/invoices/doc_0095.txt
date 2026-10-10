@@ -1,0 +1,16 @@
+INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Bill Number: BOS-2026-0001
+Issued: 19-Apr-2026
+Due By: 03-Jun-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            9      INR 915.74    INR 8,241.66
+Courier charges           5    INR 2,816.53   INR 14,082.65
+-----------------------------------------------------------
+Net Amount:                                   INR 22,324.31
+Rebate:                                        INR 2,455.67
+Tax:                                           INR 3,576.36
+Grand Total:                                  INR 23,445.00

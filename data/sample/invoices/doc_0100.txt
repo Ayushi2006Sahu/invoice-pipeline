@@ -1,0 +1,19 @@
+INVOICE
+Zenith Corp
+
+Bill Number: ZEN-2026-0001
+Issued: 04-Sep-2026
+Due By: 19-Sep-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Whiteboard                7    INR 4,601.30   INR 32,209.10
+Consulting hours          1    INR 1,558.00    INR 1,558.00
+A4 paper ream            10    INR 1,688.13   INR 16,881.30
+Cloud hosting             6      INR 593.16    INR 3,558.96
+Network switch           10    INR 2,710.30   INR 27,103.00
+-----------------------------------------------------------
+Net Amount:                                   INR 81,310.36
+Rebate:                                            INR 0.00
+Tax:                                          INR 14,635.86
+Grand Total:                                  INR 95,946.22

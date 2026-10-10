@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0047",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0004",
+    "invoice_date": "2026-05-30",
+    "due_date": "2026-07-14",
+    "currency": "INR",
+    "subtotal": "31032.26",
+    "discount": "0.00",
+    "tax": "5585.81",
+    "total": "36618.07",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 1,
+        "unit_price": "124.67",
+        "amount": "124.67"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "2810.80",
+        "amount": "5621.60"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 3,
+        "unit_price": "2324.41",
+        "amount": "6973.23"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 4,
+        "unit_price": "4381.43",
+        "amount": "17525.72"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "196.76",
+        "amount": "787.04"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0056",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0006",
+    "invoice_date": "2026-04-23",
+    "due_date": "2026-05-23",
+    "currency": "INR",
+    "subtotal": "62115.20",
+    "discount": "8074.98",
+    "tax": "9727.24",
+    "total": "63767.47",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 8,
+        "unit_price": "80.91",
+        "amount": "647.28"
+      },
+      {
+        "description": "Office chair",
+        "qty": 6,
+        "unit_price": "1615.59",
+        "amount": "9693.54"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 7,
+        "unit_price": "4524.52",
+        "amount": "31671.64"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 7,
+        "unit_price": "2871.82",
+        "amount": "20102.74"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,18 @@
+CREDIT NOTE
+Zenith Corp
+
+Invoice No: ZEN-2026-0007
+Invoice Date: 19 Jun 2026
+Due Date: 03 Aug 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 7       Rs. 58.86     -Rs. 412.02
+USB-C cable               9    Rs. 4,902.67  -Rs. 44,124.03
+Printer toner             9    Rs. 3,651.10  -Rs. 32,859.90
+Office chair              4    Rs. 1,959.56   -Rs. 7,838.24
+-----------------------------------------------------------
+Subtotal:                                    -Rs. 85,234.19
+Discount:                                          Rs. 0.00
+Tax (18%):                                   -Rs. 15,342.15
+Total:                                      -Rs. 100,576.34

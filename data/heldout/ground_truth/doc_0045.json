@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0045",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0011",
+    "invoice_date": "2026-02-07",
+    "due_date": "2026-03-09",
+    "currency": "INR",
+    "subtotal": "4502.01",
+    "discount": "0.00",
+    "tax": "810.36",
+    "total": "5312.37",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 1,
+        "unit_price": "2019.05",
+        "amount": "2019.05"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 1,
+        "unit_price": "2482.96",
+        "amount": "2482.96"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

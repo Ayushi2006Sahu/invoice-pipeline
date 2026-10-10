@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0083",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0008",
+    "invoice_date": "2026-03-07",
+    "due_date": "2026-04-21",
+    "currency": "INR",
+    "subtotal": "52983.50",
+    "discount": "0.00",
+    "tax": "9537.03",
+    "total": "62520.52",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 7,
+        "unit_price": "1812.28",
+        "amount": "12685.96"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 7,
+        "unit_price": "3846.79",
+        "amount": "26927.53"
+      },
+      {
+        "description": "Office chair",
+        "qty": 3,
+        "unit_price": "4456.67",
+        "amount": "13370.01"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

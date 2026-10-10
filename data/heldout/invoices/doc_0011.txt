@@ -1,0 +1,17 @@
+CREDIT NOTE
+
+Pay By: 16 May 2026
+Dated: 01 May 2026
+Ref No: SUN-2026-0007
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 5    INR 3,919.59   INR 19,597.95
+Printer toner             5    INR 1,094.32    INR 5,471.60
+Consulting hours          8    INR 1,347.24   INR 10,777.92
+-----------------------------------------------------------
+Gross Amount:                                 INR 35,847.47
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 6,452.54
+Total:                                        INR 42,300.01

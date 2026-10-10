@@ -1,0 +1,10 @@
+INVOICE
+Orion Software Services
+
+Invoice Number: ORS-2026-0013
+Invoice Date: January 16, 2026
+Due Date: January 31, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream         

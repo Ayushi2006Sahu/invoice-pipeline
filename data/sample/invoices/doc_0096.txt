@@ -1,0 +1,15 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Invoice No: KAV-2026-0002
+Invoice Date: 07 Feb 2026
+Due Date: 24 Mar 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              8    Rs. 3,306.66   Rs. 26,453.28
+-----------------------------------------------------------
+Subtotal:                                     Rs. 26,453.28
+Discount:                                      Rs. 1,587.20
+Tax (18%):                                     Rs. 4,475.89
+Total:                                        Rs. 29,341.97

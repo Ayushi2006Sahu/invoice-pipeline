@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0063",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0009",
+    "invoice_date": "2026-05-09",
+    "due_date": "2026-05-05",
+    "currency": "INR",
+    "subtotal": "33671.21",
+    "discount": "0.00",
+    "tax": "6060.82",
+    "total": "39732.03",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 8,
+        "unit_price": "471.74",
+        "amount": "3773.92"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 10,
+        "unit_price": "258.98",
+        "amount": "2589.80"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 7,
+        "unit_price": "3901.07",
+        "amount": "27307.49"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "doc_id": "doc_0049",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0013",
+    "invoice_date": "2026-01-16",
+    "due_date": "2026-01-31",
+    "currency": "INR",
+    "subtotal": "61662.35",
+    "discount": "0.00",
+    "tax": "11099.22",
+    "total": "72761.57",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 9,
+        "unit_price": "3162.51",
+        "amount": "28462.59"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 2,
+        "unit_price": "2419.81",
+        "amount": "4839.62"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 9,
+        "unit_price": "1211.55",
+        "amount": "10903.95"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 10,
+        "unit_price": "277.35",
+        "amount": "2773.50"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 9,
+        "unit_price": "1631.41",
+        "amount": "14682.69"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "truncated"
+  }
+}

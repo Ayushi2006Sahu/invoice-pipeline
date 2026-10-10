@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 06 Apr 2026
+Dated: 20 Feb 2026
+Ref No: NVL-2026-0004
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Network switch            6    INR 1,381.37    INR 8,288.22
+Annual maintenance        5    INR 3,306.61   INR 16,533.05
+USB-C cable              10      INR 749.61    INR 7,496.10
+A4 paper ream             1    INR 2,579.27    INR 2,579.27
+Laptop stand              1    INR 2,596.98    INR 2,596.98
+-----------------------------------------------------------
+Gross Amount:                                 INR 37,493.62
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 6,748.85
+Total:                                        INR 44,242.47

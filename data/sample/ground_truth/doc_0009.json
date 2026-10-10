@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0009",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0014",
+    "invoice_date": "2026-03-07",
+    "due_date": "2026-04-06",
+    "currency": "INR",
+    "subtotal": "65934.97",
+    "discount": "3956.10",
+    "tax": "11156.20",
+    "total": "73135.07",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 1,
+        "unit_price": "711.89",
+        "amount": "711.89"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "3144.24",
+        "amount": "28298.16"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 6,
+        "unit_price": "4609.73",
+        "amount": "27658.38"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "4633.27",
+        "amount": "9266.54"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

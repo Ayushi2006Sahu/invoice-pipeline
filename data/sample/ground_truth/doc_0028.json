@@ -1,0 +1,55 @@
+{
+  "doc_id": "doc_0028",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0012",
+    "invoice_date": "2026-06-20",
+    "due_date": "2026-07-05",
+    "currency": "INR",
+    "subtotal": "22326.80",
+    "discount": "0.00",
+    "tax": "4018.82",
+    "total": "26345.62",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "3524.81",
+        "amount": "7049.62"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 4,
+        "unit_price": "3414.37",
+        "amount": "13657.48"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 10,
+        "unit_price": "161.97",
+        "amount": "1619.70"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "char_swap"
+  }
+}

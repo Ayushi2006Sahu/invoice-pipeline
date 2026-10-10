@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 21 Jun 2026
+Dated: 07 May 2026
+Ref No: HIM-2026-0004
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 9    INR 1,095.44    INR 9,858.96
+Whiteboard                5    INR 2,421.59   INR 12,107.95
+Annual maintenance        9    INR 2,845.95   INR 25,613.55
+-----------------------------------------------------------
+Gross Amount:                                 INR 47,580.46
+Concession:                                    INR 6,185.46
+IGST 18%:                                      INR 7,451.10
+Total:                                        INR 48,846.10

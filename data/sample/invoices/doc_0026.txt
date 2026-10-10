@@ -1,0 +1,19 @@
+INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Invoice Number: BOS-2026-0004
+Invoice Date: June 06, 2026
+Due Date: July 21, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner            10    INR 3.175,42   INR 31.754,20
+A4 paper ream            10    INR 1.233,25   INR 12.332,50
+USB-C cable               9    INR 2.044,27   INR 18.398,43
+Network switch            8    INR 4.813,17   INR 38.505,36
+Cloud hosting             8    INR 1.608,98   INR 12.871,84
+-----------------------------------------------------------
+Subtotal:                                    INR 113.898,88
+Discount:                                     INR 12.524,86
+VAT 18%:                                      INR 18.240,74
+Total Amount:                                INR 119.614,76

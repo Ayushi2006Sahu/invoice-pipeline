@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 30 Jan 2026
+Dated: 15 Jan 2026
+Ref No: ACM-2026-0003
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               1    INR 4,098.87    INR 4,098.87
+Printer toner             2    INR 2,711.88    INR 5,423.76
+-----------------------------------------------------------
+Gross Amount:                                  INR 9,522.63
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 1,714.07
+Total:                                        INR 11,236.70

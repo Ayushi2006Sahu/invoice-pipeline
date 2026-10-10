@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0074",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0005",
+    "invoice_date": "2026-05-13",
+    "due_date": "2026-05-28",
+    "currency": "INR",
+    "subtotal": "15509.83",
+    "discount": "1861.18",
+    "tax": "2456.76",
+    "total": "16105.41",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 8,
+        "unit_price": "1914.17",
+        "amount": "15313.36"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 1,
+        "unit_price": "196.47",
+        "amount": "196.47"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

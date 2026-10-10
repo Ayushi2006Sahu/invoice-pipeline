@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 20 Sep 2026
+Dated: 05 Sep 2026
+Ref No: BOS-2026-0005
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Whiteboard                3      INR 953.59    INR 2,860.77
+Office chair              3    INR 2,532.46    INR 7,597.38
+Courier charges          10    INR 3,852.10   INR 38,521.00
+Laptop stand              2    INR 2,967.53    INR 5,935.06
+Network switch            1    INR 1,759.08    INR 1,759.08
+-----------------------------------------------------------
+Gross Amount:                                 INR 56,673.29
+Concession:                                    INR 7,367.53
+IGST 18%:                                      INR 8,875.04
+Total:                                        INR 58,180.80

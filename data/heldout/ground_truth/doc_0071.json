@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0071",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ors-2026-0010",
+    "invoice_date": "2026-04-20",
+    "due_date": "2026-05-05",
+    "currency": "INR",
+    "subtotal": "14650.59",
+    "discount": "0.00",
+    "tax": "2637.11",
+    "total": "17287.70",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "4883.53",
+        "amount": "14650.59"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "INVALID_INVOICE_ID"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "INVALID_INVOICE_ID"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

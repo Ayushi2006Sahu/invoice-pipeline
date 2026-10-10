@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 03 Apr 2026
+Dated: 04 Mar 2026
+Ref No: HIM-2026-0009
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               7    INR 2,466.56  -INR 17,265.92
+Laptop stand             10    INR 4,722.78  -INR 47,227.80
+-----------------------------------------------------------
+Gross Amount:                                -INR 64,493.72
+Concession:                                   -INR 8,384.18
+IGST 18%:                                    -INR 10,099.72
+Total:                                       -INR 66,209.26

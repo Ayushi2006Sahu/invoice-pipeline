@@ -1,0 +1,17 @@
+INVOICE
+Nova Logistics Ltd
+
+Invoice No: NVL-2026-0011
+Invoice Date: 12 Apr 2026
+Due Date: 06 Apr 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        2    Rs. 3,653.87    Rs. 7,307.74
+Printer toner             4    Rs. 4,893.95   Rs. 19,575.80
+Courier charges           5    Rs. 4,180.48   Rs. 20,902.40
+-----------------------------------------------------------
+Subtotal:                                     Rs. 47,785.94
+Discount:                                      Rs. 6,690.03
+Tax (18%):                                     Rs. 7,397.26
+Total:                                        Rs. 48,493.17

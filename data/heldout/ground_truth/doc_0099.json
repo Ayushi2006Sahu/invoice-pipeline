@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0099",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0003",
+    "invoice_date": "2026-01-14",
+    "due_date": "2026-01-29",
+    "currency": "INR",
+    "subtotal": "24305.82",
+    "discount": "1701.41",
+    "tax": "4068.79",
+    "total": "26673.20",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "3472.26",
+        "amount": "24305.82"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "conflicts_with": "doc_0035",
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

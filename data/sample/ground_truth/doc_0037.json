@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0037",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0002",
+    "invoice_date": "2026-03-23",
+    "due_date": "2026-05-07",
+    "currency": "INR",
+    "subtotal": "52387.53",
+    "discount": "2619.38",
+    "tax": "8958.27",
+    "total": "58726.42",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 4,
+        "unit_price": "2699.51",
+        "amount": "10798.04"
+      },
+      {
+        "description": "Office chair",
+        "qty": 10,
+        "unit_price": "189.12",
+        "amount": "1891.20"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "1092.48",
+        "amount": "9832.32"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 9,
+        "unit_price": "2249.49",
+        "amount": "20245.41"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 4,
+        "unit_price": "2405.14",
+        "amount": "9620.56"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

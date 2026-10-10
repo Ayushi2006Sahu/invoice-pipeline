@@ -1,0 +1,15 @@
+CREDIT NOTE
+
+Pay By: 09 Mar 2026
+Dated: 07 Feb 2026
+Ref No: KAV-2026-0006
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             1    INR 4,242.14   -INR 4,242.14
+-----------------------------------------------------------
+Gross Amount:                                 -INR 4,242.14
+Concession:                                     -INR 466.64
+IGST 18%:                                       -INR 679.59
+Total:                                        -INR 4,455.09

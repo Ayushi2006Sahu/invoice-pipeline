@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_0011",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0004",
+    "invoice_date": "2026-06-23",
+    "due_date": "2026-07-08",
+    "currency": "INR",
+    "subtotal": "735.56",
+    "discount": "0.00",
+    "tax": "132.40",
+    "total": "867.96",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 2,
+        "unit_price": "367.78",
+        "amount": "735.56"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

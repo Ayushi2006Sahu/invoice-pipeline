@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 18 Mar 2026
+Dated: 01 Feb 2026
+Ref No: ORS-2026-0001
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 2    INR 1,220.41    INR 2,440.82
+-----------------------------------------------------------
+Gross Amount:                                  INR 2,440.82
+Concession:                                      INR 341.71
+IGST 18%:                                        INR 377.84
+Total:                                         INR 2,476.95

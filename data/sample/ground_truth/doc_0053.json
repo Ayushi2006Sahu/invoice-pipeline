@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0053",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM2026-0013",
+    "invoice_date": "2026-08-25",
+    "due_date": "2026-09-09",
+    "currency": "INR",
+    "subtotal": "28290.37",
+    "discount": "1697.42",
+    "tax": "4786.73",
+    "total": "31379.68",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "1679.22",
+        "amount": "5037.66"
+      },
+      {
+        "description": "Office chair",
+        "qty": 9,
+        "unit_price": "121.69",
+        "amount": "1095.21"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 9,
+        "unit_price": "2189.04",
+        "amount": "19701.36"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "1228.07",
+        "amount": "2456.14"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "INVALID_INVOICE_ID"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "INVALID_INVOICE_ID"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

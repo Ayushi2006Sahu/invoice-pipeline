@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0005",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0005",
+    "invoice_date": "2026-09-05",
+    "due_date": "2026-09-20",
+    "currency": "INR",
+    "subtotal": "56673.29",
+    "discount": "7367.53",
+    "tax": "8875.04",
+    "total": "58180.80",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 3,
+        "unit_price": "953.59",
+        "amount": "2860.77"
+      },
+      {
+        "description": "Office chair",
+        "qty": 3,
+        "unit_price": "2532.46",
+        "amount": "7597.38"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 10,
+        "unit_price": "3852.10",
+        "amount": "38521.00"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "2967.53",
+        "amount": "5935.06"
+      },
+      {
+        "description": "Network switch",
+        "qty": 1,
+        "unit_price": "1759.08",
+        "amount": "1759.08"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0011",
+  "document_type": "credit_note",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0007",
+    "invoice_date": "2026-05-01",
+    "due_date": "2026-05-16",
+    "currency": "INR",
+    "subtotal": "35847.47",
+    "discount": "0.00",
+    "tax": "6452.54",
+    "total": "42300.01",
+    "line_items": [
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "3919.59",
+        "amount": "19597.95"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 5,
+        "unit_price": "1094.32",
+        "amount": "5471.60"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 8,
+        "unit_price": "1347.24",
+        "amount": "10777.92"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "CREDIT_NOTE_SIGN_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

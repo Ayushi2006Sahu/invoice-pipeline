@@ -1,0 +1,17 @@
+TAX INVOICE
+Kaveri Foods Pvt Ltd
+
+Inv #: KAV-2026-0001
+Date: 2026-05-07
+Payment Due: 2026-06-21
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            7        4,688.28       32,817.96
+Courier charges           8          799.05        6,392.40
+-----------------------------------------------------------
+Sub Total:                                        39,210.36
+Less Discount:                                         0.00
+GST @18%:                                          7,057.86
+Total Due:                                        46,268.22

@@ -1,0 +1,15 @@
+CREDIT NOTE
+
+Pay By: 05 Feb 2026
+Dated: 21 Jan 2026
+Ref No: ZEN-2026-0004
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+USB-C cable               2      INR 490.72     -INR 981.44
+-----------------------------------------------------------
+Gross Amount:                                   -INR 981.44
+Concession:                                        INR 0.00
+IGST 18%:                                       -INR 176.66
+Total:                                        -INR 1,158.10

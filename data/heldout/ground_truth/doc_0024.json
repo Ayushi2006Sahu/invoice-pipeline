@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0024",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0001",
+    "invoice_date": "2026-05-28",
+    "due_date": "2026-07-12",
+    "currency": "INR",
+    "subtotal": "41970.77",
+    "discount": "5036.49",
+    "tax": "6648.17",
+    "total": "43582.45",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 4,
+        "unit_price": "479.15",
+        "amount": "1916.60"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 10,
+        "unit_price": "1624.17",
+        "amount": "16241.70"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 9,
+        "unit_price": "2645.83",
+        "amount": "23812.47"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0098",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0004",
+    "invoice_date": "2026-09-19",
+    "due_date": "2026-10-04",
+    "currency": "INR",
+    "subtotal": "1443.51",
+    "discount": "144.35",
+    "tax": "233.85",
+    "total": "1533.01",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 3,
+        "unit_price": "481.17",
+        "amount": "1443.51"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_ID_CONFLICT"
+  ],
+  "conflicts_with": "doc_0064",
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

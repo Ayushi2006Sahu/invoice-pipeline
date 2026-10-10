@@ -1,0 +1,19 @@
+INV0ICE
+Bharat 0ffice Supplies Pvt Ltd
+
+Bil1 Number: B0S-2O26-0O09
+Issued: 26-Feb-2026
+Due By: l2-Apr-2O26
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cab1e               4    INR l,772.S9    INR 7,09O.36
+A4 paper ream             3    INR 4,1B4.76   INR l2,S54.2B
+Whiteboard               lO       INR 64.86      INR 648.60
+Annua1 maintenance        S    INR 4,5S0.52   INR 22,752.6O
+Desk lamp                 3      INR 73l.53    INR 2,194.59
+-----------------------------------------------------------
+Net Amount:                                   INR 45,240.43
+Rebate:                                        INR 3,166.83
+Tax:                                           INR 7,573.2S
+Grand Total:                                  INR 49,646.BS

@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0036",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0004",
+    "invoice_date": "2026-05-27",
+    "due_date": "2026-06-11",
+    "currency": "INR",
+    "subtotal": "-51140.90",
+    "discount": "-6136.91",
+    "tax": "-8100.72",
+    "total": "-53104.71",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 5,
+        "unit_price": "92.45",
+        "amount": "-462.25"
+      },
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "4585.44",
+        "amount": "-45854.40"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 1,
+        "unit_price": "4824.25",
+        "amount": "-4824.25"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0061",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS 2026/6",
+    "invoice_date": "2026-05-17",
+    "due_date": "2026-06-01",
+    "currency": "INR",
+    "subtotal": "12823.44",
+    "discount": "1667.05",
+    "tax": "2008.15",
+    "total": "13164.54",
+    "line_items": [
+      {
+        "description": "Printer toner",
+        "qty": 7,
+        "unit_price": "1831.92",
+        "amount": "12823.44"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "INVALID_INVOICE_ID"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "INVALID_INVOICE_ID"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 10/03/2026
+Dated: 08/02/2026
+Ref No: ORS-2026-0013
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              3    INR 2,271.69    INR 6,815.07
+Cloud hosting             2    INR 4,351.09    INR 8,702.18
+-----------------------------------------------------------
+Gross Amount:                                 INR 15,537.45
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,793.11
+Total:                                        INR 18,330.56

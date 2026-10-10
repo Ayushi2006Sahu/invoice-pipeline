@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0019",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0006",
+    "invoice_date": "2026-06-10",
+    "due_date": "2026-06-25",
+    "currency": "INR",
+    "subtotal": "12180.25",
+    "discount": "609.01",
+    "tax": "2082.82",
+    "total": "13654.06",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 3,
+        "unit_price": "1045.61",
+        "amount": "3136.83"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 5,
+        "unit_price": "1191.37",
+        "amount": "5956.85"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 1,
+        "unit_price": "3086.57",
+        "amount": "3086.57"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

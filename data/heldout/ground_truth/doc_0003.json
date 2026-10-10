@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0003",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0007",
+    "invoice_date": "2026-05-24",
+    "due_date": "2026-06-08",
+    "currency": "INR",
+    "subtotal": "19315.56",
+    "discount": "2511.02",
+    "tax": "3024.82",
+    "total": "19829.36",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "1935.09",
+        "amount": "9675.45"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 3,
+        "unit_price": "3213.37",
+        "amount": "9640.11"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 11 Jan 2027
+Dated: 12 Dec 2026
+Ref No: KAV-2026-0010
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             2      INR 177.17      INR 354.34
+Office chair              4      INR 612.35    INR 2,449.40
+Desk lamp                 8    INR 3,801.65   INR 30,413.20
+-----------------------------------------------------------
+Gross Amount:                                 INR 33,216.94
+Concession:                                    INR 3,653.86
+IGST 18%:                                      INR 5,321.35
+Total:                                        INR 34,884.43

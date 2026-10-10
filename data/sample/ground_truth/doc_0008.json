@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0008",
+  "document_type": "credit_note",
+  "layout": "D",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0006",
+    "invoice_date": "2026-07-29",
+    "due_date": "2026-08-28",
+    "currency": "INR",
+    "subtotal": "-13543.90",
+    "discount": "0.00",
+    "tax": "-2437.90",
+    "total": "-15981.80",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "2708.78",
+        "amount": "-13543.90"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "VALID_CREDIT_NOTE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

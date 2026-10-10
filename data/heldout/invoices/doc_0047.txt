@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 14 Jul 2026
+Dated: 30 May 2026
+Ref No: BOS-2026-0004
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 1      INR 124.67      INR 124.67
+Courier charges           2    INR 2,810.80    INR 5,621.60
+Consulting hours          3    INR 2,324.41    INR 6,973.23
+Laptop stand              4    INR 4,381.43   INR 17,525.72
+Whiteboard                4      INR 196.76      INR 787.04
+-----------------------------------------------------------
+Gross Amount:                                 INR 31,032.26
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 5,585.81
+Total:                                        INR 36,618.07

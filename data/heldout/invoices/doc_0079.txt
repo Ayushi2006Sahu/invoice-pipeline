@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 11 May 2026
+Dated: 27 Mar 2026
+Ref No: ACM-2026-0013
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Laptop stand              5    INR 1,611.18    INR 8,055.90
+Annual maintenance        5    INR 3,924.65   INR 19,623.25
+Courier charges           5    INR 2,179.70   INR 10,898.50
+Cloud hosting             4    INR 1,627.24    INR 6,508.96
+Consulting hours          8    INR 2,971.97   INR 23,775.76
+-----------------------------------------------------------
+Gross Amount:                                 INR 68,895.35
+Concession:                                    INR 4,131.74
+IGST 18%:                                     INR 11,651.51
+Total:                                        INR 76,415.12

@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0050",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0003",
+    "invoice_date": "2026-09-28",
+    "due_date": "2026-10-28",
+    "currency": "INR",
+    "subtotal": "52618.28",
+    "discount": "0.00",
+    "tax": "9471.29",
+    "total": "62089.57",
+    "line_items": [
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "3980.45",
+        "amount": "7960.90"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 6,
+        "unit_price": "3931.57",
+        "amount": "23589.42"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 5,
+        "unit_price": "2559.35",
+        "amount": "12796.75"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "2757.07",
+        "amount": "8271.21"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

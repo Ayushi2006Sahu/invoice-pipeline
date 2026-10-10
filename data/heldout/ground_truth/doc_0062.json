@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0062",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0005",
+    "invoice_date": "2026-03-08",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "20162.34",
+    "discount": "1814.61",
+    "tax": "3302.59",
+    "total": "21650.32",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 9,
+        "unit_price": "2240.26",
+        "amount": "20162.34"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

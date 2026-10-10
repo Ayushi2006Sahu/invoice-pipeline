@@ -1,0 +1,54 @@
+{
+  "doc_id": "doc_0021",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0003",
+    "invoice_date": "2026-08-17",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "37582.64",
+    "discount": "0.00",
+    "tax": "6764.88",
+    "total": "44347.52",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "146.64",
+        "amount": "146.64"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 9,
+        "unit_price": "2939.08",
+        "amount": "26451.72"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 4,
+        "unit_price": "2746.07",
+        "amount": "10984.28"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

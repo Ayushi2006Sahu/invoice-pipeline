@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 31 Jan 2026
+Dated: 01 Jan 2026
+Ref No: KAV-2026-0003
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Annual maintenance        4      INR 585.59    INR 2,342.36
+Consulting hours          4    INR 2,514.57   INR 10,058.28
+Network switch            4    INR 1,820.71    INR 7,282.84
+A4 paper ream             4    INR 2,580.49   INR 10,321.96
+-----------------------------------------------------------
+Gross Amount:                                 INR 30,005.44
+Concession:                                    INR 4,200.76
+IGST 18%:                                      INR 4,644.84
+Total:                                        INR 30,449.52

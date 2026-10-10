@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0075",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0001",
+    "invoice_date": "2026-05-07",
+    "due_date": "2026-06-21",
+    "currency": "INR",
+    "subtotal": "39210.36",
+    "discount": "0.00",
+    "tax": "7057.86",
+    "total": "46268.22",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 7,
+        "unit_price": "4688.28",
+        "amount": "32817.96"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 8,
+        "unit_price": "799.05",
+        "amount": "6392.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

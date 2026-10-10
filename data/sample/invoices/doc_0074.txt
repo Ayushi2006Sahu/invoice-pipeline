@@ -1,0 +1,17 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ACM-2026-0003
+Date: 2026-08-31
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner            10        3,230.65       32,306.50
+USB-C cable               6        2,487.87       14,927.22
+Cloud hosting             8        2,368.19       18,945.52
+-----------------------------------------------------------
+Sub Total:                                        66,179.24
+Less Discount:                                     8,603.30
+GST @18%:                                         10,363.67
+Total Due:                                        67,939.61

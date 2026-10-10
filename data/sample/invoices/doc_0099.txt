@@ -1,0 +1,16 @@
+TAX INVOICE
+Acme Pvt Ltd
+
+Inv #: ACM-2026-0001
+Date: 2026-01-31
+Payment Due: 2026-03-17
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             2        3,953.79        7,907.58
+-----------------------------------------------------------
+Sub Total:                                         7,907.58
+Less Discount:                                       553.53
+GST @18%:                                          1,323.73
+Total Due:                                         8,677.78

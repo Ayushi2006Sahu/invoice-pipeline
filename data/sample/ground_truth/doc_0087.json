@@ -1,0 +1,52 @@
+{
+  "doc_id": "doc_0087",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0002",
+    "invoice_date": "2026-06-23",
+    "due_date": "2026-07-08",
+    "currency": "INR",
+    "subtotal": "62585.66",
+    "discount": "0.00",
+    "tax": "11265.42",
+    "total": "73851.08",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "4766.56",
+        "amount": "38132.48"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "2417.08",
+        "amount": "21753.72"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 2,
+        "unit_price": "1349.73",
+        "amount": "2699.46"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,19 @@
+INVOICE
+Sundar Electronics
+
+Invoice Number: SUN-2026-0001
+Invoice Date: February 02, 2026
+Due Date: March 04, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             3    INR 2.721,38    INR 8.164,14
+Desk lamp                 8      INR 526,62    INR 4.212,96
+Annual maintenance        1    INR 4.564,65    INR 4.564,65
+Consulting hours          2      INR 851,32    INR 1.702,64
+USB-C cable               3    INR 4.202,77   INR 12.608,31
+-----------------------------------------------------------
+Subtotal:                                     INR 31.252,70
+Discount:                                      INR 4.375,38
+VAT 18%:                                       INR 4.837,92
+Total Amount:                                 INR 31.715,24

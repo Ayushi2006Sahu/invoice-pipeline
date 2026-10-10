@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0040",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ORS-2026-0008",
+    "invoice_date": "2026-03-20",
+    "due_date": "2026-04-19",
+    "currency": "INR",
+    "subtotal": "49696.50",
+    "discount": "5963.58",
+    "tax": "7871.93",
+    "total": "51604.85",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "116.33",
+        "amount": "697.98"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 7,
+        "unit_price": "4361.38",
+        "amount": "30529.66"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 8,
+        "unit_price": "603.32",
+        "amount": "4826.56"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 7,
+        "unit_price": "1948.90",
+        "amount": "13642.30"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "SAME_ID_DIFFERENT_VENDOR"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

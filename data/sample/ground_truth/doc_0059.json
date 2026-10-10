@@ -1,0 +1,37 @@
+{
+  "doc_id": "doc_0059",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0009",
+    "invoice_date": "2026-09-21",
+    "due_date": "2026-10-06",
+    "currency": "INR",
+    "subtotal": "0.00",
+    "discount": "0.00",
+    "tax": "0.00",
+    "total": "0.00",
+    "line_items": []
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NO_LINE_ITEMS"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NO_LINE_ITEMS"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

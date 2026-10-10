@@ -1,0 +1,15 @@
+INVOICE
+Nova Logistics Ltd
+
+Bill Number: NVL-2026-0001
+Issued: 06-Sep-2026
+Due By: 21-Sep-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable              10      INR 462.91    INR 4,629.10
+-----------------------------------------------------------
+Net Amount:                                    INR 4,629.10
+Rebate:                                            INR 0.00
+Tax:                                             INR 833.24
+Grand Total:                                   INR 5,462.34

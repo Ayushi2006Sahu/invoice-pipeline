@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0025",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "BOS-2026-0003",
+    "invoice_date": "2026-01-06",
+    "due_date": "2026-02-20",
+    "currency": "INR",
+    "subtotal": "73213.42",
+    "discount": "6589.21",
+    "tax": "11992.36",
+    "total": "78616.57",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 6,
+        "unit_price": "1003.36",
+        "amount": "6020.16"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "1162.11",
+        "amount": "9296.88"
+      },
+      {
+        "description": "Consulting hours",
+        "qty": 6,
+        "unit_price": "4232.93",
+        "amount": "25397.58"
+      },
+      {
+        "description": "Office chair",
+        "qty": 5,
+        "unit_price": "1834.35",
+        "amount": "9171.75"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 5,
+        "unit_price": "4665.41",
+        "amount": "23327.05"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "SAME_ID_DIFFERENT_VENDOR"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

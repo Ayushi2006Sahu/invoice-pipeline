@@ -1,0 +1,19 @@
+TAX INVOICE
+Sundar Electronics
+
+Date: 2026-07-29
+Payment Due: 2026-08-13
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             8          181.20        1,449.60
+Network switch           10        4,685.93       46,859.30
+Consulting hours          9        1,769.69       15,927.21
+A4 paper ream            10        1,210.60       12,106.00
+USB-C cable               2        3,381.34        6,762.68
+-----------------------------------------------------------
+Sub Total:                                        83,104.79
+Less Discount:                                     7,479.43
+GST @18%:                                         13,612.56
+Total Due:                                        89,237.92

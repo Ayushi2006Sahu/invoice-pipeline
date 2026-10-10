@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 03 Sep 2026
+Dated: 04 Aug 2026
+Ref No: ZEN-2026-0011
+Supplier: Zenith Corp
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner            10      INR 490.83   -INR 4,908.30
+-----------------------------------------------------------
+Gross Amount:                                 -INR 4,908.30
+Concession:                                        INR 0.00
+IGST 18%:                                       -INR 883.49
+Total:                                        -INR 5,791.79

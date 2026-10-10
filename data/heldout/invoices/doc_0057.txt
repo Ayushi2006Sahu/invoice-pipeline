@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 21 Feb 2026
+Dated: 07 Jan 2026
+Ref No: BOS-2026-0007
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          6       INR 59.12      INR 354.72
+Cloud hosting             6    INR 3,986.00   INR 23,916.00
+Annual maintenance        6    INR 4,449.35   INR 26,696.10
+A4 paper ream             7      INR 679.36    INR 4,755.52
+-----------------------------------------------------------
+Gross Amount:                                 INR 55,722.34
+Concession:                                    INR 4,457.79
+IGST 18%:                                      INR 9,227.62
+Total:                                        INR 60,475.35

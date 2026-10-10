@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 21 Oct 2026
+Dated: 06 Sep 2026
+Ref No: ORS-2026-0003
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Network switch            3      INR 485.07    INR 1,455.21
+Cloud hosting             3      INR 843.23    INR 2,529.69
+USB-C cable               4    INR 3,502.52   INR 14,010.08
+-----------------------------------------------------------
+Gross Amount:                                 INR 17,994.98
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 3,239.10
+Total:                                        INR 21,234.08

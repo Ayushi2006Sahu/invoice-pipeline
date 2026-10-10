@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 31 Mar 2026
+Dated: 11 Apr 2026
+Ref No: SUN-2026-0009
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             1    INR 1,687.67    INR 1,687.67
+Network switch           10    INR 4,683.10   INR 46,831.00
+Annual maintenance        6    INR 2,220.97   INR 13,325.82
+Cloud hosting             7      INR 145.48    INR 1,018.36
+-----------------------------------------------------------
+Gross Amount:                                 INR 62,862.85
+Concession:                                    INR 6,286.29
+IGST 18%:                                     INR 10,183.78
+Total:                                        INR 66,750.52

@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 12 Jul 2026
+Dated: 28 May 2026
+Ref No: HIM-2026-0001
+Supplier: Himalaya Stationers
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             4      INR 479.15    INR 1,916.60
+USB-C cable              10    INR 1,624.17   INR 16,241.70
+Laptop stand              9    INR 2,645.83   INR 23,812.47
+-----------------------------------------------------------
+Gross Amount:                                 INR 41,970.77
+Concession:                                    INR 5,036.49
+IGST 18%:                                      INR 6,648.17
+Total:                                        INR 43,582.45

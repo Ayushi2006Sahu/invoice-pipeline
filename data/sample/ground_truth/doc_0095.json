@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0095",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0001",
+    "invoice_date": "2026-04-19",
+    "due_date": "2026-06-03",
+    "currency": "INR",
+    "subtotal": "22324.31",
+    "discount": "2455.67",
+    "tax": "3576.36",
+    "total": "23445.00",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "915.74",
+        "amount": "8241.66"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 5,
+        "unit_price": "2816.53",
+        "amount": "14082.65"
+      }
+    ]
+  },
+  "duplicate_of": "doc_0007",
+  "expected_defects": [
+    "DUPLICATE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUPLICATE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

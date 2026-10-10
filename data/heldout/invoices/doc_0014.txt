@@ -1,0 +1,16 @@
+CREDIT NOTE
+
+Pay By: 26 Oct 2026
+Dated: 11 Sep 2026
+Ref No: SUN-2026-0002
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             5    INR 2,178.33  -INR 10,891.65
+Network switch            3    INR 2,863.32   -INR 8,589.96
+-----------------------------------------------------------
+Gross Amount:                                -INR 19,481.61
+Concession:                                   -INR 2,727.43
+IGST 18%:                                     -INR 3,015.75
+Total:                                       -INR 19,769.93

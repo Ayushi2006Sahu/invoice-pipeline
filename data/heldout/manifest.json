@@ -1,0 +1,29 @@
+{
+  "seed": 7,
+  "as_of_date": "2026-10-10",
+  "total_documents": 100,
+  "clean_documents": 51,
+  "expected_in_review": 49,
+  "defect_counts": {
+    "AMBIGUOUS_DATE": 5,
+    "CREDIT_NOTE_SIGN_MISMATCH": 3,
+    "DUE_BEFORE_INVOICE": 5,
+    "DUPLICATE_ID_CONFLICT": 3,
+    "DUPLICATE_INVOICE": 3,
+    "FUTURE_INVOICE_DATE": 3,
+    "GARBLED_TEXT": 6,
+    "INVALID_INVOICE_ID": 4,
+    "MISSING_FIELD": 3,
+    "NEGATIVE_AMOUNT_ON_INVOICE": 3,
+    "NO_LINE_ITEMS": 3,
+    "SUBTOTAL_MISMATCH": 5,
+    "TOTAL_MISMATCH": 5
+  },
+  "tag_counts": {
+    "NO_DUE_DATE": 4,
+    "ROUNDING_WITHIN_TOLERANCE": 4,
+    "SAME_ID_DIFFERENT_VENDOR": 3,
+    "VALID_CREDIT_NOTE": 4,
+    "ZERO_DISCOUNT": 4
+  }
+}

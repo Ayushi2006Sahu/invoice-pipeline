@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 31 Mar 2026
+Dated: 01 Mar 2026
+Ref No: ACM-2026-0002
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Laptop stand              2    INR 4,634.01    INR 9,268.02
+Whiteboard                4    INR 3,269.49   INR 13,077.96
+A4 paper ream             7      INR 828.83    INR 5,801.81
+Consulting hours          5    INR 1,871.32    INR 9,356.60
+Office chair             10    INR 1,959.26   INR 19,592.60
+-----------------------------------------------------------
+Gross Amount:                                 INR 57,096.99
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 10,277.46
+Total:                                        INR 67,374.45

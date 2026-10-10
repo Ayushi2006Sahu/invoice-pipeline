@@ -1,0 +1,16 @@
+INVOICE
+Zenith Corp
+
+Invoice No: ZEN-2026-0005
+Invoice Date: 18 Apr 2026
+Due Date: 02 Jun 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             2    Rs. 3,942.40    Rs. 7,884.80
+A4 paper ream             9      Rs. 864.99    Rs. 7,784.91
+-----------------------------------------------------------
+Subtotal:                                     Rs. 15,669.71
+Discount:                                          Rs. 0.00
+Tax (18%):                                     Rs. 2,820.55
+Total:                                        Rs. 18,490.26

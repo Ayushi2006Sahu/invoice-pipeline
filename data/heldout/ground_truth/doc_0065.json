@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0065",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0007",
+    "invoice_date": "2026-04-13",
+    "due_date": "2026-04-28",
+    "currency": "INR",
+    "subtotal": "54796.06",
+    "discount": "0.00",
+    "tax": "9863.29",
+    "total": "64659.35",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 6,
+        "unit_price": "1009.22",
+        "amount": "6055.32"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 1,
+        "unit_price": "1808.10",
+        "amount": "1808.10"
+      },
+      {
+        "description": "Office chair",
+        "qty": 7,
+        "unit_price": "489.82",
+        "amount": "3428.74"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 8,
+        "unit_price": "1512.39",
+        "amount": "12099.12"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "3489.42",
+        "amount": "31404.78"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ZERO_DISCOUNT"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

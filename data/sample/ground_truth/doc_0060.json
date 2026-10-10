@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0060",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0003",
+    "invoice_date": "2026-08-26",
+    "due_date": "2026-10-10",
+    "currency": "INR",
+    "subtotal": "80979.84",
+    "discount": "6478.39",
+    "tax": "13410.26",
+    "total": "87911.71",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "2333.66",
+        "amount": "18669.28"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 10,
+        "unit_price": "1457.16",
+        "amount": "14571.60"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 6,
+        "unit_price": "4515.42",
+        "amount": "27092.52"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "4405.42",
+        "amount": "17621.68"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "1512.38",
+        "amount": "3024.76"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,19 @@
+INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Bill Number: BOS-2026-0003
+Issued: 26-Aug-2026
+Due By: 10-Oct-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            8    INR 2,333.66   INR 18,669.28
+Printer toner            10    INR 1,457.16   INR 14,571.60
+Desk lamp                 6    INR 4,515.42   INR 27,092.52
+Whiteboard                4    INR 4,405.42   INR 17,621.68
+Courier charges           2    INR 1,512.38    INR 3,024.76
+-----------------------------------------------------------
+Net Amount:                                   INR 80,979.84
+Rebate:                                        INR 6,478.39
+Tax:                                          INR 13,410.26
+Grand Total:                                  INR 87,911.71

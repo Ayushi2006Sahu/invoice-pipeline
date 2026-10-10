@@ -1,0 +1,14 @@
+SALES INVOICE
+
+Pay By: 19 Aug 2026
+Dated: 05 Jul 2026
+Ref No: NVL-2026-0007
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+-----------------------------------------------------------
+Gross Amount:                                      INR 0.00
+Concession:                                        INR 0.00
+IGST 18%:                                          INR 0.00
+Total:                                             INR 0.00

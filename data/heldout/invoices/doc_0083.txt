@@ -1,0 +1,17 @@
+SALES INVOICE
+
+Pay By: 19 Jun 2O26
+Dated: 04 Jun 2O26
+Ref No: B0S-2026-OOl2
+Supp1ier: Bharat Office Supp1ies Pvt Ltd
+
+Item                  Units            Rate           Va1ue
+-----------------------------------------------------------
+Printer toner             3    INR 4,902.28   INR l4,706.84
+Laptop stand              2      INR 620.38    INR 1,240.76
+Whiteboard                7    INR 2,62l.6B   INR l8,3S1.76
+-----------------------------------------------------------
+Gross Amount:                                 INR 34,299.36
+Concession:                                    INR 2,743.95
+IGST 1B%:                                      INR 5,679.97
+Total:                                        INR 37,235.38

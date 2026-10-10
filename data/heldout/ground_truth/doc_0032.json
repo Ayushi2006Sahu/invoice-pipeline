@@ -1,0 +1,56 @@
+{
+  "doc_id": "doc_0032",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Sundar Electronics",
+    "invoice_no": "SUN-2026-0004",
+    "invoice_date": "2026-05-21",
+    "due_date": "2026-06-05",
+    "currency": "INR",
+    "subtotal": "66194.59",
+    "discount": "0.00",
+    "tax": "11915.03",
+    "total": "78117.59",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 7,
+        "unit_price": "4611.15",
+        "amount": "32278.05"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "450.55",
+        "amount": "4505.50"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 6,
+        "unit_price": "4901.84",
+        "amount": "29411.04"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "TOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "TOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

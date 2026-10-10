@@ -1,0 +1,16 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Bill Number: KAV-2026-0011
+Issued: 21-Jan-2026
+Due By: 20-Feb-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch           10    INR 1,364.00  -INR 13,640.00
+USB-C cable               3    INR 3,343.82  -INR 10,031.46
+-----------------------------------------------------------
+Net Amount:                                  -INR 23,671.46
+Rebate:                                            INR 0.00
+Tax:                                          -INR 4,260.86
+Grand Total:                                 -INR 27,932.32

@@ -1,0 +1,18 @@
+INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Invoice Number: BOS-26-5
+Invoice Date: September 18, 2026
+Due Date: November 02, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        7    INR 4.426,35   INR 30.984,45
+Printer toner             8    INR 2.525,79   INR 20.206,32
+Whiteboard                4    INR 2.444,87    INR 9.779,48
+Network switch            9      INR 808,34    INR 7.275,06
+-----------------------------------------------------------
+Subtotal:                                     INR 68.245,31
+Discount:                                          INR 0,00
+VAT 18%:                                      INR 12.284,16
+Total Amount:                                 INR 80.529,47

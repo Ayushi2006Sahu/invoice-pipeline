@@ -1,0 +1,40 @@
+{
+  "doc_id": "doc_0036",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0001",
+    "invoice_date": "2026-06-24",
+    "due_date": "2026-08-08",
+    "currency": "INR",
+    "subtotal": "41871.20",
+    "discount": "4187.12",
+    "tax": "6783.13",
+    "total": "44467.21",
+    "line_items": [
+      {
+        "description": "Whiteboard",
+        "qty": 10,
+        "unit_price": "4187.12",
+        "amount": "41871.20"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

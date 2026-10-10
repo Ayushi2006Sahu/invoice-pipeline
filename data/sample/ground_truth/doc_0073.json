@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_0073",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Orion Software Services",
+    "invoice_no": "ORS-2026-0008",
+    "invoice_date": "2026-06-27",
+    "due_date": "2026-08-11",
+    "currency": "INR",
+    "subtotal": "81132.32",
+    "discount": "4056.62",
+    "tax": "13873.63",
+    "total": "90949.33",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 2,
+        "unit_price": "3705.29",
+        "amount": "7410.58"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 5,
+        "unit_price": "4507.98",
+        "amount": "22539.90"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "4273.28",
+        "amount": "42732.80"
+      },
+      {
+        "description": "Network switch",
+        "qty": 2,
+        "unit_price": "4224.52",
+        "amount": "8449.04"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

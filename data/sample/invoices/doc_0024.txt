@@ -1,0 +1,20 @@
+CREDIT NOTE
+Kaveri Foods Pvt Ltd
+
+Inv #: KAV-2026-0005
+Date: 2026-06-10
+Payment Due: 2026-07-10
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             2        4,648.20       -9,296.40
+Network switch            5          986.20       -4,931.00
+Whiteboard               10        1,441.80      -14,418.00
+Consulting hours          1          618.34         -618.34
+Office chair             10        2,328.36      -23,283.60
+-----------------------------------------------------------
+Sub Total:                                       -52,547.34
+Less Discount:                                         0.00
+GST @18%:                                         -9,458.52
+Total Due:                                       -62,005.86

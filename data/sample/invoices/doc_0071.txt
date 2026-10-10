@@ -1,0 +1,19 @@
+INVOICE
+Sundar Electronics
+
+Invoice No: SUN-2026-0002
+Invoice Date: 05 Jul 2026
+Due Date: 04 Aug 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Laptop stand              3    Rs. 2,010.38    Rs. 6,031.14
+Whiteboard                3    Rs. 2,877.89    Rs. 8,633.67
+A4 paper ream             9    Rs. 4,865.55   Rs. 43,789.95
+Printer toner             1    Rs. 3,190.19    Rs. 3,190.19
+USB-C cable               6    Rs. 2,611.70   Rs. 15,670.20
+-----------------------------------------------------------
+Subtotal:                                     Rs. 77,315.15
+Discount:                                          Rs. 0.00
+Tax (18%):                                    Rs. 13,916.73
+Total:                                        Rs. 91,231.88

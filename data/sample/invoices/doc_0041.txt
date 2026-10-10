@@ -1,0 +1,16 @@
+TAX INVOICE
+Zenith Corp
+
+Inv #: ZEN-2026-0001
+Date: 2026-02-22
+Payment Due: 2026-04-08
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Annual maintenance        5        1,333.93        6,669.65
+-----------------------------------------------------------
+Sub Total:                                         6,669.65
+Less Discount:                                         0.00
+GST @18%:                                          1,200.54
+Total Due:                                         7,870.19

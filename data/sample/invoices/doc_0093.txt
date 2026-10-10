@@ -1,0 +1,19 @@
+INVOICE
+Nova Logistics Ltd
+
+Bill Number: NVL-2026-0003
+Issued: 04-Oct-2026
+Due By: 19-Oct-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+USB-C cable               2    INR 4,797.00    INR 9,594.00
+Office chair              1    INR 4,556.96    INR 4,556.96
+A4 paper ream             6      INR 421.49    INR 2,528.94
+Network switch            9    INR 1,297.82   INR 11,680.38
+Annual maintenance        5    INR 3,557.37   INR 17,786.85
+-----------------------------------------------------------
+Net Amount:                                   INR 46,147.13
+Rebate:                                            INR 0.00
+Tax:                                           INR 8,306.48
+Grand Total:                                  INR 54,453.61

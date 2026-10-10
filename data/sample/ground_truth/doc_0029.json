@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_0029",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0009",
+    "invoice_date": "2026-04-22",
+    "due_date": "2026-05-22",
+    "currency": "INR",
+    "subtotal": "11500.44",
+    "discount": "1610.06",
+    "tax": "1780.27",
+    "total": "11670.65",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "qty": 3,
+        "unit_price": "1300.66",
+        "amount": "3901.98"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "2532.82",
+        "amount": "7598.46"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

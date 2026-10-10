@@ -1,0 +1,19 @@
+INVOICE
+Nova Logistics Ltd
+
+Bill Number: NVL-2026-0005
+Issued: 03-Jun-2026
+Due By: 18-Jul-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             6    INR 1,544.15    INR 9,264.90
+Laptop stand              3    INR 2,347.34    INR 7,042.02
+Consulting hours          9    INR 3,738.57   INR 33,647.13
+A4 paper ream             5    INR 3,256.95   INR 16,284.75
+USB-C cable               9       INR 91.01      INR 819.09
+-----------------------------------------------------------
+Net Amount:                                   INR 67,057.89
+Rebate:                                        INR 8,717.53
+Tax:                                          INR 10,501.26
+Grand Total:                                  INR 68,841.62

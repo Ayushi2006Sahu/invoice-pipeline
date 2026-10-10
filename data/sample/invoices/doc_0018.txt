@@ -1,0 +1,18 @@
+INVOICE
+Zenith Corp
+
+Invoice Number: ZEN-2026-0004
+Invoice Date: June 03, 2026
+Due Date: July 03, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            6    INR 4.950,55   INR 29.703,30
+Desk lamp                 5    INR 1.120,90    INR 5.604,50
+Annual maintenance        6    INR 1.301,40    INR 7.808,40
+Whiteboard                5    INR 2.125,05   INR 10.625,25
+-----------------------------------------------------------
+Subtotal:                                     INR 53.741,45
+Discount:                                          INR 0,00
+VAT 18%:                                       INR 9.673,46
+Total Amount:                                 INR 63.414,91

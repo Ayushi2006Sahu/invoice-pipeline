@@ -1,0 +1,19 @@
+INVOICE
+Himalaya Stationers
+
+Bill Number: HIM-2026-0005
+Issued: 19-Jul-2026
+Due By: 18-Aug-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+A4 paper ream             4      INR 921.94    INR 3,687.76
+Office chair              7    INR 2,596.15   INR 18,173.05
+Whiteboard                8    INR 1,170.65    INR 9,365.20
+Network switch            7    INR 4,781.39   INR 33,469.73
+Annual maintenance        1      INR 913.17      INR 913.17
+-----------------------------------------------------------
+Net Amount:                                   INR 65,608.91
+Rebate:                                            INR 0.00
+Tax:                                          INR 11,809.60
+Grand Total:                                  INR 77,418.51

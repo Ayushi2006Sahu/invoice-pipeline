@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 03 May 2026
+Dated: 18 Apr 2026
+Ref No: NVL-2026-0005
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Whiteboard                8    INR 1,458.53   INR 11,668.24
+-----------------------------------------------------------
+Gross Amount:                                 INR 11,668.24
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,100.28
+Total:                                        INR 13,768.52

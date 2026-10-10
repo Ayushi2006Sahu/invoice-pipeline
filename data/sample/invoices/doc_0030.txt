@@ -1,0 +1,18 @@
+INVOICE
+Nova Logistics Ltd
+
+Invoice No: NVL-2026-0012
+Invoice Date: 26 Nov 2026
+Due Date: 26 Dec 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Desk lamp                 5    Rs. 2,459.47   Rs. 12,297.35
+Laptop stand              5    Rs. 3,546.16   Rs. 17,730.80
+USB-C cable               1    Rs. 4,762.86    Rs. 4,762.86
+Courier charges           8    Rs. 4,774.93   Rs. 38,199.44
+-----------------------------------------------------------
+Subtotal:                                     Rs. 72,990.45
+Discount:                                          Rs. 0.00
+Tax (18%):                                    Rs. 13,138.28
+Total:                                        Rs. 86,128.73

@@ -1,0 +1,14 @@
+INVOICE
+Himalaya Stationers
+
+Invoice Number: HIM-2026-0012
+Invoice Date: March 09, 2026
+Due Date: April 08, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+-----------------------------------------------------------
+Subtotal:                                          INR 0,00
+Discount:                                          INR 0,00
+VAT 18%:                                           INR 0,00
+Total Amount:                                      INR 0,00

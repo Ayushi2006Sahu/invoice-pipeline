@@ -1,0 +1,19 @@
+TAX INVOICE
+Kaveri Foods Pvt Ltd
+
+Inv #: KAV-2026-0008
+Date: 2026-04-21
+Payment Due: 2026-06-05
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Printer toner             2        3,831.60        7,663.20
+Annual maintenance        4        1,704.38        6,817.52
+Network switch            2        3,944.83        7,889.66
+USB-C cable               9        4,046.06       36,414.54
+-----------------------------------------------------------
+Sub Total:                                        58,784.92
+Less Discount:                                     4,702.79
+GST @18%:                                          9,734.78
+Total Due:                                        63,775.10

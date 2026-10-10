@@ -1,0 +1,60 @@
+{
+  "doc_id": "doc_0078",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0005",
+    "invoice_date": "2026-03-08",
+    "due_date": null,
+    "currency": "INR",
+    "subtotal": "33050.76",
+    "discount": "1652.54",
+    "tax": "5651.68",
+    "total": "37049.90",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "1663.66",
+        "amount": "14972.94"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 4,
+        "unit_price": "1253.58",
+        "amount": "5014.32"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 6,
+        "unit_price": "1091.36",
+        "amount": "6548.16"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 3,
+        "unit_price": "2171.78",
+        "amount": "6515.34"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "NO_DUE_DATE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

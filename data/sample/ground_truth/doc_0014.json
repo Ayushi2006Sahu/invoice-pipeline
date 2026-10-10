@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0014",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0005",
+    "invoice_date": "2026-07-19",
+    "due_date": "2026-08-18",
+    "currency": "INR",
+    "subtotal": "65608.91",
+    "discount": "0.00",
+    "tax": "11809.60",
+    "total": "77418.51",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 4,
+        "unit_price": "921.94",
+        "amount": "3687.76"
+      },
+      {
+        "description": "Office chair",
+        "qty": 7,
+        "unit_price": "2596.15",
+        "amount": "18173.05"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 8,
+        "unit_price": "1170.65",
+        "amount": "9365.20"
+      },
+      {
+        "description": "Network switch",
+        "qty": 7,
+        "unit_price": "4781.39",
+        "amount": "33469.73"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 1,
+        "unit_price": "913.17",
+        "amount": "913.17"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

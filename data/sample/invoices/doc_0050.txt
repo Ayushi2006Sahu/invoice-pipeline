@@ -1,0 +1,19 @@
+INVOICE
+Acme Pvt Ltd
+
+Bill Number: ACM-2026-0001
+Issued: 21-Jan-2026
+Due By: 07-Mar-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Courier charges           9      INR 470.01    INR 4,230.09
+Whiteboard                3      INR 409.24    INR 1,227.72
+Network switch           10      INR 406.31    INR 4,063.10
+Laptop stand              4    INR 2,166.94    INR 8,667.76
+Office chair              2    INR 4,986.67    INR 9,973.34
+-----------------------------------------------------------
+Net Amount:                                   INR 28,162.01
+Rebate:                                        INR 2,252.96
+Tax:                                           INR 4,663.63
+Grand Total:                                  INR 30,572.68

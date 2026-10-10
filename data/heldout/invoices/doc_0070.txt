@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 07 Sep 2026
+Dated: 24 Jul 2026
+Ref No: ACM-2026-0007
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             2      INR 804.26    INR 1,608.52
+-----------------------------------------------------------
+Gross Amount:                                  INR 1,608.52
+Concession:                                        INR 0.00
+IGST 18%:                                        INR 289.53
+Total:                                         INR 1,898.05

@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 02 Apr 2026
+Dated: 16 Feb 2026
+Ref No: NVL-2026-0001
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+A4 paper ream             7    INR 2,242.42   INR 15,696.94
+-----------------------------------------------------------
+Gross Amount:                                 INR 15,696.94
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 2,825.45
+Total:                                        INR 18,522.39

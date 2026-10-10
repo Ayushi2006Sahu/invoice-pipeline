@@ -1,0 +1,17 @@
+INVOICE
+Zenith Corp
+
+Bill Number: ZEN-2026-0010
+Issued: 07/03/2026
+Due By: 06/04/2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch            6    INR 3,336.23   INR 20,017.38
+Whiteboard                8    INR 4,623.79   INR 36,990.32
+Cloud hosting             9      INR 238.21    INR 2,143.89
+-----------------------------------------------------------
+Net Amount:                                   INR 59,151.59
+Rebate:                                        INR 4,732.13
+Tax:                                           INR 9,795.50
+Grand Total:                                  INR 64,214.96

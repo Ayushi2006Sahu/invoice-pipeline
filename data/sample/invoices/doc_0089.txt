@@ -1,0 +1,19 @@
+TAX INVOICE
+Bharat Office Supplies Pvt Ltd
+
+Inv #: BOS-2026-0008
+Date: 2026-07-28
+Payment Due: 2026-07-26
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Courier charges          10        3,941.62       39,416.20
+Consulting hours          3        4,692.11       14,076.33
+Whiteboard                7        3,483.67       24,385.69
+Cloud hosting             2        4,420.95        8,841.90
+-----------------------------------------------------------
+Sub Total:                                        86,720.12
+Less Discount:                                         0.00
+GST @18%:                                         15,609.62
+Total Due:                                       102,335.75

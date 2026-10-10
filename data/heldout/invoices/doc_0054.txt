@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 15 Jun 2026
+Dated: 01 May 2026
+Ref No: NVL-2026-0003
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             9    INR 4,757.35   INR 42,816.15
+Office chair              9      INR 532.04    INR 4,788.36
+Courier charges           9      INR 396.29    INR 3,566.61
+A4 paper ream             8    INR 1,372.22   INR 10,977.76
+-----------------------------------------------------------
+Gross Amount:                                 INR 62,148.88
+Concession:                                    INR 5,593.40
+IGST 18%:                                     INR 10,179.99
+Total:                                        INR 66,735.48

@@ -1,0 +1,67 @@
+{
+  "doc_id": "doc_0039",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0013",
+    "invoice_date": "2026-06-15",
+    "due_date": "2026-06-30",
+    "currency": "INR",
+    "subtotal": "71867.34",
+    "discount": "3593.37",
+    "tax": "12289.31",
+    "total": "80563.28",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 7,
+        "unit_price": "1933.28",
+        "amount": "13532.96"
+      },
+      {
+        "description": "Office chair",
+        "qty": 2,
+        "unit_price": "833.63",
+        "amount": "1667.26"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 4,
+        "unit_price": "3850.47",
+        "amount": "15401.88"
+      },
+      {
+        "description": "Whiteboard",
+        "qty": 4,
+        "unit_price": "265.47",
+        "amount": "1061.88"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 9,
+        "unit_price": "4467.04",
+        "amount": "40203.36"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "truncated"
+  }
+}

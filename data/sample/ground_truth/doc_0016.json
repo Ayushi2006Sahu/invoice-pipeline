@@ -1,0 +1,61 @@
+{
+  "doc_id": "doc_0016",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0017",
+    "invoice_date": "2026-10-08",
+    "due_date": "2026-11-22",
+    "currency": "INR",
+    "subtotal": "16660.08",
+    "discount": "0.00",
+    "tax": "2998.81",
+    "total": "19658.89",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "435.30",
+        "amount": "3482.40"
+      },
+      {
+        "description": "Network switch",
+        "qty": 2,
+        "unit_price": "1738.79",
+        "amount": "3477.58"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "827.69",
+        "amount": "8276.90"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 2,
+        "unit_price": "711.60",
+        "amount": "1423.20"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "empty"
+  }
+}

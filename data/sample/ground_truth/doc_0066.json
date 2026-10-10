@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0066",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0009",
+    "invoice_date": "2026-01-27",
+    "due_date": "2026-02-26",
+    "currency": "INR",
+    "subtotal": "49406.36",
+    "discount": "0.00",
+    "tax": "8887.47",
+    "total": "58293.83",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "qty": 3,
+        "unit_price": "3394.27",
+        "amount": "10182.81"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 8,
+        "unit_price": "587.85",
+        "amount": "4702.80"
+      },
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "3059.74",
+        "amount": "3059.74"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "2510.99",
+        "amount": "12554.95"
+      },
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "2359.32",
+        "amount": "18874.56"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

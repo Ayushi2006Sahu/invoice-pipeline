@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0021",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0011",
+    "invoice_date": "2026-09-05",
+    "due_date": "2026-10-05",
+    "currency": "INR",
+    "subtotal": "34506.45",
+    "discount": "3450.65",
+    "tax": "5590.04",
+    "total": "36645.84",
+    "line_items": [
+      {
+        "description": "Cloud hosting",
+        "qty": 3,
+        "unit_price": "442.31",
+        "amount": "1326.93"
+      },
+      {
+        "description": "Network switch",
+        "qty": 8,
+        "unit_price": "4147.44",
+        "amount": "33179.52"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "AMBIGUOUS_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "AMBIGUOUS_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d/%m/%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

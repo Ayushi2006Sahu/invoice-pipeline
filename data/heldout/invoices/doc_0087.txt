@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 10 Nov 2026
+Dated: 26 Sep 2026
+Ref No: BOS2026-0009
+Supplier: Bharat Office Supplies Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Office chair              8    INR 4,758.98   INR 38,071.84
+Annual maintenance        6    INR 3,891.58   INR 23,349.48
+Laptop stand              2      INR 466.08      INR 932.16
+Cloud hosting             3    INR 1,776.18    INR 5,328.54
+-----------------------------------------------------------
+Gross Amount:                                 INR 67,682.02
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 12,182.76
+Total:                                        INR 79,864.78

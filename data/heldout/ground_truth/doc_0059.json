@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0059",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Bharat Office Supplies Pvt Ltd",
+    "invoice_no": "BOS-2026-0006",
+    "invoice_date": "2026-09-16",
+    "due_date": "2026-10-01",
+    "currency": "INR",
+    "subtotal": "30051.18",
+    "discount": "0.00",
+    "tax": "5409.21",
+    "total": "35460.38",
+    "line_items": [
+      {
+        "description": "Annual maintenance",
+        "qty": 9,
+        "unit_price": "3339.02",
+        "amount": "30051.18"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ROUNDING_WITHIN_TOLERANCE"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

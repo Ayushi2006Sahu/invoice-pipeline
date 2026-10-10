@@ -1,0 +1,20 @@
+TAX INVOICE
+Orion Software Services
+
+Inv #: ORS-2026-0002
+Date: 2026-01-02
+Payment Due: 2026-02-16
+Currency: INR
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Courier charges           2        3,624.12        7,248.24
+Whiteboard                9        3,986.76       35,880.84
+Printer toner             5        4,079.67       20,398.35
+Network switch            6          634.85        3,809.10
+Office chair              5        2,329.42       11,647.10
+-----------------------------------------------------------
+Sub Total:                                        78,983.63
+Less Discount:                                         0.00
+GST @18%:                                         14,217.05
+Total Due:                                        93,200.68

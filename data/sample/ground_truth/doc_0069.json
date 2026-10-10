@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0069",
+  "document_type": "invoice",
+  "layout": "B",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0004",
+    "invoice_date": "2026-03-23",
+    "due_date": "2026-05-07",
+    "currency": "INR",
+    "subtotal": "112132.29",
+    "discount": "0.00",
+    "tax": "20183.81",
+    "total": "132316.10",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 9,
+        "unit_price": "2980.37",
+        "amount": "26823.33"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 10,
+        "unit_price": "1713.55",
+        "amount": "17135.50"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 8,
+        "unit_price": "3262.06",
+        "amount": "26096.48"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 9,
+        "unit_price": "2287.35",
+        "amount": "20586.15"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 9,
+        "unit_price": "2387.87",
+        "amount": "21490.83"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ZERO_DISCOUNT"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%Y-%m-%d",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

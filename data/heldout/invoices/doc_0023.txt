@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 28 Jun 2026
+Dated: 29 May 2026
+Ref No: NVL-2026-0005
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Printer toner             8    INR 2,494.96   INR 19,959.68
+Whiteboard                2    INR 4,735.36    INR 9,470.72
+Annual maintenance        9    INR 1,094.64    INR 9,851.76
+Courier charges           5      INR 500.12    INR 2,500.60
+-----------------------------------------------------------
+Gross Amount:                                 INR 41,782.76
+Concession:                                    INR 2,089.14
+IGST 18%:                                      INR 7,144.85
+Total:                                        INR 46,838.47

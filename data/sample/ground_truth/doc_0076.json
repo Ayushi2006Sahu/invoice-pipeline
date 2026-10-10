@@ -1,0 +1,66 @@
+{
+  "doc_id": "doc_0076",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": "KAV-2026-0007",
+    "invoice_date": "2026-02-01",
+    "due_date": "2026-02-16",
+    "currency": "INR",
+    "subtotal": "63324.74",
+    "discount": "0.00",
+    "tax": "11398.45",
+    "total": "74723.19",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "3753.67",
+        "amount": "11261.01"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 4,
+        "unit_price": "386.74",
+        "amount": "1546.96"
+      },
+      {
+        "description": "Network switch",
+        "qty": 7,
+        "unit_price": "2186.99",
+        "amount": "15308.93"
+      },
+      {
+        "description": "USB-C cable",
+        "qty": 6,
+        "unit_price": "2894.84",
+        "amount": "17369.04"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 8,
+        "unit_price": "2229.85",
+        "amount": "17838.80"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ZERO_DISCOUNT"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

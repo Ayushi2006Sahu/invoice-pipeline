@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_0006",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0006",
+    "invoice_date": "2026-03-25",
+    "due_date": "2026-04-09",
+    "currency": "INR",
+    "subtotal": "11541.60",
+    "discount": "0.00",
+    "tax": "2077.49",
+    "total": "13619.09",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 5,
+        "unit_price": "2308.32",
+        "amount": "11541.60"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [
+    "ZERO_DISCOUNT"
+  ],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

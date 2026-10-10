@@ -1,0 +1,61 @@
+{
+  "doc_id": "doc_0082",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Acme Pvt Ltd",
+    "invoice_no": "ACM-2026-0015",
+    "invoice_date": "2026-04-11",
+    "due_date": "2026-05-11",
+    "currency": "INR",
+    "subtotal": "69609.56",
+    "discount": "0.00",
+    "tax": "12529.72",
+    "total": "82139.28",
+    "line_items": [
+      {
+        "description": "Consulting hours",
+        "qty": 2,
+        "unit_price": "4790.72",
+        "amount": "9581.44"
+      },
+      {
+        "description": "Office chair",
+        "qty": 10,
+        "unit_price": "3658.23",
+        "amount": "36582.30"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 3,
+        "unit_price": "3407.14",
+        "amount": "10221.42"
+      },
+      {
+        "description": "Cloud hosting",
+        "qty": 4,
+        "unit_price": "3306.10",
+        "amount": "13224.40"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "GARBLED_TEXT"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "GARBLED_TEXT"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": false,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt"
+    ],
+    "garble_mode": "truncated"
+  }
+}

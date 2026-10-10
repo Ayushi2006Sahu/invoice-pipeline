@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 18 Mar 2026
+Dated: 21 Mar 2026
+Ref No: ORS-2026-0008
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Desk lamp                 7    INR 4,927.12   INR 34,489.84
+Courier charges           9    INR 4,535.08   INR 40,815.72
+Office chair              8    INR 2,403.79   INR 19,230.32
+A4 paper ream             4    INR 4,155.73   INR 16,622.92
+-----------------------------------------------------------
+Gross Amount:                                INR 111,158.80
+Concession:                                        INR 0.00
+IGST 18%:                                     INR 20,008.58
+Total:                                       INR 131,167.38

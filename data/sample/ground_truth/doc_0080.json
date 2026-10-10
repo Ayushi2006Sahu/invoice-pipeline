@@ -1,0 +1,44 @@
+{
+  "doc_id": "doc_0080",
+  "document_type": "invoice",
+  "layout": "D",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0010",
+    "invoice_date": "2026-01-28",
+    "due_date": "2026-02-12",
+    "currency": "INR",
+    "subtotal": "18442.92",
+    "discount": "0.00",
+    "tax": "3311.48",
+    "total": "21754.40",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 7,
+        "unit_price": "2628.16",
+        "amount": "18397.12"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "SUBTOTAL_MISMATCH"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%B %d, %Y",
+    "number_style": "eu",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

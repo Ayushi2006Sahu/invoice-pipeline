@@ -1,0 +1,15 @@
+SALES INVOICE
+
+Pay By: 08 Aug 2026
+Dated: 24 Jun 2026
+Ref No: ACM-2026-0001
+Supplier: Acme Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Whiteboard               10    INR 4,187.12   INR 41,871.20
+-----------------------------------------------------------
+Gross Amount:                                 INR 41,871.20
+Concession:                                    INR 4,187.12
+IGST 18%:                                      INR 6,783.13
+Total:                                        INR 44,467.21

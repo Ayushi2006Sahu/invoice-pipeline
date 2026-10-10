@@ -1,0 +1,16 @@
+INVOICE
+Zenith Corp
+
+Invoice No: ZEN-2026-0009
+Invoice Date: 31 Mar 2026
+Due Date: 27 Mar 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Network switch           10      Rs. 158.76    Rs. 1,587.60
+Desk lamp                 5    Rs. 3,071.19   Rs. 15,355.95
+-----------------------------------------------------------
+Subtotal:                                     Rs. 16,943.55
+Discount:                                          Rs. 0.00
+Tax (18%):                                     Rs. 3,049.84
+Total:                                        Rs. 19,993.39

@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0031",
+  "document_type": "invoice",
+  "layout": "A",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0009",
+    "invoice_date": "2026-03-31",
+    "due_date": "2026-03-27",
+    "currency": "INR",
+    "subtotal": "16943.55",
+    "discount": "0.00",
+    "tax": "3049.84",
+    "total": "19993.39",
+    "line_items": [
+      {
+        "description": "Network switch",
+        "qty": 10,
+        "unit_price": "158.76",
+        "amount": "1587.60"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 5,
+        "unit_price": "3071.19",
+        "amount": "15355.95"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "DUE_BEFORE_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

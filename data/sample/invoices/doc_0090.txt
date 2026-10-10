@@ -1,0 +1,10 @@
+INVOICE
+Acme Pvt Ltd
+
+Invoice No: ACM-2026-0013
+Invoice Date: 27 Jan 2026
+Due Date: 11 Feb 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Office chair              4    Rs. 3,137.28   Rs. 

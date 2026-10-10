@@ -1,0 +1,68 @@
+{
+  "doc_id": "doc_0094",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Kaveri Foods Pvt Ltd",
+    "invoice_no": null,
+    "invoice_date": "2026-04-15",
+    "due_date": "2026-05-15",
+    "currency": "INR",
+    "subtotal": "75308.92",
+    "discount": "0.00",
+    "tax": "13555.61",
+    "total": "88864.53",
+    "line_items": [
+      {
+        "description": "Laptop stand",
+        "qty": 2,
+        "unit_price": "3392.11",
+        "amount": "6784.22"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 10,
+        "unit_price": "3770.90",
+        "amount": "37709.00"
+      },
+      {
+        "description": "Desk lamp",
+        "qty": 10,
+        "unit_price": "1883.43",
+        "amount": "18834.30"
+      },
+      {
+        "description": "Printer toner",
+        "qty": 4,
+        "unit_price": "246.36",
+        "amount": "985.44"
+      },
+      {
+        "description": "Office chair",
+        "qty": 6,
+        "unit_price": "1832.66",
+        "amount": "10995.96"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "MISSING_FIELD"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "MISSING_FIELD"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

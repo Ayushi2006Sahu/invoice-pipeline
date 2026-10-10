@@ -1,0 +1,50 @@
+{
+  "doc_id": "doc_0056",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Himalaya Stationers",
+    "invoice_no": "HIM-2026-0009",
+    "invoice_date": "2026-03-04",
+    "due_date": "2026-04-03",
+    "currency": "INR",
+    "subtotal": "-64493.72",
+    "discount": "-8384.18",
+    "tax": "-10099.72",
+    "total": "-66209.26",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 7,
+        "unit_price": "2466.56",
+        "amount": "-17265.92"
+      },
+      {
+        "description": "Laptop stand",
+        "qty": 10,
+        "unit_price": "4722.78",
+        "amount": "-47227.80"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NEGATIVE_AMOUNT_ON_INVOICE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

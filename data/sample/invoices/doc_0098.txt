@@ -1,0 +1,18 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Invoice Number: KAV-2026-0001
+Invoice Date: February 16, 2026
+Due Date: March 03, 2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Consulting hours          2    INR 1.688,65    INR 3.377,30
+Courier charges           7    INR 1.688,52   INR 11.819,64
+Cloud hosting             5    INR 2.012,41   INR 10.062,05
+Desk lamp                 3    INR 3.650,92   INR 10.952,76
+-----------------------------------------------------------
+Subtotal:                                     INR 36.211,75
+Discount:                                      INR 2.172,71
+VAT 18%:                                       INR 6.127,03
+Total Amount:                                 INR 40.166,07

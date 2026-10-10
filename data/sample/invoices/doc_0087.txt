@@ -1,0 +1,17 @@
+INVOICE
+Nova Logistics Ltd
+
+Bill Number: NVL-2026-0002
+Issued: 23-Jun-2026
+Due By: 08-Jul-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             8    INR 4,766.56   INR 38,132.48
+Network switch            9    INR 2,417.08   INR 21,753.72
+Consulting hours          2    INR 1,349.73    INR 2,699.46
+-----------------------------------------------------------
+Net Amount:                                   INR 62,585.66
+Rebate:                                            INR 0.00
+Tax:                                          INR 11,265.42
+Grand Total:                                  INR 73,851.08

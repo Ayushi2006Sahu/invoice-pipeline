@@ -1,0 +1,18 @@
+SALES INVOICE
+
+Pay By: 14 Apr 2026
+Dated: 21 Apr 2026
+Ref No: ORS-2026-0007
+Supplier: Orion Software Services
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             5    INR 1,823.15    INR 9,115.75
+Whiteboard                1    INR 2,661.71    INR 2,661.71
+USB-C cable               5    INR 3,060.88   INR 15,304.40
+Annual maintenance        6      INR 709.94    INR 4,259.64
+-----------------------------------------------------------
+Gross Amount:                                 INR 31,341.50
+Concession:                                    INR 4,074.40
+IGST 18%:                                      INR 4,908.08
+Total:                                        INR 32,175.18

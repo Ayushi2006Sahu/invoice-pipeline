@@ -1,0 +1,64 @@
+{
+  "doc_id": "doc_0093",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0003",
+    "invoice_date": "2026-10-04",
+    "due_date": "2026-10-19",
+    "currency": "INR",
+    "subtotal": "46147.13",
+    "discount": "0.00",
+    "tax": "8306.48",
+    "total": "54453.61",
+    "line_items": [
+      {
+        "description": "USB-C cable",
+        "qty": 2,
+        "unit_price": "4797.00",
+        "amount": "9594.00"
+      },
+      {
+        "description": "Office chair",
+        "qty": 1,
+        "unit_price": "4556.96",
+        "amount": "4556.96"
+      },
+      {
+        "description": "A4 paper ream",
+        "qty": 6,
+        "unit_price": "421.49",
+        "amount": "2528.94"
+      },
+      {
+        "description": "Network switch",
+        "qty": 9,
+        "unit_price": "1297.82",
+        "amount": "11680.38"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 5,
+        "unit_price": "3557.37",
+        "amount": "17786.85"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [],
+  "expected_review": false,
+  "expected_review_reasons": [],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

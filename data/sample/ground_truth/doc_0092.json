@@ -1,0 +1,62 @@
+{
+  "doc_id": "doc_0092",
+  "document_type": "invoice",
+  "layout": "C",
+  "fields": {
+    "vendor": "Zenith Corp",
+    "invoice_no": "ZEN-2026-0011",
+    "invoice_date": "2026-10-24",
+    "due_date": "2026-11-23",
+    "currency": "INR",
+    "subtotal": "60633.98",
+    "discount": "0.00",
+    "tax": "10914.12",
+    "total": "71548.10",
+    "line_items": [
+      {
+        "description": "A4 paper ream",
+        "qty": 3,
+        "unit_price": "3688.56",
+        "amount": "11065.68"
+      },
+      {
+        "description": "Network switch",
+        "qty": 5,
+        "unit_price": "4786.54",
+        "amount": "23932.70"
+      },
+      {
+        "description": "Annual maintenance",
+        "qty": 1,
+        "unit_price": "291.12",
+        "amount": "291.12"
+      },
+      {
+        "description": "Courier charges",
+        "qty": 6,
+        "unit_price": "4224.08",
+        "amount": "25344.48"
+      }
+    ]
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "FUTURE_INVOICE_DATE"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d-%b-%Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

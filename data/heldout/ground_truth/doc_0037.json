@@ -1,0 +1,37 @@
+{
+  "doc_id": "doc_0037",
+  "document_type": "invoice",
+  "layout": "E",
+  "fields": {
+    "vendor": "Nova Logistics Ltd",
+    "invoice_no": "NVL-2026-0007",
+    "invoice_date": "2026-07-05",
+    "due_date": "2026-08-19",
+    "currency": "INR",
+    "subtotal": "0.00",
+    "discount": "0.00",
+    "tax": "0.00",
+    "total": "0.00",
+    "line_items": []
+  },
+  "duplicate_of": null,
+  "expected_defects": [
+    "NO_LINE_ITEMS"
+  ],
+  "expected_review": true,
+  "expected_review_reasons": [
+    "NO_LINE_ITEMS"
+  ],
+  "conflicts_with": null,
+  "tags": [],
+  "fields_readable": true,
+  "render": {
+    "date_format": "%d %b %Y",
+    "number_style": "en",
+    "formats": [
+      "txt",
+      "pdf"
+    ],
+    "garble_mode": null
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE
+Kaveri Foods Pvt Ltd
+
+Issued: 08-Jul-2026
+Due By: 22-Aug-2026
+
+Description             Qty      Unit Price          Amount
+-----------------------------------------------------------
+Cloud hosting             1    INR 1,436.52    INR 1,436.52
+-----------------------------------------------------------
+Net Amount:                                    INR 1,436.52
+Rebate:                                          INR 172.38
+Tax:                                             INR 227.55
+Grand Total:                                   INR 1,491.69

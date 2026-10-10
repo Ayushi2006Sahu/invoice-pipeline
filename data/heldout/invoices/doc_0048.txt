@@ -1,0 +1,16 @@
+SALES INVOICE
+
+Pay By: 22 Feb 2026
+Dated: 07 Mar 2026
+Ref No: SUN-2026-0006
+Supplier: Sundar Electronics
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Cloud hosting             8    INR 2,314.06   INR 18,512.48
+Annual maintenance        5    INR 4,499.54   INR 22,497.70
+-----------------------------------------------------------
+Gross Amount:                                 INR 41,010.18
+Concession:                                    INR 2,050.51
+IGST 18%:                                      INR 7,012.74
+Total:                                        INR 45,972.41

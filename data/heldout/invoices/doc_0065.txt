@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 28 Apr 2026
+Dated: 13 Apr 2026
+Ref No: KAV-2026-0007
+Supplier: Kaveri Foods Pvt Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          6    INR 1,009.22    INR 6,055.32
+USB-C cable               1    INR 1,808.10    INR 1,808.10
+Office chair              7      INR 489.82    INR 3,428.74
+Printer toner             8    INR 1,512.39   INR 12,099.12
+Network switch            9    INR 3,489.42   INR 31,404.78
+-----------------------------------------------------------
+Gross Amount:                                 INR 54,796.06
+Concession:                                        INR 0.00
+IGST 18%:                                      INR 9,863.29
+Total:                                        INR 64,659.35

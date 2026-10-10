@@ -1,0 +1,19 @@
+SALES INVOICE
+
+Pay By: 22 Apr 2026
+Dated: 08 Mar 2026
+Ref No: NVL-2026-0002
+Supplier: Nova Logistics Ltd
+
+Item                  Units            Rate           Value
+-----------------------------------------------------------
+Consulting hours          1    INR 4,821.11    INR 4,821.11
+Printer toner             6    INR 4,756.55   INR 28,539.30
+Whiteboard                8    INR 3,523.27   INR 28,186.16
+Cloud hosting            10    INR 4,323.19   INR 43,231.90
+Laptop stand              9    INR 2,255.30   INR 20,297.70
+-----------------------------------------------------------
+Gross Amount:                                INR 125,076.17
+Concession:                                   INR 16,259.90
+IGST 18%:                                     INR 19,586.93
+Total:                                       INR 128,403.20
