@@ -1,4 +1,4 @@
-"""Synthetic invoice generator, part 1: data model, clean builder, ground truth.
+﻿"""Synthetic invoice generator, part 1: data model, clean builder, ground truth.
 Money is Decimal everywhere. All randomness comes from one seeded Random,
 so the same seed always produces the same data.
 """
@@ -90,24 +90,27 @@ class InvoiceFactory:
             tax=sign * tax_mag,
             total=sign * total_mag,
         )
+def _s(x: Decimal) -> str:
+    """Decimal to string; avoids printing negative zero as -0.00."""
+    return str(x + 0)
 def invoice_fields(inv: Invoice) -> dict:
     """Printed values as plain JSON types. Money stays a string (no float)."""
     return {
         "vendor": inv.vendor,
         "invoice_no": inv.invoice_no,
-        "invoice_date": inv.invoice_date.isoformat(),
+        "invoice_date": inv.invoice_date.isoformat() if inv.invoice_date else None,
         "due_date": inv.due_date.isoformat() if inv.due_date else None,
         "currency": inv.currency,
-        "subtotal": str(inv.subtotal),
-        "discount": str(inv.discount),
-        "tax": str(inv.tax),
-        "total": str(inv.total),
+        "subtotal": _s(inv.subtotal),
+        "discount": _s(inv.discount),
+        "tax": _s(inv.tax),
+        "total": _s(inv.total),
         "line_items": [
             {
                 "description": i.description,
                 "qty": i.qty,
-                "unit_price": str(i.unit_price),
-                "amount": str(i.amount),
+                "unit_price": _s(i.unit_price),
+                "amount": _s(i.amount),
             }
             for i in inv.line_items
         ],
@@ -138,3 +141,4 @@ def ground_truth(
 def write_ground_truth(path: Path, gt: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(gt, indent=2, ensure_ascii=False), encoding="utf-8")
+
