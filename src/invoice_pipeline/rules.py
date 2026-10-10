@@ -49,6 +49,10 @@ class Policy:
     max_future_days: int = 0
     due_date_required: bool = False
     invoice_id_pattern: str = r"^[A-Z]{2,4}-\d{4}-\d{3,6}$"
+    date_order: str = "DMY"  # how numeric dd/mm/yyyy text is read
+    # GARBLED_TEXT thresholds. Fixed in advance, never tuned on results.
+    garbled_max_junk_ratio: float = 0.05
+    garbled_min_recognized_ratio: float = 0.50
 
 
 DEFAULT_POLICY = Policy()
@@ -113,3 +117,24 @@ def review_reasons(defects: list[str], policy: Policy = DEFAULT_POLICY) -> list[
 
 def expected_review(defects: list[str], policy: Policy = DEFAULT_POLICY) -> bool:
     return len(review_reasons(defects, policy)) > 0
+
+
+_NUMERIC_DATE = re.compile(r"^\s*(\d{1,2})([/.-])(\d{1,2})\2(\d{4})\s*$")
+def is_ambiguous_date_text(raw: str) -> bool:
+    """True when printed numeric day/month text can be read two ways.
+    03/04/2026 is ambiguous (3 April or 4 March). 03/03/2026 is not (same date
+    either way) and 25/03/2026 is not (only one valid reading). ISO and
+    month-name dates are never ambiguous. Shared by extractor and validator.
+    """
+    m = _NUMERIC_DATE.match(raw or "")
+    if not m:
+        return False
+    a, b = int(m.group(1)), int(m.group(3))
+    return a <= 12 and b <= 12 and a != b
+# Order in which validate() reports its checks (one entry per code in SEVERITY).
+CHECK_ORDER: tuple[str, ...] = (
+    "TOTAL_MISMATCH", "SUBTOTAL_MISMATCH", "DUE_BEFORE_INVOICE", "NO_LINE_ITEMS",
+    "INVALID_INVOICE_ID", "DUPLICATE_INVOICE", "DUPLICATE_ID_CONFLICT",
+    "AMBIGUOUS_DATE", "FUTURE_INVOICE_DATE", "NEGATIVE_AMOUNT_ON_INVOICE",
+    "CREDIT_NOTE_SIGN_MISMATCH", "MISSING_FIELD", "GARBLED_TEXT", "LOW_CONFIDENCE",
+)
