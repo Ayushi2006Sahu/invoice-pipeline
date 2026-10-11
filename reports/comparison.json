@@ -1,0 +1,412 @@
+{
+  "inputs": [
+    {
+      "role": "dev",
+      "file": "reports\\eval_sample_regex.json",
+      "run_id": 1,
+      "extractor": "regex",
+      "dataset": "sample",
+      "started_at": "2026-10-10T12:16:40.465172+00:00"
+    },
+    {
+      "role": "heldout",
+      "file": "reports\\eval_heldout_regex.json",
+      "run_id": 1,
+      "extractor": "regex",
+      "dataset": "heldout",
+      "started_at": "2026-10-10T16:54:44.070848+00:00"
+    },
+    {
+      "role": "mock",
+      "file": "reports\\eval_sample_llm-mock.json",
+      "run_id": 1,
+      "extractor": "llm-mock",
+      "dataset": "sample",
+      "started_at": "2026-10-10T18:14:05.531435+00:00"
+    },
+    {
+      "role": "wrong_vendor",
+      "file": "reports\\eval_sample_llm-mock-wrong_vendor.json",
+      "run_id": 1,
+      "extractor": "llm-mock-wrong_vendor",
+      "dataset": "sample",
+      "started_at": "2026-10-10T18:35:15.763864+00:00"
+    },
+    {
+      "role": "wrong_total",
+      "file": "reports\\eval_sample_llm-mock-wrong_total.json",
+      "run_id": 1,
+      "extractor": "llm-mock-wrong_total",
+      "dataset": "sample",
+      "started_at": "2026-10-10T18:35:27.630090+00:00"
+    }
+  ],
+  "integrity": {
+    "dev": [],
+    "heldout": [],
+    "mock": [],
+    "wrong_vendor": [],
+    "wrong_total": []
+  },
+  "runs": {
+    "dev": {
+      "run_id": 1,
+      "extractor": "regex",
+      "documents": 100,
+      "processed": 100,
+      "failed": 0,
+      "auto_approved": 51,
+      "needs_review": 49
+    },
+    "heldout": {
+      "run_id": 1,
+      "extractor": "regex",
+      "documents": 100,
+      "processed": 100,
+      "failed": 0,
+      "auto_approved": 0,
+      "needs_review": 100
+    },
+    "mock": {
+      "run_id": 1,
+      "extractor": "llm-mock",
+      "documents": 100,
+      "processed": 100,
+      "failed": 0,
+      "auto_approved": 51,
+      "needs_review": 49
+    }
+  },
+  "metrics": {
+    "dev": {
+      "Extraction: exact-match documents (readable only)": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "Auto-approved: every extracted field correct": {
+        "n": 51,
+        "d": 51,
+        "rate": 1.0
+      },
+      "Auto-approved: ground truth defect-free": {
+        "n": 51,
+        "d": 51,
+        "rate": 1.0
+      },
+      "Bad auto-approvals (auto-approved but wrong or defective)": {
+        "n": 0,
+        "d": 51,
+        "rate": 0.0
+      },
+      "Review recall (expected_review=1 sent to review)": {
+        "n": 49,
+        "d": 49,
+        "rate": 1.0
+      },
+      "False review rate (expected_review=0 sent to review)": {
+        "n": 0,
+        "d": 51,
+        "rate": 0.0
+      },
+      "Error catch rate (docs with a wrong/missing field sent to review)": {
+        "n": 6,
+        "d": 6,
+        "rate": 1.0
+      },
+      "Review rate (of processed)": {
+        "n": 49,
+        "d": 100,
+        "rate": 0.49
+      }
+    },
+    "heldout": {
+      "Extraction: exact-match documents (readable only)": {
+        "n": 0,
+        "d": 94,
+        "rate": 0.0
+      },
+      "Auto-approved: every extracted field correct": {
+        "n": 0,
+        "d": 0,
+        "rate": null
+      },
+      "Auto-approved: ground truth defect-free": {
+        "n": 0,
+        "d": 0,
+        "rate": null
+      },
+      "Bad auto-approvals (auto-approved but wrong or defective)": {
+        "n": 0,
+        "d": 0,
+        "rate": null
+      },
+      "Review recall (expected_review=1 sent to review)": {
+        "n": 49,
+        "d": 49,
+        "rate": 1.0
+      },
+      "False review rate (expected_review=0 sent to review)": {
+        "n": 51,
+        "d": 51,
+        "rate": 1.0
+      },
+      "Error catch rate (docs with a wrong/missing field sent to review)": {
+        "n": 100,
+        "d": 100,
+        "rate": 1.0
+      },
+      "Review rate (of processed)": {
+        "n": 100,
+        "d": 100,
+        "rate": 1.0
+      }
+    },
+    "mock": {
+      "Extraction: exact-match documents (readable only)": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "Auto-approved: every extracted field correct": {
+        "n": 51,
+        "d": 51,
+        "rate": 1.0
+      },
+      "Auto-approved: ground truth defect-free": {
+        "n": 51,
+        "d": 51,
+        "rate": 1.0
+      },
+      "Bad auto-approvals (auto-approved but wrong or defective)": {
+        "n": 0,
+        "d": 51,
+        "rate": 0.0
+      },
+      "Review recall (expected_review=1 sent to review)": {
+        "n": 49,
+        "d": 49,
+        "rate": 1.0
+      },
+      "False review rate (expected_review=0 sent to review)": {
+        "n": 0,
+        "d": 51,
+        "rate": 0.0
+      },
+      "Error catch rate (docs with a wrong/missing field sent to review)": {
+        "n": 6,
+        "d": 6,
+        "rate": 1.0
+      },
+      "Review rate (of processed)": {
+        "n": 49,
+        "d": 100,
+        "rate": 0.49
+      }
+    }
+  },
+  "fields": [
+    {
+      "field": "document_type",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "vendor",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "invoice_no",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 2,
+        "missing": 92,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "invoice_date",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 1,
+        "missing": 93,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "due_date",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 5,
+        "missing": 89,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "currency",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "subtotal_minor",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "discount_minor",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "tax_minor",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 0,
+        "missing": 94,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "total_minor",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0
+      }
+    },
+    {
+      "field": "line_items",
+      "dev": {
+        "n": 94,
+        "d": 94,
+        "rate": 1.0
+      },
+      "heldout": {
+        "correct": 94,
+        "missing": 0,
+        "wrong": 0
+      }
+    }
+  ],
+  "finding": {
+    "facts": [
+      "Exact-match documents: 0.0% (0/94).",
+      "Fields correct in every readable document: document_type, currency, total_minor, line_items.",
+      "Fields with missing values: vendor (94 missing), invoice_no (92 missing), invoice_date (93 missing), due_date (89 missing), subtotal_minor (94 missing), discount_minor (94 missing), tax_minor (94 missing).",
+      "Wrong (non-missing) values: 0 field cell(s).",
+      "Sent to review: 100.0% (100/100). Auto-approved: 0. Bad auto-approvals: 0."
+    ],
+    "reading": [
+      "It produced no wrong values here, only missing ones; missing values are what the MISSING_FIELD check sends to review.",
+      "Every document went to review. That is safe but not useful: a human would have to redo all of them, and the error catch rate is trivially high."
+    ]
+  },
+  "faults": {
+    "wrong_vendor": {
+      "field": "vendor",
+      "wrong": 94,
+      "undetected": 51,
+      "caught": 43,
+      "auto_approved": 51,
+      "top_failed_checks": [
+        "LOW_CONFIDENCE (9)",
+        "MISSING_FIELD (9)",
+        "AMBIGUOUS_DATE (5)"
+      ],
+      "field_accuracy": {
+        "n": 0,
+        "d": 94,
+        "rate": 0.0
+      }
+    },
+    "wrong_total": {
+      "field": "total_minor",
+      "wrong": 94,
+      "undetected": 0,
+      "caught": 94,
+      "auto_approved": 0,
+      "top_failed_checks": [
+        "TOTAL_MISMATCH (94)",
+        "LOW_CONFIDENCE (9)",
+        "MISSING_FIELD (9)"
+      ],
+      "field_accuracy": {
+        "n": 0,
+        "d": 94,
+        "rate": 0.0
+      }
+    }
+  },
+  "limitations": [
+    "The data is synthetic. Real invoices will behave worse; nothing here is a real-world accuracy claim.",
+    "The generator and the regex extractor have the same author and share label vocabulary, so regex accuracy on layouts A-D is circular. The held-out layout E is the honest generalisation check.",
+    "Each defect type has only a handful of examples, so every percentage is shown with n/N and strong claims from small samples are not supported.",
+    "Zero false positives on clean documents is a result on this dataset, not a guarantee.",
+    "Two errors that cancel each other (a consistently wrong subtotal and total) cannot be caught by arithmetic validation.",
+    "Confidence is a review signal, not proof of correctness; an extractor can be confidently wrong.",
+    "The scripted LLM client is not a model. No real LLM was evaluated; a real local model client is future work.",
+    "The held-out result comes from one unseen layout and one seed. It shows that the regex label dictionary does not generalise, not how any extractor would do on arbitrary invoices."
+  ]
+}
