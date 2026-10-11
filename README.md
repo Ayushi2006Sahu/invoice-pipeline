@@ -1,4 +1,4 @@
-﻿# Invoice Information Pipeline
+# Invoice Information Pipeline
 Extract fields from synthetic invoices, validate totals and dates, route uncertain or wrong
 extractions to human review, and report accuracy. Python + SQLite. No paid API, no secrets.
 Author: <YOUR NAME>
@@ -16,7 +16,7 @@ Author: <YOUR NAME>
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-$env:PYTHONPATH = "src"
+pip install -e .
 python -m pytest -q
 python -m invoice_pipeline.cli demo
 ```
@@ -113,6 +113,20 @@ $env:PYTHONPATH = "src"
 python -m pytest -q
 ```
 216 tests: rules, generator, dataset, database constraints and rollback, ingest, regex extractor, validators (every check pass/fail/skip, boundaries), router, pipeline (resume, failure isolation), evaluation (hand-built databases, a deliberately bad extractor), LLM extractor failure modes, comparison, demo, dashboard. The full suite takes several minutes because many tests run the pipeline.
+## Assumptions
+- Input is text-based TXT or PDF with a real text layer; there is no OCR.
+- Currency is INR. Numeric dates are read day-first (DMY); a numeric date that can be read two ways is flagged, not guessed.
+- A missing due date is valid (not every invoice has one). Future-dated invoices are a soft warning controlled by a policy setting, not a hard error.
+- "Incremental data": re-running with the same `--run-key` skips documents already processed and creates no duplicate rows; a run without a key is a new run.
+- The as-of date is fixed in `rules.py` so results are reproducible.
+## AI component
+- **Input to the model:** the extracted document text inside a fixed prompt that asks for one JSON object (document type, vendor, invoice number, dates exactly as printed, money as plain decimal strings, line items, null for anything not printed).
+- **Output expected:** strict JSON. Money must be a string with a dot and at most two decimals (floats are rejected); dates are parsed by our code, not the model.
+- **Wrong or unusable output:** invalid or truncated JSON, an empty reply, or a client exception never raises. The result is empty with an `llm_error` signal, so `MISSING_FIELD` fails and the document goes to review. Unparseable single values become missing, not guessed.
+- **Confidence:** the model's own confidence is not trusted. A fixed placeholder is used (0.9 when a value was returned and parsed, 0.0 otherwise); validators are the real check.
+- **Isolation:** only `LLMClient.complete(prompt) -> str` talks to a model. The only client implemented is a scripted mock; a local model such as Ollama is future work.
+## AI tools and external resources
+An AI assistant (Claude) was used to help design and write this project; I reviewed and ran the code and can explain it. Libraries: `pdfplumber` (read PDFs), `reportlab` (write sample PDFs), `Faker` (listed in requirements), `pytest`, `requests`; everything else is the Python standard library (`sqlite3`, `decimal`, `argparse`).
 ## Limitations (read these)
 - The data is synthetic. Real invoices will behave worse. Nothing here is a real-world accuracy claim.
 - **No real LLM was evaluated.** `LLMExtractor` and its client interface are implemented and tested, but the only client is a scripted mock that answers from the ground truth. It verifies plumbing, not model accuracy. A local model client (for example Ollama) is future work; the interface is ready.
