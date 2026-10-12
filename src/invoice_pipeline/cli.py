@@ -129,6 +129,11 @@ def cmd_dashboard(args) -> int:
         return 1
     print(f"dashboard written: {path}")
     return 0
+def cmd_check(args) -> int:
+    from .check import check_file
+    lines, code = check_file(args.file, args.extractor)
+    print("\n".join(lines))
+    return code
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(prog="invoice_pipeline")
     sub = ap.add_subparsers(dest="command", required=True)
@@ -179,6 +184,10 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--run-id", type=int, default=None)
     p.add_argument("--out", default=None)
     p.set_defaults(fn=cmd_dashboard)
+    p = sub.add_parser("check", help="check one invoice file (txt or pdf) and explain the decision")
+    p.add_argument("file")
+    p.add_argument("--extractor", default=None, help="regex (default, or $EXTRACTOR)")
+    p.set_defaults(fn=cmd_check)
     return ap
 def main(argv=None) -> int:
     args = build_parser().parse_args(argv)
