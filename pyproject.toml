@@ -1,0 +1,10 @@
+﻿[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "invoice-pipeline"
+version = "0.1.0"
+description = "Invoice extraction, validation and review-routing pipeline"
+requires-python = ">=3.10"
+[tool.setuptools.packages.find]
+where = ["src"]
