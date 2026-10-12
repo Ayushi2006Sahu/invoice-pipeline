@@ -20,6 +20,8 @@ pip install -e .
 python -m pytest -q
 python -m invoice_pipeline.cli demo
 ```
+If `pip install -e .` fails on your machine (for example a sandboxed Windows setup), skip it and run `$env:PYTHONPATH = "src"` (PowerShell) or `export PYTHONPATH=src` (bash) in each new terminal; everything else works the same.
+
 `demo` runs everything in a temporary folder with freshly generated data (1-3 minutes) and
 touches nothing else. Add `--color` for coloured status tags, `--out reports` to keep the
 generated reports, `--verbose` to list every review-queue document.
