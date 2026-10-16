@@ -114,7 +114,7 @@ All numbers below come from `reports/comparison.md` (generated, not typed in). T
 $env:PYTHONPATH = "src"
 python -m pytest -q
 ```
-216 tests: rules, generator, dataset, database constraints and rollback, ingest, regex extractor, validators (every check pass/fail/skip, boundaries), router, pipeline (resume, failure isolation), evaluation (hand-built databases, a deliberately bad extractor), LLM extractor failure modes, comparison, demo, dashboard. The full suite takes several minutes because many tests run the pipeline.
+221 tests: rules, generator, dataset, database constraints and rollback, ingest, regex extractor, validators (every check pass/fail/skip, boundaries), router, pipeline (resume, failure isolation), evaluation (hand-built databases, a deliberately bad extractor), LLM extractor failure modes, comparison, demo, dashboard. The full suite takes several minutes because many tests run the pipeline.
 ## Assumptions
 - Input is text-based TXT or PDF with a real text layer; there is no OCR.
 - Currency is INR. Numeric dates are read day-first (DMY); a numeric date that can be read two ways is flagged, not guessed.
